@@ -1,0 +1,38 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "df = pd.read_csv('batch.csv')\n# List of column headers to be dropped\ncolumns_to_drop = ['Operator','Flight','Registration','cn','Fatalities','Ground']  # Replace with your column names\n# Drop the desired columns by header value\ndf = df.drop(columns=columns_to_drop, axis=1, errors='ignore')\n# Save changes to the CSV file\ndf.to_csv('file.csv', index=False)",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "columns_to_drop",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "columns_to_drop = ['Operator','Flight','Registration','cn','Fatalities','Ground']  # Replace with your column names\n# Drop the desired columns by header value\ndf = df.drop(columns=columns_to_drop, axis=1, errors='ignore')\n# Save changes to the CSV file\ndf.to_csv('file.csv', index=False)",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "df = df.drop(columns=columns_to_drop, axis=1, errors='ignore')\n# Save changes to the CSV file\ndf.to_csv('file.csv', index=False)",
+        "detail": "a",
+        "documentation": {}
+    }
+]

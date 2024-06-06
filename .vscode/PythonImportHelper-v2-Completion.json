@@ -1,0 +1,1053 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "functions",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "from_json",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_timestamp",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "hour",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "FloatType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "FloatType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "FloatType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "FloatType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "pymysql",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymysql",
+        "description": "pymysql",
+        "detail": "pymysql",
+        "documentation": {}
+    },
+    {
+        "label": "KafkaProducer",
+        "importPath": "kafka",
+        "description": "kafka",
+        "isExtraImport": true,
+        "detail": "kafka",
+        "documentation": {}
+    },
+    {
+        "label": "Observer",
+        "importPath": "watchdog.observers",
+        "description": "watchdog.observers",
+        "isExtraImport": true,
+        "detail": "watchdog.observers",
+        "documentation": {}
+    },
+    {
+        "label": "FileSystemEventHandler",
+        "importPath": "watchdog.events",
+        "description": "watchdog.events",
+        "isExtraImport": true,
+        "detail": "watchdog.events",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "test",
+        "description": "test",
+        "isExtraImport": true,
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "stopwords",
+        "importPath": "nltk.corpus",
+        "description": "nltk.corpus",
+        "isExtraImport": true,
+        "detail": "nltk.corpus",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "split_csv",
+        "kind": 2,
+        "importPath": "dataset.a",
+        "description": "dataset.a",
+        "peekOfCode": "def split_csv(input_file, num_records_per_chunk):\n    df = pd.read_csv(input_file)\n    num_rows = len(df)\n    num_chunks = -(-num_rows // num_records_per_chunk)  # Ceiling division to get the number of chunks\n    for i, chunk in enumerate(np.array_split(df, num_chunks)):\n        chunk.to_csv(f\"new_chunk_{i + 1}.csv\", index=False)\n# Replace 'input_file.csv' with your CSV file and specify the number of records per chunk\nsplit_csv('file.csv', 5)  # Change '5' to the desired number of records per file",
+        "detail": "dataset.a",
+        "documentation": {}
+    },
+    {
+        "label": "insert_into_phpmyadmin",
+        "kind": 2,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "def insert_into_phpmyadmin(row, analysis_type):\n    host = \"localhost\"\n    port = 3306\n    database = \"big_data\"\n    username = \"root\"\n    password = \"\"\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()\n    # Extract the required columns from the row\n    if analysis_type == \"crashes_analysis\":",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "spark = SparkSession.builder.appName(\"KafkaConsumer\").getOrCreate()\nspark.sparkContext.setLogLevel('WARN')\n# Define the schema and read data from Kafka\nschema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Route\", StringType())\n    .add(\"Type\", StringType())\n    .add(\"Aboard\", FloatType())",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "schema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Route\", StringType())\n    .add(\"Type\", StringType())\n    .add(\"Aboard\", FloatType())\n)\ndf = spark.readStream \\\n    .format(\"kafka\") \\",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "df = spark.readStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"subscribe\", \"big\") \\\n    .load() \\\n    .select(from_json(col(\"value\").cast(\"string\"), schema).alias(\"data\"))\nmy_df = df.select(\"data.*\")\n# Calculate crash counts per location\ncrashes_analysis = my_df.groupBy(\"Location\").agg(count(\"*\").alias(\"crashes_count\"))\n# Calculate the maximum number of people aboard per location",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "my_df",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "my_df = df.select(\"data.*\")\n# Calculate crash counts per location\ncrashes_analysis = my_df.groupBy(\"Location\").agg(count(\"*\").alias(\"crashes_count\"))\n# Calculate the maximum number of people aboard per location\nmax_aboard = my_df.groupBy(\"Location\").agg(max(\"Aboard\").alias(\"max_aboard\"))\n# Start streaming query and write crash counts to MySQL\nquery_crashes_analysis = crashes_analysis.writeStream \\\n    .outputMode(\"complete\") \\\n    .format(\"console\") \\\n    .foreach(lambda row: insert_into_phpmyadmin(row, \"crashes_analysis\")) \\",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "crashes_analysis",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "crashes_analysis = my_df.groupBy(\"Location\").agg(count(\"*\").alias(\"crashes_count\"))\n# Calculate the maximum number of people aboard per location\nmax_aboard = my_df.groupBy(\"Location\").agg(max(\"Aboard\").alias(\"max_aboard\"))\n# Start streaming query and write crash counts to MySQL\nquery_crashes_analysis = crashes_analysis.writeStream \\\n    .outputMode(\"complete\") \\\n    .format(\"console\") \\\n    .foreach(lambda row: insert_into_phpmyadmin(row, \"crashes_analysis\")) \\\n    .start()\n# Start streaming query and write max number of people aboard to MySQL",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "max_aboard",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "max_aboard = my_df.groupBy(\"Location\").agg(max(\"Aboard\").alias(\"max_aboard\"))\n# Start streaming query and write crash counts to MySQL\nquery_crashes_analysis = crashes_analysis.writeStream \\\n    .outputMode(\"complete\") \\\n    .format(\"console\") \\\n    .foreach(lambda row: insert_into_phpmyadmin(row, \"crashes_analysis\")) \\\n    .start()\n# Start streaming query and write max number of people aboard to MySQL\nquery_max_aboard = max_aboard.writeStream \\\n    .outputMode(\"complete\") \\",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "query_crashes_analysis",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "query_crashes_analysis = crashes_analysis.writeStream \\\n    .outputMode(\"complete\") \\\n    .format(\"console\") \\\n    .foreach(lambda row: insert_into_phpmyadmin(row, \"crashes_analysis\")) \\\n    .start()\n# Start streaming query and write max number of people aboard to MySQL\nquery_max_aboard = max_aboard.writeStream \\\n    .outputMode(\"complete\") \\\n    .format(\"console\") \\\n    .foreach(lambda row: insert_into_phpmyadmin(row, \"max_aboard\")) \\",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "query_max_aboard",
+        "kind": 5,
+        "importPath": "a",
+        "description": "a",
+        "peekOfCode": "query_max_aboard = max_aboard.writeStream \\\n    .outputMode(\"complete\") \\\n    .format(\"console\") \\\n    .foreach(lambda row: insert_into_phpmyadmin(row, \"max_aboard\")) \\\n    .start()\nquery_crashes_analysis.awaitTermination()\nquery_max_aboard.awaitTermination()",
+        "detail": "a",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "b",
+        "description": "b",
+        "peekOfCode": "spark = SparkSession.builder \\\n    .appName(\"KafkaConsumer\") \\\n    .getOrCreate()\nspark.sparkContext.setLogLevel('WARN')\n# Define the schema for your DataFrame\nschema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Route\", StringType())",
+        "detail": "b",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "b",
+        "description": "b",
+        "peekOfCode": "schema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Route\", StringType())\n    .add(\"Type\", StringType())\n    .add(\"Aboard\", FloatType())\n    )\n# Read data from a directory as a streaming DataFrame\nstreaming_df = spark.readStream \\",
+        "detail": "b",
+        "documentation": {}
+    },
+    {
+        "label": "streaming_df",
+        "kind": 5,
+        "importPath": "b",
+        "description": "b",
+        "peekOfCode": "streaming_df = spark.readStream \\\n    .format(\"csv\") \\\n    .schema(schema) \\\n    .option(\"path\", \"D:/studying section/projects/Big Data/project14/data\") \\\n    .load() \\\n# Select specific columns from \"data\"\n#df = streaming_df.select(\"name\", \"age\")\n#df = streaming_df.select(col(\"name\").alias(\"key\"), to_json(col(\"age\")).alias(\"value\"))\ndf = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result",
+        "detail": "b",
+        "documentation": {}
+    },
+    {
+        "label": "#df",
+        "kind": 5,
+        "importPath": "b",
+        "description": "b",
+        "peekOfCode": "#df = streaming_df.select(\"name\", \"age\")\n#df = streaming_df.select(col(\"name\").alias(\"key\"), to_json(col(\"age\")).alias(\"value\"))\ndf = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result\nquery = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"header\",\"false\")\\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\",
+        "detail": "b",
+        "documentation": {}
+    },
+    {
+        "label": "#df",
+        "kind": 5,
+        "importPath": "b",
+        "description": "b",
+        "peekOfCode": "#df = streaming_df.select(col(\"name\").alias(\"key\"), to_json(col(\"age\")).alias(\"value\"))\ndf = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result\nquery = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"header\",\"false\")\\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\\n    .option(\"checkpointLocation\", \"null\") \\",
+        "detail": "b",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "b",
+        "description": "b",
+        "peekOfCode": "df = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result\nquery = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"header\",\"false\")\\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\\n    .option(\"checkpointLocation\", \"null\") \\\n    .start()",
+        "detail": "b",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 5,
+        "importPath": "b",
+        "description": "b",
+        "peekOfCode": "query = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"header\",\"false\")\\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\\n    .option(\"checkpointLocation\", \"null\") \\\n    .start()\n# Wait for the query to finish\nquery.awaitTermination()",
+        "detail": "b",
+        "documentation": {}
+    },
+    {
+        "label": "FileEventHandler",
+        "kind": 6,
+        "importPath": "kafka-producer",
+        "description": "kafka-producer",
+        "peekOfCode": "class FileEventHandler(FileSystemEventHandler):\n    def on_created(self, event):\n        # Read the newly created file and send it to Kafka topic\n        with open(event.src_path, 'r') as file:\n            lines = file.readlines()\n            for line in lines:\n                producer.send(topic, value=line.encode())\n# Watchdog observer to monitor the directory for file events\nobserver = Observer()\nevent_handler = FileEventHandler()",
+        "detail": "kafka-producer",
+        "documentation": {}
+    },
+    {
+        "label": "bootstrap_servers",
+        "kind": 5,
+        "importPath": "kafka-producer",
+        "description": "kafka-producer",
+        "peekOfCode": "bootstrap_servers = 'localhost:9092'\ntopic = 'big'\n# Create Kafka producer\nproducer = KafkaProducer(bootstrap_servers=bootstrap_servers)\n# Watchdog event handler to handle file events\nclass FileEventHandler(FileSystemEventHandler):\n    def on_created(self, event):\n        # Read the newly created file and send it to Kafka topic\n        with open(event.src_path, 'r') as file:\n            lines = file.readlines()",
+        "detail": "kafka-producer",
+        "documentation": {}
+    },
+    {
+        "label": "topic",
+        "kind": 5,
+        "importPath": "kafka-producer",
+        "description": "kafka-producer",
+        "peekOfCode": "topic = 'big'\n# Create Kafka producer\nproducer = KafkaProducer(bootstrap_servers=bootstrap_servers)\n# Watchdog event handler to handle file events\nclass FileEventHandler(FileSystemEventHandler):\n    def on_created(self, event):\n        # Read the newly created file and send it to Kafka topic\n        with open(event.src_path, 'r') as file:\n            lines = file.readlines()\n            for line in lines:",
+        "detail": "kafka-producer",
+        "documentation": {}
+    },
+    {
+        "label": "producer",
+        "kind": 5,
+        "importPath": "kafka-producer",
+        "description": "kafka-producer",
+        "peekOfCode": "producer = KafkaProducer(bootstrap_servers=bootstrap_servers)\n# Watchdog event handler to handle file events\nclass FileEventHandler(FileSystemEventHandler):\n    def on_created(self, event):\n        # Read the newly created file and send it to Kafka topic\n        with open(event.src_path, 'r') as file:\n            lines = file.readlines()\n            for line in lines:\n                producer.send(topic, value=line.encode())\n# Watchdog observer to monitor the directory for file events",
+        "detail": "kafka-producer",
+        "documentation": {}
+    },
+    {
+        "label": "observer",
+        "kind": 5,
+        "importPath": "kafka-producer",
+        "description": "kafka-producer",
+        "peekOfCode": "observer = Observer()\nevent_handler = FileEventHandler()\ndirectory_to_watch = './data/'  # Replace with your directory path\nobserver.schedule(event_handler, directory_to_watch)\nobserver.start()\ntry:\n    while True:\n        pass  # Keep running until interrupted\nexcept KeyboardInterrupt:\n    observer.stop()",
+        "detail": "kafka-producer",
+        "documentation": {}
+    },
+    {
+        "label": "event_handler",
+        "kind": 5,
+        "importPath": "kafka-producer",
+        "description": "kafka-producer",
+        "peekOfCode": "event_handler = FileEventHandler()\ndirectory_to_watch = './data/'  # Replace with your directory path\nobserver.schedule(event_handler, directory_to_watch)\nobserver.start()\ntry:\n    while True:\n        pass  # Keep running until interrupted\nexcept KeyboardInterrupt:\n    observer.stop()\nobserver.join()",
+        "detail": "kafka-producer",
+        "documentation": {}
+    },
+    {
+        "label": "directory_to_watch",
+        "kind": 5,
+        "importPath": "kafka-producer",
+        "description": "kafka-producer",
+        "peekOfCode": "directory_to_watch = './data/'  # Replace with your directory path\nobserver.schedule(event_handler, directory_to_watch)\nobserver.start()\ntry:\n    while True:\n        pass  # Keep running until interrupted\nexcept KeyboardInterrupt:\n    observer.stop()\nobserver.join()",
+        "detail": "kafka-producer",
+        "documentation": {}
+    },
+    {
+        "label": "insert_into_phpmyadmin",
+        "kind": 2,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "def insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()\n    sql_query = f\"INSERT INTO plane(Date, Time, Location, Operator, Flight,Route, Type, Registration, cn, Aboard, Fatalities, Ground)VALUES ('{row.Date}', '{row.Time}', '{row.Location}', '{row.Operator}', '{row.Flight}', '{row.Route}', '{row.Type}', '{row.Registration}', '{row.cn}', '{row.Aboard}', '{row.Fatalities}' , '{row.Ground}')\"\n    # Execute the SQL query\n    cursor.execute(sql_query)\n    # Commit the changes\n    conn.commit()\n    conn.close()",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "#conn",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "#conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n#cursor = conn.cursor()\nhost = \"localhost\"\nport = 3306\ndatabase = \"big_data\"\nusername = \"root\"\npassword = \"\"\ndef insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "#cursor",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "#cursor = conn.cursor()\nhost = \"localhost\"\nport = 3306\ndatabase = \"big_data\"\nusername = \"root\"\npassword = \"\"\ndef insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "host",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "host = \"localhost\"\nport = 3306\ndatabase = \"big_data\"\nusername = \"root\"\npassword = \"\"\ndef insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()\n    sql_query = f\"INSERT INTO plane(Date, Time, Location, Operator, Flight,Route, Type, Registration, cn, Aboard, Fatalities, Ground)VALUES ('{row.Date}', '{row.Time}', '{row.Location}', '{row.Operator}', '{row.Flight}', '{row.Route}', '{row.Type}', '{row.Registration}', '{row.cn}', '{row.Aboard}', '{row.Fatalities}' , '{row.Ground}')\"",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "port",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "port = 3306\ndatabase = \"big_data\"\nusername = \"root\"\npassword = \"\"\ndef insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()\n    sql_query = f\"INSERT INTO plane(Date, Time, Location, Operator, Flight,Route, Type, Registration, cn, Aboard, Fatalities, Ground)VALUES ('{row.Date}', '{row.Time}', '{row.Location}', '{row.Operator}', '{row.Flight}', '{row.Route}', '{row.Type}', '{row.Registration}', '{row.cn}', '{row.Aboard}', '{row.Fatalities}' , '{row.Ground}')\"\n    # Execute the SQL query",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "database = \"big_data\"\nusername = \"root\"\npassword = \"\"\ndef insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()\n    sql_query = f\"INSERT INTO plane(Date, Time, Location, Operator, Flight,Route, Type, Registration, cn, Aboard, Fatalities, Ground)VALUES ('{row.Date}', '{row.Time}', '{row.Location}', '{row.Operator}', '{row.Flight}', '{row.Route}', '{row.Type}', '{row.Registration}', '{row.cn}', '{row.Aboard}', '{row.Fatalities}' , '{row.Ground}')\"\n    # Execute the SQL query\n    cursor.execute(sql_query)",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "username",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "username = \"root\"\npassword = \"\"\ndef insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()\n    sql_query = f\"INSERT INTO plane(Date, Time, Location, Operator, Flight,Route, Type, Registration, cn, Aboard, Fatalities, Ground)VALUES ('{row.Date}', '{row.Time}', '{row.Location}', '{row.Operator}', '{row.Flight}', '{row.Route}', '{row.Type}', '{row.Registration}', '{row.cn}', '{row.Aboard}', '{row.Fatalities}' , '{row.Ground}')\"\n    # Execute the SQL query\n    cursor.execute(sql_query)\n    # Commit the changes",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "password = \"\"\ndef insert_into_phpmyadmin(row):\n    # Define the connection details for your PHPMyAdmin database\n    conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\n    cursor = conn.cursor()\n    sql_query = f\"INSERT INTO plane(Date, Time, Location, Operator, Flight,Route, Type, Registration, cn, Aboard, Fatalities, Ground)VALUES ('{row.Date}', '{row.Time}', '{row.Location}', '{row.Operator}', '{row.Flight}', '{row.Route}', '{row.Type}', '{row.Registration}', '{row.cn}', '{row.Aboard}', '{row.Fatalities}' , '{row.Ground}')\"\n    # Execute the SQL query\n    cursor.execute(sql_query)\n    # Commit the changes\n    conn.commit()",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "spark = SparkSession.builder \\\n    .appName(\"KafkaConsumer\") \\\n    .getOrCreate()\nspark.sparkContext.setLogLevel('WARN')\n# Define the schema for your DataFrame\nschema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Operator\", StringType())",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "schema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Operator\", StringType())\n    .add(\"Flight\", StringType())\n    .add(\"Route\", StringType())\n    .add(\"Type\", StringType())\n    .add(\"Registration\", StringType())\n    .add(\"cn\", StringType()) ",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "df = spark.readStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"subscribe\", \"big\") \\\n    .load() \\\n    .select(from_json(col(\"value\").cast(\"string\"), schema).alias(\"data\")) \\\n# Select specific columns from \"data\"\ndf = df.select(\"data.*\")\nconn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\ncursor = conn.cursor()",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "df = df.select(\"data.*\")\nconn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\ncursor = conn.cursor()\nsql_query2 = f\"INSERT INTO most_location(Location) VALUES('{most_common_location_name}')\"\nsql = \"INSERT INTO locations (location, number) VALUES (%s, %s)\"\n# Insert data into MySQL\ntry:\n    cursor.executemany(sql, data_tuples)\n    conn.commit()\n    print(\"Data inserted successfully!\")",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "conn = pymysql.connect(host=host, port=port, user=username, passwd=password, db=database)\ncursor = conn.cursor()\nsql_query2 = f\"INSERT INTO most_location(Location) VALUES('{most_common_location_name}')\"\nsql = \"INSERT INTO locations (location, number) VALUES (%s, %s)\"\n# Insert data into MySQL\ntry:\n    cursor.executemany(sql, data_tuples)\n    conn.commit()\n    print(\"Data inserted successfully!\")\nexcept Exception as e:",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "cursor = conn.cursor()\nsql_query2 = f\"INSERT INTO most_location(Location) VALUES('{most_common_location_name}')\"\nsql = \"INSERT INTO locations (location, number) VALUES (%s, %s)\"\n# Insert data into MySQL\ntry:\n    cursor.executemany(sql, data_tuples)\n    conn.commit()\n    print(\"Data inserted successfully!\")\nexcept Exception as e:\n    conn.rollback()",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "sql_query2",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "sql_query2 = f\"INSERT INTO most_location(Location) VALUES('{most_common_location_name}')\"\nsql = \"INSERT INTO locations (location, number) VALUES (%s, %s)\"\n# Insert data into MySQL\ntry:\n    cursor.executemany(sql, data_tuples)\n    conn.commit()\n    print(\"Data inserted successfully!\")\nexcept Exception as e:\n    conn.rollback()\n    print(f\"Error: {str(e)}\")",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "sql",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "sql = \"INSERT INTO locations (location, number) VALUES (%s, %s)\"\n# Insert data into MySQL\ntry:\n    cursor.executemany(sql, data_tuples)\n    conn.commit()\n    print(\"Data inserted successfully!\")\nexcept Exception as e:\n    conn.rollback()\n    print(f\"Error: {str(e)}\")\nsql_query3 = f\"INSERT INTO worst_type(type) VALUES('{most_common_type['Type']}')\"",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "sql_query3",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "sql_query3 = f\"INSERT INTO worst_type(type) VALUES('{most_common_type['Type']}')\"\ncursor.execute(sql_query2)\ncursor.execute(sql_query3)\nfor index, row in pandas_df.iterrows():\n    airplane_type = row['Type']\n    accident_count = row['count']\n    sql_query_4 = f\"INSERT INTO accidents (type, crashes) VALUES ('{airplane_type}', {accident_count})\"\n    cursor.execute(sql_query_4)\nfor row in crash_frequency.collect():\n    try:",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "sql_query6",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "sql_query6 = f\"INSERT INTO average_crashes_time (average_hr,average_min) VALUES('{average_hours}','{average_minutes}')\"\ncursor.execute(sql_query6)\nfor model, issue in model_word_dict.items():\n    model_name = model\n    recurring_issue = issue[0][0] if issue else None  # Get the most recurring issue\n    # Prepare the SQL query\n    sql_query = f\"INSERT INTO model_issues(model, issue) VALUES ('{model_name}', '{recurring_issue}')\"\n    # Execute the SQL query\n    cursor.execute(sql_query)\nconn.commit()",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 5,
+        "importPath": "spark-structure-streaming",
+        "description": "spark-structure-streaming",
+        "peekOfCode": "query = df.writeStream \\\n    .outputMode(\"append\") \\\n    .format(\"console\") \\\n    .foreach(insert_into_phpmyadmin) \\\n    .start()\n# Wait for the query to finish\nquery.awaitTermination()",
+        "detail": "spark-structure-streaming",
+        "documentation": {}
+    },
+    {
+        "label": "process_summary",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def process_summary(summary):\n    tokens = word_tokenize(summary.lower())\n    filtered_tokens = [word for word in tokens if word.isalnum() and word not in stop_words]\n    return filtered_tokens\n# Dictionary to store words associated with each model\nmodel_word_dict = {}\niteration =0;\n# Process each unique aircraft model\nfor model_row in unique_models.collect():\n    iteration += 1",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "spark = SparkSession.builder.appName(\"YourAppName\").getOrCreate()\n# Specify the path to your CSV file\ncsv_file_path = \"final_output.csv\"\n# Read the CSV file into a DataFrame\ndf = spark.read.csv(csv_file_path, header=True, inferSchema=True)\ncrashes_analysis = df.groupBy(\"Location\").agg(F.count(\"*\").alias(\"crashes_count\"))\n# Select the required columns",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "csv_file_path",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "csv_file_path = \"final_output.csv\"\n# Read the CSV file into a DataFrame\ndf = spark.read.csv(csv_file_path, header=True, inferSchema=True)\ncrashes_analysis = df.groupBy(\"Location\").agg(F.count(\"*\").alias(\"crashes_count\"))\n# Select the required columns\ncrashes_analysis = crashes_analysis.select(\"Location\", \"crashes_count\")\ncrashes_analysis.show()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "df = spark.read.csv(csv_file_path, header=True, inferSchema=True)\ncrashes_analysis = df.groupBy(\"Location\").agg(F.count(\"*\").alias(\"crashes_count\"))\n# Select the required columns\ncrashes_analysis = crashes_analysis.select(\"Location\", \"crashes_count\")\ncrashes_analysis.show()\n# Most location has accidents\nlocation_crash_counts = df.groupBy(\"Location\").count()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "crashes_analysis",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "crashes_analysis = df.groupBy(\"Location\").agg(F.count(\"*\").alias(\"crashes_count\"))\n# Select the required columns\ncrashes_analysis = crashes_analysis.select(\"Location\", \"crashes_count\")\ncrashes_analysis.show()\n# Most location has accidents\nlocation_crash_counts = df.groupBy(\"Location\").count()\n# Find the location with the maximum number of crashes\nmost_common_location = location_crash_counts.orderBy(F.col(\"count\").desc()).first()\n# Extract the most common location and count of crashes\nmost_common_location_name = most_common_location[\"Location\"]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "crashes_analysis",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "crashes_analysis = crashes_analysis.select(\"Location\", \"crashes_count\")\ncrashes_analysis.show()\n# Most location has accidents\nlocation_crash_counts = df.groupBy(\"Location\").count()\n# Find the location with the maximum number of crashes\nmost_common_location = location_crash_counts.orderBy(F.col(\"count\").desc()).first()\n# Extract the most common location and count of crashes\nmost_common_location_name = most_common_location[\"Location\"]\ncount_of_crashes = most_common_location[\"count\"]\n# print(f\"The location with the most crashes is '{most_common_location_name}' with {count_of_crashes} crashes.\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "location_crash_counts",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "location_crash_counts = df.groupBy(\"Location\").count()\n# Find the location with the maximum number of crashes\nmost_common_location = location_crash_counts.orderBy(F.col(\"count\").desc()).first()\n# Extract the most common location and count of crashes\nmost_common_location_name = most_common_location[\"Location\"]\ncount_of_crashes = most_common_location[\"count\"]\n# print(f\"The location with the most crashes is '{most_common_location_name}' with {count_of_crashes} crashes.\")\n# arrange the location has accident in descending order\nlocation_crash_counts = df.groupBy(\"Location\").count().orderBy(F.col(\"count\").desc())",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "most_common_location",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "most_common_location = location_crash_counts.orderBy(F.col(\"count\").desc()).first()\n# Extract the most common location and count of crashes\nmost_common_location_name = most_common_location[\"Location\"]\ncount_of_crashes = most_common_location[\"count\"]\n# print(f\"The location with the most crashes is '{most_common_location_name}' with {count_of_crashes} crashes.\")\n# arrange the location has accident in descending order\nlocation_crash_counts = df.groupBy(\"Location\").count().orderBy(F.col(\"count\").desc())\ndata_to_insert = location_crash_counts.select(\"Location\", \"count\").collect()\ndata_tuples = [(row[\"Location\"], row[\"count\"]) for row in data_to_insert]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "most_common_location_name",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "most_common_location_name = most_common_location[\"Location\"]\ncount_of_crashes = most_common_location[\"count\"]\n# print(f\"The location with the most crashes is '{most_common_location_name}' with {count_of_crashes} crashes.\")\n# arrange the location has accident in descending order\nlocation_crash_counts = df.groupBy(\"Location\").count().orderBy(F.col(\"count\").desc())\ndata_to_insert = location_crash_counts.select(\"Location\", \"count\").collect()\ndata_tuples = [(row[\"Location\"], row[\"count\"]) for row in data_to_insert]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "count_of_crashes",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "count_of_crashes = most_common_location[\"count\"]\n# print(f\"The location with the most crashes is '{most_common_location_name}' with {count_of_crashes} crashes.\")\n# arrange the location has accident in descending order\nlocation_crash_counts = df.groupBy(\"Location\").count().orderBy(F.col(\"count\").desc())\ndata_to_insert = location_crash_counts.select(\"Location\", \"count\").collect()\ndata_tuples = [(row[\"Location\"], row[\"count\"]) for row in data_to_insert]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "location_crash_counts",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "location_crash_counts = df.groupBy(\"Location\").count().orderBy(F.col(\"count\").desc())\ndata_to_insert = location_crash_counts.select(\"Location\", \"count\").collect()\ndata_tuples = [(row[\"Location\"], row[\"count\"]) for row in data_to_insert]\n# Worst airplane type\nmost_common_type = df.groupBy(\"Type\").count().orderBy(col(\"count\").desc()).select(\"Type\").first()\n# print(f\"The most common type of airplane involved in accidents is: {most_common_type['Type']}\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "data_to_insert",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "data_to_insert = location_crash_counts.select(\"Location\", \"count\").collect()\ndata_tuples = [(row[\"Location\"], row[\"count\"]) for row in data_to_insert]\n# Worst airplane type\nmost_common_type = df.groupBy(\"Type\").count().orderBy(col(\"count\").desc()).select(\"Type\").first()\n# print(f\"The most common type of airplane involved in accidents is: {most_common_type['Type']}\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "data_tuples",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "data_tuples = [(row[\"Location\"], row[\"count\"]) for row in data_to_insert]\n# Worst airplane type\nmost_common_type = df.groupBy(\"Type\").count().orderBy(col(\"count\").desc()).select(\"Type\").first()\n# print(f\"The most common type of airplane involved in accidents is: {most_common_type['Type']}\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "most_common_type",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "most_common_type = df.groupBy(\"Type\").count().orderBy(col(\"count\").desc()).select(\"Type\").first()\n# print(f\"The most common type of airplane involved in accidents is: {most_common_type['Type']}\")\n# worst types and number of accidents\nsorted_types = df.groupBy(\"Type\").count().orderBy(col(\"count\").desc())\npandas_df = sorted_types.toPandas()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "sorted_types",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "sorted_types = df.groupBy(\"Type\").count().orderBy(col(\"count\").desc())\npandas_df = sorted_types.toPandas()\n# time when crashes happen \ndf = df.withColumn(\"Timestamp\", to_timestamp(col(\"Time\"), \"HH:mm\"))\n# Filter out rows where the 'Time' is null\ndf = df.filter(col(\"Time\").isNotNull())\n# Group by timestamp and count the occurrences\ncrash_frequency = df.groupBy(\"Time\").count().orderBy(col(\"count\").desc())",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "pandas_df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "pandas_df = sorted_types.toPandas()\n# time when crashes happen \ndf = df.withColumn(\"Timestamp\", to_timestamp(col(\"Time\"), \"HH:mm\"))\n# Filter out rows where the 'Time' is null\ndf = df.filter(col(\"Time\").isNotNull())\n# Group by timestamp and count the occurrences\ncrash_frequency = df.groupBy(\"Time\").count().orderBy(col(\"count\").desc())",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "df = df.withColumn(\"Timestamp\", to_timestamp(col(\"Time\"), \"HH:mm\"))\n# Filter out rows where the 'Time' is null\ndf = df.filter(col(\"Time\").isNotNull())\n# Group by timestamp and count the occurrences\ncrash_frequency = df.groupBy(\"Time\").count().orderBy(col(\"count\").desc())\n# crash_frequency.show()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "df = df.filter(col(\"Time\").isNotNull())\n# Group by timestamp and count the occurrences\ncrash_frequency = df.groupBy(\"Time\").count().orderBy(col(\"count\").desc())\n# crash_frequency.show()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "crash_frequency",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "crash_frequency = df.groupBy(\"Time\").count().orderBy(col(\"count\").desc())\n# crash_frequency.show()\n# average time of crashes ",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "split_col",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "split_col = split(df['Time'], ':')\ndf = df.withColumn('Hour', split_col.getItem(0).cast(\"int\"))\ndf = df.withColumn('Minute', split_col.getItem(1).cast(\"int\"))\ndf = df.withColumn(\"TotalMinutes\", df['Hour'] * 60 + df['Minute'])\naverage_minutes = df.selectExpr(\"avg(TotalMinutes)\").collect()[0][0]\naverage_hours = int(average_minutes // 60)\naverage_minutes = int(average_minutes % 60)\n# get each issue with each model in database\nunique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "df = df.withColumn('Hour', split_col.getItem(0).cast(\"int\"))\ndf = df.withColumn('Minute', split_col.getItem(1).cast(\"int\"))\ndf = df.withColumn(\"TotalMinutes\", df['Hour'] * 60 + df['Minute'])\naverage_minutes = df.selectExpr(\"avg(TotalMinutes)\").collect()[0][0]\naverage_hours = int(average_minutes // 60)\naverage_minutes = int(average_minutes % 60)\n# get each issue with each model in database\nunique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues\nstop_words = set(stopwords.words('english'))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "df = df.withColumn('Minute', split_col.getItem(1).cast(\"int\"))\ndf = df.withColumn(\"TotalMinutes\", df['Hour'] * 60 + df['Minute'])\naverage_minutes = df.selectExpr(\"avg(TotalMinutes)\").collect()[0][0]\naverage_hours = int(average_minutes // 60)\naverage_minutes = int(average_minutes % 60)\n# get each issue with each model in database\nunique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues\nstop_words = set(stopwords.words('english'))\ndef process_summary(summary):",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "df = df.withColumn(\"TotalMinutes\", df['Hour'] * 60 + df['Minute'])\naverage_minutes = df.selectExpr(\"avg(TotalMinutes)\").collect()[0][0]\naverage_hours = int(average_minutes // 60)\naverage_minutes = int(average_minutes % 60)\n# get each issue with each model in database\nunique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues\nstop_words = set(stopwords.words('english'))\ndef process_summary(summary):\n    tokens = word_tokenize(summary.lower())",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "average_minutes",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "average_minutes = df.selectExpr(\"avg(TotalMinutes)\").collect()[0][0]\naverage_hours = int(average_minutes // 60)\naverage_minutes = int(average_minutes % 60)\n# get each issue with each model in database\nunique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues\nstop_words = set(stopwords.words('english'))\ndef process_summary(summary):\n    tokens = word_tokenize(summary.lower())\n    filtered_tokens = [word for word in tokens if word.isalnum() and word not in stop_words]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "average_hours",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "average_hours = int(average_minutes // 60)\naverage_minutes = int(average_minutes % 60)\n# get each issue with each model in database\nunique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues\nstop_words = set(stopwords.words('english'))\ndef process_summary(summary):\n    tokens = word_tokenize(summary.lower())\n    filtered_tokens = [word for word in tokens if word.isalnum() and word not in stop_words]\n    return filtered_tokens",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "average_minutes",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "average_minutes = int(average_minutes % 60)\n# get each issue with each model in database\nunique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues\nstop_words = set(stopwords.words('english'))\ndef process_summary(summary):\n    tokens = word_tokenize(summary.lower())\n    filtered_tokens = [word for word in tokens if word.isalnum() and word not in stop_words]\n    return filtered_tokens\n# Dictionary to store words associated with each model",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "unique_models",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "unique_models = df.select('Type').distinct()\n# Define a function to process summaries and identify recurring issues\nstop_words = set(stopwords.words('english'))\ndef process_summary(summary):\n    tokens = word_tokenize(summary.lower())\n    filtered_tokens = [word for word in tokens if word.isalnum() and word not in stop_words]\n    return filtered_tokens\n# Dictionary to store words associated with each model\nmodel_word_dict = {}\niteration =0;",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "stop_words",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "stop_words = set(stopwords.words('english'))\ndef process_summary(summary):\n    tokens = word_tokenize(summary.lower())\n    filtered_tokens = [word for word in tokens if word.isalnum() and word not in stop_words]\n    return filtered_tokens\n# Dictionary to store words associated with each model\nmodel_word_dict = {}\niteration =0;\n# Process each unique aircraft model\nfor model_row in unique_models.collect():",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "model_word_dict",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "model_word_dict = {}\niteration =0;\n# Process each unique aircraft model\nfor model_row in unique_models.collect():\n    iteration += 1\n    if iteration > 20:\n            break  \n    model = model_row['Type']\n    # Filter the DataFrame for a specific aircraft model\n    model_data = df.filter(col('Type') == model)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "write-to-kafka",
+        "description": "write-to-kafka",
+        "peekOfCode": "spark = SparkSession.builder \\\n    .appName(\"KafkaConsumer\") \\\n    .getOrCreate()\nspark.sparkContext.setLogLevel('WARN')\n# Define the schema for your DataFrame\nschema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Operator\", StringType())",
+        "detail": "write-to-kafka",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "write-to-kafka",
+        "description": "write-to-kafka",
+        "peekOfCode": "schema = (StructType()\n    .add(\"Date\", StringType())\n    .add(\"Time\", StringType())\n    .add(\"Location\", StringType())\n    .add(\"Operator\", StringType())\n    .add(\"Flight\", StringType())\n    .add(\"Route\", StringType())\n    .add(\"Type\", StringType())\n    .add(\"Registration\", StringType())\n    .add(\"cn\", StringType()) ",
+        "detail": "write-to-kafka",
+        "documentation": {}
+    },
+    {
+        "label": "streaming_df",
+        "kind": 5,
+        "importPath": "write-to-kafka",
+        "description": "write-to-kafka",
+        "peekOfCode": "streaming_df = spark.readStream \\\n    .format(\"csv\") \\\n    .schema(schema) \\\n    .option(\"path\", \"D:/studying section/projects/Big Data/project14/data\") \\\n    .load() \\\n# Select specific columns from \"data\"\n#df = streaming_df.select(\"name\", \"age\")\n#df = streaming_df.select(col(\"name\").alias(\"key\"), to_json(col(\"age\")).alias(\"value\"))\ndf = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result",
+        "detail": "write-to-kafka",
+        "documentation": {}
+    },
+    {
+        "label": "#df",
+        "kind": 5,
+        "importPath": "write-to-kafka",
+        "description": "write-to-kafka",
+        "peekOfCode": "#df = streaming_df.select(\"name\", \"age\")\n#df = streaming_df.select(col(\"name\").alias(\"key\"), to_json(col(\"age\")).alias(\"value\"))\ndf = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result\nquery = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\\n    .option(\"checkpointLocation\", \"null\") \\",
+        "detail": "write-to-kafka",
+        "documentation": {}
+    },
+    {
+        "label": "#df",
+        "kind": 5,
+        "importPath": "write-to-kafka",
+        "description": "write-to-kafka",
+        "peekOfCode": "#df = streaming_df.select(col(\"name\").alias(\"key\"), to_json(col(\"age\")).alias(\"value\"))\ndf = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result\nquery = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\\n    .option(\"checkpointLocation\", \"null\") \\\n    .start()",
+        "detail": "write-to-kafka",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "write-to-kafka",
+        "description": "write-to-kafka",
+        "peekOfCode": "df = streaming_df.select(to_json(struct(\"*\")).alias(\"value\"))\n# Convert the value column to string and display the result\nquery = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\\n    .option(\"checkpointLocation\", \"null\") \\\n    .start()\n# Wait for the query to finish",
+        "detail": "write-to-kafka",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 5,
+        "importPath": "write-to-kafka",
+        "description": "write-to-kafka",
+        "peekOfCode": "query = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .writeStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:9092\") \\\n    .option(\"topic\", \"big\") \\\n    .option(\"checkpointLocation\", \"null\") \\\n    .start()\n# Wait for the query to finish\nquery.awaitTermination()",
+        "detail": "write-to-kafka",
+        "documentation": {}
+    }
+]

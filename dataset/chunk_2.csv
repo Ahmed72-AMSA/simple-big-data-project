@@ -1,0 +1,6 @@
+Date,Time,Location,Operator,Flight,Route,Type,Registration,cn,Aboard,Fatalities,Ground
+10/07/1935,02:19,"Near Cheyenne, Wyoming",United Air Lines,4,Salt Lake City - Cheyenne,Boeing 247D,NC13317,1698,12.0,12.0,0.0
+01/14/1936,19:32,"Goodwin, Arkansas",American Airlines,1,"Newark, NJ - Fort Worth, TX",Douglas DC-2-120,NC14274,1307,17.0,17.0,0.0
+04/07/1936,10:20,"Uniontown, Pennsylvania",Trans Continental and Western Air,1,Newark - Los Angeles,Douglas DC-2-112,NC13721,1247,15.0,13.0,0.0
+12/15/1936,03:14,"Near Salt Lake City, Utah",Western Air Express,6,Burbank - Las Vegas - Salt Lake City,Boeing 247D,NC13370,1957,7.0,7.0,0.0
+12/19/1936,20:47,"Near Milford, Pennsylvania",Eastern Air Lines,14,"Miami, FL - Charleston, SC - Newark, NJ",Douglas DC-2-112,NC13732,1258,14.0,14.0,0.0

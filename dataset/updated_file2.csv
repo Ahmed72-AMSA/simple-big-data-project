@@ -1,0 +1,947 @@
+Date,Time,Location,Operator,Flight,Route,Type,Registration,cn,Aboard,Fatalities,Ground
+01/19/1930,18:23,"Oceanside, California",Maddux Airlines,7,"Aqua Caliente, Mexico - Los Angeles",Ford 5-AT-C Tri Motor,NC9689,5-AT-046,16.0,16.0,0.0
+03/31/1931,10:45,"Bazaar, Kansas",Trans Continental and Western Air,599,Kansas City - Wichita -  Los Angeles,Fokker F10A Trimotor,NC-999,1063,8.0,8.0,0.0
+08/31/1934,23:42,"Amazonia, Missouri",Rapid Air Transport,6,Omaha - St. Joseph,Stinson  SM-6000B,NC10809,5004,5.0,5.0,0.0
+05/06/1935,03:30,"Atlanta, Missouri",Trans Continental and Western Air,6,Los Angeles - Albuquerque - Kanasas City -  Washington,Douglas DC-2-112,NC13785,1295,14.0,5.0,0.0
+08/14/1935,23:45,"Near Gilmer, Texas",Delta Air Lines,4,Dallas -  Atlanta,Stinson Model A,NC14599,9103,4.0,4.0,0.0
+10/07/1935,02:19,"Near Cheyenne, Wyoming",United Air Lines,4,Salt Lake City - Cheyenne,Boeing 247D,NC13317,1698,12.0,12.0,0.0
+01/14/1936,19:32,"Goodwin, Arkansas",American Airlines,1,"Newark, NJ - Fort Worth, TX",Douglas DC-2-120,NC14274,1307,17.0,17.0,0.0
+04/07/1936,10:20,"Uniontown, Pennsylvania",Trans Continental and Western Air,1,Newark - Los Angeles,Douglas DC-2-112,NC13721,1247,15.0,13.0,0.0
+12/15/1936,03:14,"Near Salt Lake City, Utah",Western Air Express,6,Burbank - Las Vegas - Salt Lake City,Boeing 247D,NC13370,1957,7.0,7.0,0.0
+12/19/1936,20:47,"Near Milford, Pennsylvania",Eastern Air Lines,14,"Miami, FL - Charleston, SC - Newark, NJ",Douglas DC-2-112,NC13732,1258,14.0,14.0,0.0
+12/27/1936,19:38,"Newhall, California",United Air Lines,34,Oakland - San Francisco - Los Angeles,Boeing 247-D,NC13355,1737,12.0,12.0,0.0
+01/12/1937,11:07,"Near Newhall, California",Western Air Express,7,Salt Lake City - Burbank,Boeing 247B,NC13315,1696,13.0,5.0,0.0
+02/09/1937,20:50,"Off San Francisco, California",United Air Lines,23,Los Angeles - San Francisco - Oakland,Douglas DC-3A,NC16073,1913,11.0,11.0,0.0
+03/25/1937,18:40,"Clifton, Pennsylvania",Trans Continental and Western Air,15A,Newark - Camden - Pittsburg,Douglas DC-2-112,NC13730,1256,13.0,13.0,0.0
+05/06/1937,19:25,"Lakehurst, New Jersey",Deutsche Zeppelin Reederei,LZ 129,Frankfurt - Lakehurst N.J.,Zeppelin LZ-129,D-LZ-129,D-LZ129,97.0,35.0,1.0
+08/10/1937,04:40,"Daytona Beach, Florida",Eastern Air Lines,7,Chicago - Daytona,Douglas DC-2,NC-13739,1289,9.0,4.0,0.0
+10/17/1937,21:00,"Haydens Peak, Wyoming",United Air Lines,1,Cheyenne - Salt Lake City,Douglas DC-3,NC16074,1914,19.0,19.0,0.0
+01/10/1938,15:07,"Bozeman, Montana",Northwest Orient Airlines,2,Seattle - Billings - Chicago,Lockheed 14H Super Electra,NC-17388,1407,10.0,10.0,0.0
+01/11/1938,19:40,"Pago Pago, U.S. Samoa",Pan American World Airways,1,Honolulu - Pago Pago - Auckland,Sikorsky S-42 (flying boat),NC16734,4207,7.0,7.0,0.0
+03/01/1938,21:30,"Near Wawona, Cailifornia",Trans Continental and Western Air,8,San Francisco - Burbank,Douglas DC-2-112,NC13789,1299,9.0,9.0,0.0
+05/24/1938,22:17,"Cleveland, Ohio",United Air Lines,9,Newark - Cleveland - Chicago,Douglas DST-A-207A,NC18108,1956,10.0,10.0,0.0
+07/29/1938,04:11,PacifiOcean between Manila and Guam,Pan American World Airways,229,Alameda - Manila,Martin M-130 (flying boat),NC14714,556,15.0,15.0,0.0
+11/29/1938,05:30,"Off Point Reyes, California",United Air Lines,6,Medford - Oakland,Douglas DC 3-A-SB-3-G-14,NC16066,1907,7.0,7.0,0.0
+01/13/1939,21:15,"Miles City, Montana",Northwest Orient Airlines,1,Chicago - Seattle,Lockheed 14-H Super Electra,NC17389,1408,4.0,4.0,0.0
+03/26/1939,14:48,"Oklahoma City, Oklahoma",Braniff Airlines,1,Chicago - Dallas,Douglas DC-2-112,NC13727,1253,12.0,8.0,0.0
+08/31/1940,14:41,"Near Lovettsville, Virginia",Pennsylvania Central Airlines,19,Washington D.C. - Detroit,Douglas DC-3,NC21789,2188,25.0,25.0,0.0
+11/04/1940,04:42,"Near Centerville, Utah",United Air Lines,16,Oakland - Salt Lake City,Douglas DC-3,NC16086,1925,10.0,10.0,0.0
+12/04/1940,17:48,"Chicago, Illinois",United Air Lines,21,New York City - Chicago,Douglas DC-3A,NC25678,2175,16.0,10.0,0.0
+01/23/1941,04:13,"Near Robertson, Missouri",Trans Continental and Western Air,6,"Kansas City, MO - New York",Douglas DC-3-3,NC17315,1930,13.0,2.0,0.0
+02/26/1941,11:50,"Atlanta, Georgia",Eastern Air Lines,21,New York City -  Washington D.C. - Atlanta - Brownsville,Douglas DC-3,NC28394,3204,16.0,9.0,0.0
+10/03/1941,17:48,"San Juan, Puerto Rico",Pan American World Airways,203,Miami - Buenos Aires,Sikorsky S-42B (flying boat),NC15376,4206,15.0,2.0,0.0
+10/30/1941,02:04,"Near Moorhead, Minnesota",Northwest Orient Airlines,5,Minneapolis - Fargo,Douglas DC-3,NC21712,2124,15.0,14.0,0.0
+10/30/1941,22:10,"St. Thomas, Ontario, Canada",American Airlines,1,New York - Buffalo - Chicago - Detroit,Douglas DC-3,NC25663,2207,20.0,20.0,0.0
+01/16/1942,19:23,"Near Las Vegas, Nevada",Trans Continental and Western Air,3,Las Vegas - Los Angeles,Douglas DC-3,NC1946,3295,22.0,22.0,0.0
+05/01/1942,23:00,"Salt Lake City, Utah",United Air Lines,4,San Francisco - New York City,Douglas DST-A-207A,NC18146,1978,17.0,17.0,0.0
+05/12/1942,11:51,"Miles City, Montana",Northwest Orient Airlines,1,Chicago - Seattle,Douglas DC-3-A-269,NC 21714,2129,14.0,3.0,0.0
+10/03/1942,19:05,"Botwood, Newfoundland",American Export Airlines,71,"New York - Botwood - Foynes, Ireland",Sirkorsky 44A (flying boat),NC41880,4401,37.0,11.0,0.0
+10/23/1942,17:15,"Palm Springs, California",American Airlines / Military - USAF,28,Palm Springs - New York City,Douglas DC-3 / Boeing B-34,NC16017,1555,13.0,12.0,0.0
+12/15/1942,01:22,"Fairfield, Utah",Western Airlines,13,Salt Lake - Las Vegas - Burbank,Douglas DC-3A,NC16060,1900,19.0,17.0,0.0
+01/21/1943,07:30,"Ukiah, California",Pan American World Airways,V-1104,Hawaii - San Francisco,Martin M-130 (flying boat),NC14715,557,19.0,19.0,0.0
+01/22/1943,15:15,"Near Chaparra, Peru",Pan American Grace Airlines,9,"Santiago, Chili - Arequipa, Peru - Lima, Peru",Douglas DC-3A,NC33645,4124,15.0,14.0,0.0
+02/22/1943,06:47,"Lisbon, Portugal",Pan American World Airways,9035,New York City - Lisbon,Boeing B-314 (flying boat),NC18603,1990,39.0,25.0,0.0
+06/01/1943,11:00,Off the coast of France,British Overseas Airways,2L272,Lisbon - London,Douglas DC-3,G-AGBB,1590,17.0,17.0,0.0
+07/28/1943,22:43,"Trammel, Kentucky",American Airlines,63,Cleveland - Memphis,Douglas DC-3,NC16014,1552,22.0,20.0,0.0
+10/15/1943,23:17,"Near Centerville, Tennessee",American Airlines,63,Nashville - Memphis,Douglas DC3-G102,NC16088,1588,15.0,15.0,0.0
+02/10/1944,23:36,"Memphis, Tennessee",American Airlines,2,Little Rock - Memphis,Douglas DC-3,NC21767,2166,24.0,24.0,0.0
+08/08/1944,13:20,"Off Antilla, Cuba",Pan American World Airways,218,Antilla - Miami,Sikorsky S-42 (flying boat),NC823M,4201,31.0,17.0,0.0
+11/04/1944,17:15,"Hanford, California",Trans Continental and Western Air,8,San Francisco - New York City,Douglas DC-3,NC28310,2251,24.0,24.0,0.0
+12/01/1944,00:54,"Van Nuys, California",Trans Continental and Western Air,13,San Francisco - Burbank - New York City,Douglas DC-3,NC17322,1965,17.0,9.0,0.0
+01/08/1945,21:16,"Port of Spain, Trinidad",Pan American World Airways,161,Miami - Leopoldville,Martin M-130 (flying boat),NC14716,558,30.0,23.0,0.0
+01/10/1945,04:10,"Burbank, California",American Airlines,6001,"New York City - Juarez, Mexico - Burbank",Douglas DC-3,NC25684,2215,24.0,24.0,0.0
+02/23/1945,02:25,"Marion, Virginia",American Airlines,9,New York City - Los Angeles,Douglas DC-3,N18142,2138,22.0,17.0,0.0
+04/14/1945,16:58,"Morgantown, West Virginia",Pennsylvania Central Airlines,142,Pittsburgh - Morgantown,Douglas DC-3,NC25692,2262,20.0,20.0,0.0
+07/12/1945,14:36,"Near Florence, South Carolina",Eastern Air Lines / Military - U.S. Army Air Corps,45,Boston - NY - Washington DC - Jacksonville - Miami,Douglas DC-3-201C /  Army A-26,NC25647,2235,10.0,3.0,0.0
+08/03/1945,10:11,"Fort de France, Martinique",Pan American World Airways,216,Port of Spain - Fort de France,Sikorsky S-43 (flying boat),NC15066,4306,14.0,4.0,0.0
+09/07/1945,02:13,"Florence, South Carolina",Eastern Air Lines,42,Miami - New York City,Douglas DC-3,NC33631,4137,22.0,22.0,0.0
+10/05/1945,01:05,"Lakeland, Florida",National Airlines,16,Miami - Jacksonville,Lockheed 18 Lodestar,NC18199,2265,15.0,2.0,0.0
+12/30/1945,21:13,"New York City, New York",Eastern Air Lines,14,Philadelphia - New York City,Douglas DC-3,NC18l23,1999,12.0,1.0,0.0
+01/06/1946,03:59,"Birmingham, Alabama",Pennsylvania Central Airlines,105,"New York City - Birmingham, AL",Douglas DC-3,N21786,4131,11.0,3.0,0.0
+01/18/1946,11:03,"Cheshire, Connecticut",Eastern Air Lines,16B,New York - Boston,Douglas DC-3-201E,NC19970,3254,17.0,17.0,0.0
+01/31/1946,02:47,"Mt. Elk, Wyoming",United Air Lines,14,Boise - Denver,Douglas DC-3-194H,NC25675,2147,21.0,21.0,0.0
+03/03/1946,08:12,"Live Oak Springs, California",American Airlines,6-103,Dallas - Tucon - San Diego,Douglas DC-3-227B,NC21799,2203,27.0,27.0,0.0
+08/21/1946,04:19,"Moline, Illinois",Trans Luxury Airlines,878,Teterboro - Chicago - San Francisco,Douglas C-47-DL,N51878,4542,25.0,2.0,0.0
+09/05/1946,02:00,"Elko, Nevada",Trans-Luxury Airlines,850,New York City - San Francisco,Douglas DC-3 (C-47-A5-DL),NC57850,9214,22.0,21.0,0.0
+10/08/1946,04:33,"Cheyenne, Wyoming",United Air Lines,28,San Francisco - Cheyenne - Chicago,Douglas DC-4,N30051,10471,41.0,2.0,0.0
+10/17/1946,00:57,"Laramie, Wyoming",National Air Transport Services,942,Oakland - Chicago,Douglas DC-3,NC38942,12971,13.0,13.0,0.0
+11/11/1946,03:30,"Cleveland, Ohio",United Air Lines,404,Chicago - Cleveland,Douglas DC-3 (C-53D-DO),N19947,4873,20.0,2.0,0.0
+11/13/1946,03:41,"Lebec, California",Western Airlines,23,Palmdale - Burbank,Douglas C-53D-DO (DC-3),NC18645,11662,11.0,11.0,0.0
+12/24/1946,19:19,"Near San Diego, California",Western Airlines,44,Holtville - San Diego,Douglas DC-3 ( C-53D-DO),NC45395,42-68715,12.0,12.0,0.0
+12/28/1946,09:19,"Michigan City, Indiana",American Airlines,2207,Buffalo - Chicago,Douglas DC-3 (C-50A-DO),N15577,4805,21.0,2.0,0.0
+12/28/1946,02:09,"Near Shannon, Ireland",Trans Continental and Western Air,6963,Paris - Shannon,Lockheed 049 Consellation,NC86505,2026,23.0,13.0,0.0
+01/12/1947,01:38,"Near Galax, Virginia",Eastern Air Lines,665,"Akron, OH - Winston/Salem, NC",Douglas DC-3,NC88872,3274,19.0,18.0,0.0
+04/28/1947,23:13,"Near Vancouver, British Columbia, Canada",Trans Canada Air Lines,3,Lethbridge - Vancouver,Lockheed 18 Loadstar,CF-TDF,18-2248,15.0,15.0,0.0
+05/29/1947,19:05,"La Guardia Airport, Queens, New York",United Air Lines,521,New York City - Cleveland,Douglas C-54B,NC30046,18324,48.0,43.0,0.0
+05/30/1947,17:41,"Port Deposit, Maryland",Eastern Air Lines,605,Newark - Baltimore - Miami,Douglas C-54B-15-DO,NC88814,18380,53.0,53.0,0.0
+06/13/1947,18:16,"Leesburg, Virginia",Pennsylvania Central Airlines,410,Pittsburgh - Washington D.C.,Douglas DC-4 (C-54-DO),NC88842,3112,50.0,50.0,0.0
+06/19/1947,23:40,"Al Mayadin, Syria",Pan American World Airways,121,Karachi - Istanbul,Lockheed 049-46-21 Constellation,NC88845,2045,36.0,14.0,0.0
+10/08/1947,07:55,"Near El Paso, Texas",American Airlines,311,New York City - Dallas - Los Angeles,Douglas DC-4,NC90432,10314/DC45,54.0,0.0,0.0
+10/24/1947,12:29,"Bryce Canyon, Utah",United Air Lines,608,Los Angeles - New York City,Douglas DC-6,NC37510,42875/17,53.0,53.0,0.0
+10/26/1947,13:45,"Annette Island, Alaska",Pan American World Airways,923,Seattle - Juneau,Douglas DC-4A,NC88920,10317,18.0,18.0,0.0
+10/26/1947,17:20,"Near Mt. Hymettus, Greece",AB Aerotransport,1629,Istanbul-Athens-Rome-Geneve-Copenhagen-Stockholm,Douglas DC-4-1009,SE-BBG,42930/45,44.0,44.0,0.0
+11/30/1947,14:25,"Seattle, Washington",Alaska Airlines,009,Anchorage - Seattle,Douglas C-54A,NC-91009,7453,28.0,8.0,1.0
+01/13/1948,04:36,"Oxon Hill, Maryland",Eastern Air Lines,572,Atlanta - Washington D.C.,Douglas DC-3-201F,NC28384,4092,9.0,5.0,0.0
+03/10/1948,22:58,"Chicago, Illinois",Delta Air Lines,700,Chicago - Miami,Douglas DC-4,NC37478,18390,13.0,12.0,0.0
+03/12/1948,21:14,"Mt. Sanford, Alaska",Northwest Orient Airlines,4422,Anchorage - New York City,Douglas DC-4 (C-54G-1-DO),NC95422,35966/DO360,30.0,30.0,0.0
+04/15/1948,02:35,"Shannon, Ireland",Pan American World Airways,1-10,Belgium - Shannon,Lockheed L-049-46 Constellation,NC-88858,2058,31.0,30.0,0.0
+06/17/1948,12:41,"Mount Carmel, Pennsylvania",United Air Lines,624,Chicago - New York City,Douglas DC-6,NC37506,42871/12,43.0,43.0,0.0
+08/29/1948,17:05,"Near Winona, Minnesota",Northwest Orient Airlines,421,Chicago - Minneapolis,Martin 202,NC93044,9165,37.0,37.0,0.0
+10/27/1948,16:50,"Near Edmonton, Alberta, Canada",Northwest Orient Airlines,6427,"Edmonton - Anchorage, AK",Douglas C-54A,NC88785,10406,5.0,2.0,0.0
+01/20/1949,20:05,"Homer, Alaska",Alaska Airlines,8,Homer - Anchorage,Douglas DC-3C,N91006,20208,6.0,5.0,0.0
+07/12/1949,07:43,"Chatsworth, California",Standard Airlines,897R,Albuquerque - Burbank,Curtiss C-46E-1-CS,N79978,2936,48.0,35.0,0.0
+07/30/1949,10:45,"Chesterfield, New Jersey",Eastern Air Lines / Military - USN,557,New York City - Wilmington,Douglas DC-3 -201D/ F-6-F- 5 Hellcat,N19963/BU72887,2260 /,16.0,16.0,0.0
+11/01/1949,11:45,"Arlington, Virginia",Eastern Air Lines / Military - Bolivian Air Force,537,Boston - Washington D.C. - New Orleans,Douglas C-54B / P-38,N88727/NX26927,18365 /,55.0,55.0,0.0
+11/29/1949,05:49,"Dallas, Texas",American Airlines,157,New York City - Mexico City,Douglas DC-6,N90728,42895/58,46.0,28.0,0.0
+12/12/1949,20:45,"Washington, D.C.",Capital Airlines,500,New Port News - Washington D.C.,Douglas DC-3-313A,NC-25691,2556,23.0,6.0,0.0
+03/07/1950,20:59,"Minneapolis, Minnesota",Northwest Orient Airlines,307,Rochester Minn. - Minneapolis,Martin 202,N93050,9134,13.0,13.0,2.0
+06/23/1950,23:25,"Lake Michigan, 18 NNW of Benton Harbor, Michigan",Northwest Orient Airlines,2501,New York City - Minneapolis-St. Paul,Douglas DC-4,N95425,10270,58.0,58.0,0.0
+08/31/1950,00:03,"Near Wadi Natrun, Egypt",Trans World Airlines,903,Cairo - Rome,Lockheed 749A Constellation,N6004C,2636,55.0,55.0,0.0
+09/04/1950,14:10,"Utica, New York",Robinson Airlines,32,"Utica, NY - Newark, NJ",Douglas DC-3,N18936,2011,23.0,16.0,0.0
+11/03/1950,09:43,"Mont Blanc, France",Air India,245,Bombay - Cairo - Geneva - London,Lockheed 749 Constellation,VT-CQP,2506,48.0,48.0,0.0
+11/06/1950,08:15,"Butte, Montana",Northwest Orient Airlines,115,Helena - Butte,Martin 202,N93040,9161,21.0,21.0,0.0
+12/22/1950,13:53,"Penticton, British Columbia, Canada",Canadian PacifiAir Lines,4,Vancouver - Penticton,Douglas DC-3,CF-CUF,12855,18.0,2.0,0.0
+01/14/1951,14:13,"Philadelphia, Pennsylvania",National Airlines,83,Newark - Philadelphia,Douglas DC-4-1009,N74685,43102,28.0,7.0,0.0
+01/16/1951,12:14,"Near Reardon, Washington",Northwest Orient Airlines,115,Minneapolis - Seattle,Martin 202,N93054,9144,10.0,10.0,0.0
+03/02/1951,09:12,"Sioux City, Iowa",Mid Continent Airlines,16,"Kansas City, MO - Omaha, NB - Sioux City, Iowa",Douglas DC-3,N19928,7400,25.0,16.0,0.0
+04/06/1951,20:30,"Refugio Pass, near Santa Barbara, California",Southwest Airways,7,Santa Maria - Santa Barbara - Oxnard - Los Angeles,Douglas DC-3,N63439,20229,22.0,22.0,0.0
+04/25/1951,11:49,"Key West, Florida",Cubana de Aviacion / Military -  US Navy,493,Miami - Havana,Douglas DC-4 /Beechcraft SMB-1,CU-T188/39939,10368,43.0,43.0,0.0
+04/28/1951,19:32,"Fort Wayne, Indiana",United Air Lines,129,Cleveland - Fort Wayne - South Bend - Chicago,Douglas DC-3,N16088,1927,11.0,11.0,0.0
+06/22/1951,03:25,"Near Sanoyea, Liberia",Pan American World Airways,151,Johannesburg - Accra - Monrovia - New York,Lockheed 049 Constellation,N88846,2046,40.0,40.0,0.0
+06/30/1951,02:00,"Rocky Mountain Nat. Park, near Ft. Collins, Colorado",United Air Lines,610,Salt Lake City - Denver,Douglas DC-6B,N37543,43144/155,50.0,50.0,0.0
+08/24/1951,04:28,"Decoto, California",United Air Lines,615,Boston - Hartford - Cleveland - Chicago - Oakland,Douglas DC-6B,N37550,43260/180,50.0,50.0,0.0
+11/05/1951,09:29,"Near Tucumcari, Arazona",Transocean Air Lines,CAM5763,Oakland - Albuquerque,Martin 202,N93039,9160,29.0,1.0,0.0
+12/29/1951,22:25,"Near Little Valley, New York",Continental Charters,44-2,Pittsburgh - Buffalo,Curtiss C-46A-50-CU,N3944C,30466,40.0,26.0,0.0
+12/30/1951,22:07,"Near Fairbanks, Alaska",Transocean Air Lines,501,Umiat - Fairbanks,Curtiss C 46F-CU,N68963,22485,4.0,4.0,0.0
+01/19/1952,01:38,"Off Sandspit, BC, Canada",Northwest Orient Airlines,324,Tokyo - Elmendorf AFB,Douglas DC-4,N45342,27279,43.0,36.0,0.0
+01/22/1952,15:43,"Elizabeth, New Jersey",American Airlines,6780,Buffalo - Newark,Convair CV-240-0,N94229,054,23.0,23.0,7.0
+01/07/1953,20:55,"Issaquah, Washington",Flying Tiger Line,841,San Francisco - Seattle,Douglas C-54B-10-DO,N86574,18350,7.0,7.0,0.0
+04/11/1952,12:20,"North of San Juan, Puerto Rico",Pan American World Airways,526A,San Juan - New York City,Douglas DC-4,N88899,10503,69.0,52.0,0.0
+04/18/1952,03:34,"Near Whittier, California",North Continental Airlines (Robin Airlines),416W,"Kansas City, MO - Phoenix - Burbank",Curtiss C-46F-1CU,N8404C,22466,29.0,29.0,0.0
+04/29/1952,04:40,"Near Carolina, Brazil",Pan American World Airways,202,Rio de Janeiro - New York City,Boeing 377-10-26 Stratocruiser,N1039V,15939/12,50.0,50.0,0.0
+05/26/1952,08:45,"Near Atar, Mauritania",British Overseas Airways,251,Tripoli - Kano,Handley Page HP-81 Hermes IV,G-ALDN,HP-81/15,18.0,1.0,0.0
+07/27/1952,11:46,"Off Rio de Janeiro, Brazil",Pan American World Airways,201,Rio de Janeiro - Buenos Aires,Boeing 377 Stratocruiser,N1030V,15939,27.0,1.0,0.0
+01/07/1953,04:12,"Fish Haven, Idaho",Associated Air Transport,1-6-6A,Boeing Field - Cheyenne,Curtiss C-46,N1648M,22395,40.0,40.0,0.0
+02/14/1953,17:10,"Off Mobile, Alabama",National Airlines,470,Miami - Orlando - New Orleans,Douglas DC-6,N90893,43057/73,46.0,46.0,0.0
+03/20/1953,18:38,"Alvarado, California",Transocean Air Lines,942,Roswell - Oakland - Guam,Douglas DC-4  (C-54-10-DO),N88942,36076,35.0,35.0,0.0
+04/20/1953,23:08,"San Francisco Bay, California",Western Airlines,636,Los Angeles - San Francisco - Oakland,Douglas DC-6B,N91303,43823,10.0,8.0,0.0
+05/02/1953,16:35,"Near Jalalogori, West Bengal, India",British Overseas Airways,783/057,Calcutta - Delhi,de Havilland DH106 Comet 1,G-ALYV,06008,43.0,43.0,0.0
+05/17/1953,14:15,"Near Marshall, Texas",Delta Air Lines,318,Dallas - Shreveport,Douglas DC-3,N28345,2224,20.0,19.0,0.0
+07/12/1953,08:41,"PacifiOcean, 325 miles east of Wake Island",Transocean Air Lines,512,Wake Island - Honolulu - Oakland,Douglas DC-6A,N90806,42901/153,58.0,58.0,0.0
+09/16/1953,08:34,"Albany, New York",American Airlines,723,Boston - Hartford - Albany - Chicago,Convair CV-240-0,N94255,116,28.0,28.0,0.0
+10/19/1953,00:56,"New York City, New York",Eastern Air Lines,627,New York City - San Juan,Lockheed 749A Constellation,N119A,2616,27.0,2.0,0.0
+10/29/1953,08:44,"Near Half Moon Bay, California",British Commonwealth PacifiAirlines,304/44,Sydney - Honolulu - San Francisco,Douglas DC-6,VH-BPE,43125,19.0,19.0,0.0
+01/10/1954,09:50,"Off Elba, Italy",British Overseas Airways,781,Rome - London,de Havilland DH106 Comet 1,G-ALYP,06003,35.0,35.0,0.0
+02/26/1954,10:32,"Wright, Wyoming",Western Airlines,314,Salt Lake City - Cedar City - Rapid City,Convair CV-240,N8407H,37,9.0,9.0,0.0
+04/08/1954,19:10,"Off Stromboli, Italy",British Overseas Airways,201,Rome - Cairo,de Havilland DH106 Comet 1,G-ALYY,06011,21.0,21.0,0.0
+08/22/1954,17:03,"Near Mason City, Iowa",Braniff Airlines,152,Memphis - Minneapolis,Douglas DC-3,N61451,4630,19.0,12.0,0.0
+09/05/1954,02:30,"Foynes, Ireland",KLM Royal Dutch Airlines,633,Shannon - New York City,Lockheed 1049C-55-81 S Constellation,PH-LKY,4509,56.0,28.0,0.0
+11/30/1954,11:15,"Berlin, New Hampshire",Northeast Airlines,792,"Laconia, NH - Berlin, NH",Douglas DC-3,N17891,11745,7.0,2.0,0.0
+12/18/1954,14:00,"New York, New York",Linee Aeree Italiane,451,Rome - New York City,Douglas DC-6B,I-LINE,44418/487,32.0,26.0,0.0
+12/22/1954,23:00,"Pittsburgh, Pennsylvania",Johnson Flying Service,4844-C,Newark - Tacoma,Douglas DC-3,N24320,20197,28.0,10.0,0.0
+01/19/1955,16:25,"Des Moines, Iowa",United Air Lines,329,Newark - Des Moines - Lincoln,Convair CV-340,N73154,180,39.0,0.0,0.0
+02/19/1955,07:31,"Albuquerque, New Mexico",Trans World Airlines,260,Albuquerque - Sante Fe,Martin 404,N40416,14120,16.0,16.0,0.0
+02/23/1955,09:20,"Salisbury,  Zimbabwe",Central African Airways,626,Salisbury - Lusaka,Douglas DC-3,VP-YKO,15109/26554,26.0,1.0,0.0
+03/20/1955,22:36,"Springfield, Mississippi",American Airlines,711,Newark - Chicago - St. Louis - Springfield - Tulsa,Convair CV-240-0,N94234,066,35.0,13.0,0.0
+03/26/1955,11:12,Off the Oregon coast,Pan American World Airways,845/26,Portland - Honolulu,Boeing 377 Stratocruiser 10-26,N1032V,15932,23.0,4.0,0.0
+07/17/1955,06:24,"Chicago, Illinois",Braniff Airlines,560,"Kansas City, MO - Chicago",Convair CV-340-32,N3422,071,43.0,22.0,0.0
+07/27/1955,07:40,"Near Petrich, Bulgaria",El Al,402/46,Wien - Tel Aviv,Lockheed 049 Constellation,4X-AKC,1968,58.0,58.0,0.0
+10/06/1955,07:26,"Near Centennial, Wyoming",United Air Lines,409,Denver - Salt Lake City - San Francisco,Douglas DC-4,N30062,18389,66.0,66.0,0.0
+11/01/1955,19:03,"Longmont, Colorado",United Air Lines,629,Denver - Portland,Douglas DC-6B,N37559,43538,44.0,44.0,0.0
+11/17/1955,23:59,"Seattle, Washingon",Peninsular,17K,Seattle - Newark,Douglas C-54,N88852,3123,74.0,28.0,0.0
+12/21/1955,03:43,"Jacksonville, Florida",Eastern Air Lines,642,Miami - Jacksonville,Lockheed 749C-79-12 Constellation,N112A,2533,17.0,17.0,0.0
+04/01/1956,19:20,"Pittsburgh, Pennsylvania",Trans World Airlines,400,Pittsburgh - Newark,Martin 404,N40403,14103,36.0,22.0,0.0
+04/02/1956,08:10,"Seattle, Washington",Northwest Orient Airlines,2,Seattle - Portland,Boeing 377 Stratocruiser 10-30,N74608,15954,38.0,5.0,0.0
+04/09/1956,09:51,"Skilak Lake, Alaska",Cordova Airlines,6,Anchorage - Seward,Aero Commander  520,B5386N,520-7,6.0,6.0,0.0
+06/30/1956,10:32,"Grand Canyon, Arizona",United Air Lines / Trans World Airlines,718 / 2,Los Angeles - Chicago / Los Angeles - Kansas City,Douglas DC-7 / Lockheed S Constellation,N6902C/N6324C,44288 / 4016,128.0,128.0,0.0
+07/09/1956,13:53,"Near Flat Rock, Michigan",Trans Canada Air Lines,304,Chicago - Montreal,Vickers Viscount,CF-TGR,55,35.0,1.0,0.0
+08/29/1956,20:45,"Cold Bay, Alaska",Canadian PacifiAir Lines,307,Vancouver - Hong Kong,Douglas DC-6B,CF-CUP,43843/324,22.0,15.0,0.0
+10/02/1956,18:25,"Near Nome, Alaska",Alaska Airlines,701,Unalakleet and Nome,Stinson AT-19,N 79069,FK-975,5.0,5.0,0.0
+10/16/1956,06:15,Over the PacifiOcean,Pan American World Airways,943,Honolulu - San Francisco,Boeing  377 Stratocruiser,N90943,15959,31.0,0.0,0.0
+11/27/1956,07:50,"Caracas, Venezuela",Linea Aeropostal Venezolana,253,New York City - Maiquetia,Lockheed 749-79-34 Constellation,YV-C-AMA,2560,25.0,25.0,0.0
+12/09/1956,19:15,"Near Chilliwack, British Columbia, Canada",Trans Canada Air Lines,810-9,Vancouver - Toronto,Canadair DC-4M-2 Northstar,CF-TFD,128,62.0,62.0,0.0
+01/06/1957,00:01,"Owasso, Oklahoma",American Airlines,327,Joplin - Owasso,Convair CV-240-0,N94247,104,10.0,1.0,0.0
+02/01/1957,18:02,"New York, New York",Northeast Airlines,823,New York City - Miami,Douglas DC-6A,N34954,44678/543,101.0,21.0,0.0
+03/02/1957,17:19,"Blyn, Washington",Alaska Airlines,100,Fairbanks - Seattle,Douglas C-54B,N90449,27239,5.0,5.0,0.0
+04/10/1957,15:20,"Anchieta Island, Brazil",REAL,1800,Rio de Janerio - Sao Paulo,Douglas DC-3,PP-ANX,13048,30.0,26.0,0.0
+05/09/1957,19:04,"Barajas, Madrid, Spain",Aviaco,111,Santiago de Compostella - Madrid,Bristol 170 Freighter,EC-ADI,12757,37.0,37.0,0.0
+06/14/1957,23:10,"Near Moscow, Russia",LOT Polish Airlines,232,Warsaw - Moscow,Ilyushin P-14,SP-LNF,6341407,13.0,9.0,0.0
+07/16/1957,03:36,"Near Biak, Indonesia",KLM Royal Dutch Airlines,844,Mokmer - Manila,Lockheed 1049C Super Constellation,PH-LKT,4504,68.0,58.0,0.0
+07/25/1957,03:37,"Daggett, California",Western Airlines,39,Minneapolis -- Salt Lake - Cedar City - Las Vegas- LA,Convair CV-240,N8405H,22,16.0,1.0,0.0
+09/15/1957,20:46,"New Bedford, Massachusett",Northeast Airlines,285,Martha's Vineyard - New Bedford,Douglas DC-3,N33417,7337,24.0,12.0,0.0
+11/09/1957,16:27,"900 miles E of Honolulu, Hawaii, PacifiOcean",Pan American World Airways,7,San Fransisco - Honolulu,Boeing - 377-10-29 Stratocruiser,N90944,15960/40,44.0,44.0,0.0
+02/06/1958,14:17,"Munich, Germany",British European Airways,609,Munich - Manchester,Airspeed Ambassador A5-57,G-ALZU,5217,44.0,23.0,0.0
+04/06/1958,23:19,"Freeland, Michigan",Capital Airlines,67,New York - Detroit - Saginaw - Chicago,Vickers Viscount 745D,N7437,135,47.0,47.0,0.0
+04/07/1958,09:00,"Mt. Illiniza, Ecuador",AREA,222,Guayaquil - Quito,Douglas DC-3,HC-ACL,19779,32.0,32.0,0.0
+04/21/1958,08:30,"Near Sloan, 10 miles SW of Las Vegas, Nevada",United Air Lines / Military - U.S. Air Force,736,Los Angeles - New York City,Douglas DC-7 / F-100F,N6328C/56-3755,45142 /243-31,49.0,49.0,0.0
+05/20/1958,11:29,"Brunswick, Maryland",Capital Airlines / Military - Air National Guard,300,Pittsburgh - Baltimore,Vickers Viscount 745D / T-33A,N7410/53-5966,108,11.0,11.0,0.0
+08/14/1958,03:45,"North AtlantiOcean, 100 miles W of Galway Bay, Ireland",KLM Royal Dutch Airlines,607E,Amsterdam - Shannon - Gander - New York,Lockheed 1049H Super Constellation,PH-LKM,4841,99.0,99.0,0.0
+10/22/1958,11:50,"Anzio, Italy",British European Airways,142,London - Napoli,Vickers Viscount 701C,G-ANHC,063,31.0,31.0,0.0
+11/01/1958,02:01,"Nipe Bay, Cuba",Cubana de Aviacion,495,Miami - Varadero,Vickers Viscount 755D,CU-T603,091,20.0,17.0,0.0
+12/26/1958,12:52,"Salisbury, Zimbabwe",Union Aeromaritime de Transport,736,Johannesberg - Salisbury - Brazzaville - Nice - Paris,Douglas DC-6B,F-BGTZ,43827/337,70.0,3.0,0.0
+01/08/1959,20:32,"Mt. Holston, Tennessee",Southeast Airlines,308,Nashville - Knoxville - Tri-City Aport,Douglas DC-3,N18941,2007,10.0,10.0,0.0
+01/22/1959,15:00,"Dabouk, Jordan",Air Jordan,601,Jerusalem - Dobouk,Convair CV-240-2,JY-ACB,055,15.0,10.0,0.0
+02/03/1959,01:00,"Mason City, Iowa",Dwyer Flying Service - Private Charter,-,Mason City - Fargo,Beechcraft Bonanza 35,N3794N,D- 1019,4.0,4.0,0.0
+02/03/1959,23:56,"La Guardia Airport, New York, NY",American Airlines,320,Chicago - New York City,Lockheed  188A Electra,N6101A,1015,73.0,65.0,0.0
+05/12/1959,15:29,"Charleston, West Virginia",Capital Airlines,983,Pittsburg - Charleston,Lockheed C-69 Constellation,N2735A,1978,44.0,2.0,0.0
+05/12/1959,16:13,"Chase, Maryland",Capital Airlines,75,New York City - Atlanta,Vickers Viscount 745D,N7463,287,31.0,31.0,0.0
+06/26/1959,17:35,"Near Varese, Lombardia, 20 miles NW of Milan, Italy",Trans World Airlines,891,Milan - Paris,Lockheed 1649A Starliner,N7313C,1015,68.0,68.0,0.0
+08/15/1959,16:42,"Calverton, New York",American Airlines,514,Training,Boeing 707-123,N7514A,17641/36,5.0,5.0,0.0
+09/24/1959,17:20,"Great Sitkin Island, Alaska",Reeve Aleutian Airlines,3,Shemya - Cold Bay - Adak - Anchorage,Douglas C-54B,N63396,10486,16.0,16.0,0.0
+09/29/1959,23:09,"Buffalo, Texas",Braniff Airlines,542,Houston - Dallas,Lockheed 188A Electra,N9705C,1090,34.0,34.0,0.0
+10/26/1959,20:18,"Santa Maria, California",PacifiAir Lines,308,Los Angeles - Oxnard - Santa Maria - Paso Robles,Douglas C-47A-DL,N67589,19656,19.0,1.0,1.0
+10/29/1959,15:25,"Athens, Greece",OlympiAirways,214,Athens - Thessaloniki,Douglas DC-3,SX-BAD,9491,18.0,18.0,0.0
+10/30/1959,20:40,"Waynesborough, Virginia",Piedmont Airlines,349,"Washington DC - Charlottsville, VA",Douglas DC-3,N55V,20447,27.0,26.0,0.0
+11/04/1959,23:07,"St. Cleophas, Quebec, Canada",Wheeler Airlines,1658,Montreal - Hall Lake,Douglas C-54A,CF-ILI,10360,5.0,5.0,0.0
+11/16/1959,00:55,Gulf of Mexico,National Airlines,967,Tampa - New Orleans,Douglas DC-7B,N4891C,45355,42.0,42.0,0.0
+11/24/1959,05:35,"Chicago, Illinois",Trans World Airlines,595,Chicago - Los Angeles,Lockheed L-1049H Super Constellation,N102R,4824,3.0,3.0,8.0
+12/01/1959,09:47,"Willamsport, Pennsylvania",Allegheny Airlines,371,Harrisburg - Willamsport,Martin 202,N174A,9159,26.0,25.0,0.0
+01/06/1960,02:38,"Wilmington/Bolivia, North Carolina",National Airlines,2511,New York - Miami,Douglas DC-6B,N8225H,43742/300,34.0,34.0,0.0
+01/18/1960,22:19,"Charles City, Virginia",Capital Airlines,20,Washington D.C. - Norfolk,Vickers Viscount 745D,N7462,217,50.0,50.0,0.0
+01/19/1960,18:47,"Ankara, Turkey",Scandinavian Airlines (SAS),871,Istanbul - Ankara,Sud Aviation Caravelle 1,OY-KRB,014/14,42.0,42.0,0.0
+03/17/1960,15:25,"Near Cannelton, 10 mile SE of Tell City, Indiana",Northwest Orient Airlines,710,Chicago - Miami,Lockheed 188C Electra,N121US,1057,63.0,63.0,0.0
+03/19/1960,11:10,"Cordoba, Colombia",SAMSA,901,San Andres - Medellin,Curtiss C-46,HK-516,2927/384,46.0,25.0,0.0
+04/19/1960,20:48,"Bogota, Colombia",Lloyd Aereo Colombiano,503,Miami - Medellin - Bogota,Curtiss C-46,HK-390,32954,51.0,37.0,0.0
+06/14/1960,04:47,"Mt. Gilbert, Alaska",PacifiNorthern Airlines,201,Cordova - Anchorage,Lockheed 749A-79-32 Constellation,N1554V,2555,14.0,14.0,0.0
+07/14/1960,04:30,"Off Manila, Philippines",Northwest Orient Airlines,1-11,Okinawa - Manila,Douglas DC-7C,N292,45462/925,58.0,1.0,0.0
+07/15/1960,09:40,"Near Jima, Ethiopia",Ethiopian Airlines,372,Bulchi - Jimma,Douglas DC-3,ET-T-18,12926,11.0,1.0,0.0
+08/29/1960,06:50,"Off Dakar, Senegal",Air France,343,Paris - Dakar,Lockheed 1049G Super Constellation,F-BHBC,4622,63.0,63.0,0.0
+09/19/1960,06:02,"Agana, Guam, Mariana Islands",World Airways,830/18,Guam - Wake Island,Douglas DC-6AB,N90779,44914/646,94.0,80.0,0.0
+09/26/1960,23:40,"Moscow, Russia",Austrian Airlines,901,Warsaw - Moscow,Vickers Viscount 837,OE-LAF,437,37.0,31.0,0.0
+09/29/1960,12:15,"Off Elba, Italy",United Arab Airlines,738,Geneva - Rome,Vickers Viscount 739B,SU-AKW,427,21.0,21.0,0.0
+10/04/1960,17:40,"Boston, Massachusett",Eastern Air Lines,375,Boston - Philadelphia,Lockheed 188A Electra,N5533,1062,72.0,62.0,0.0
+10/28/1960,11:39,"Near Missoula, Montana",Northwest Orient Airlines,104,Spokane - Missoula,Douglas C-54A-DC,N48762,10320,12.0,12.0,0.0
+04/03/1961,23:57,"Llico, Chile",LAN,210,Temuco - Santiago,Douglas DC-3,CC-CLD-P210,9716,24.0,24.0,0.0
+05/10/1961,02:30,"Stah, Algeria",Air France,406,"Fort Lamy, Chad - Marseilles, France",Lockheed 1649A Starliner,F-BHBM,1027,78.0,78.0,0.0
+12/16/1960,10:33,"Staten Island / Brooklyn, New York",United Air Lines / Trans World Airlines,826/266,Chicago - New York City / Columbus - New York City,MD DC-8-11 / Lockheed  1049 S Const,N8013U/N6907C,45290 /4021,128.0,128.0,6.0
+12/22/1960,12:31,"Cebu City, Philippines",Philippine Air Lines,S85,Cebu - Davao,Douglas DC-3,PI-C126,20593,37.0,28.0,0.0
+01/03/1961,07:40,"Koivulahti, Finland",Finnair,311,Kokkola - Vaasa,Douglas DC-3,OH-LCC,14066/25511,25.0,25.0,0.0
+01/19/1961,20:25,"New York, New York (Idlewild)",Aeronaves de Mexico,401,New York - Mexico City,McDonnell Douglas DC-8-21,XA-XAX,45432/105,106.0,4.0,0.0
+01/24/1961,02:48,"Mt. Burangrang, Indonesia",Garuda Indonesia Airlines,424,Jakarta - Bandung,Douglas DC-3,PK-GDI,19672,21.0,21.0,0.0
+02/03/1961,23:55,"Off Surabaya, Indonesia",Garuda Indonesia Airlines,542,Surabaya - Balikpapan,Douglas DC-3,PK-GDY,13052,26.0,26.0,0.0
+02/15/1961,10:05,"Near Brussels, Belgium",Sabena,548,New York City - Brussels,Boeing B-707-320,OO-SJB,17624/92,72.0,72.0,1.0
+05/30/1961,01:20,"Near Lisbon, Portugal",KLM Royal Dutch Airlines,897,"Rome  - Lisbon -  Madrid - Santa Maria, Azores -Caracas",McDonnell Douglas DC-8-53,PH-DCL,45615,61.0,61.0,0.0
+06/12/1961,04:11,"Cairo, Egypt",KLM Royal Dutch Airlines,823,Rome - Cairo,Lockheed L-188C Electra,PH-LLM,2019,36.0,20.0,0.0
+07/11/1961,11:36,"Denver, Colorado",United Air Lines,859,Omaha - Denver,McDonnell Douglas DC-8-12,N8040U,45307,122.0,17.0,1.0
+09/01/1961,02:05,"Near Hinsdale, Illinois",Trans World Airlines,529,Chicago - Las Vegas,Lockheed 049 Constellation,N86511,2035,78.0,78.0,0.0
+09/12/1961,22:09,"Near Rabat, Morrocco",Air France,2005,Paris - Rabat,Sud-Aviation Caravelle III,F-BJTB,068,77.0,77.0,0.0
+09/17/1961,08:57,"Chicago, Illinois",Northwest Orient Airlines,706,Chicago - Tampa,Lockheed 188C  Electra,N137US,1142,37.0,37.0,0.0
+11/08/1961,21:24,"Near Richmond, Virginia",Imperial Airways,201/8,Baltimore - Columbia SC,Lockheed C-69 Constellation,N2737A,1976,79.0,77.0,0.0
+03/01/1962,10:09,"Jamaica Bay, New York, New York",American Airlines,1,New York City - Los Angeles,Boeing B-707-123B,N7506A,17633/12,95.0,95.0,0.0
+03/04/1962,18:20,"Douala, Cameroon",Caledonian Airways,153,Douala - Lisboa,Douglas DC-7C,G-ARUD,45160/754,111.0,111.0,0.0
+03/15/1962,01:14,"Adak, Alaska",Flying Tiger Line,7816,"Cold Bay, AK - Adak, AK",Lockheed 1049H Super Constellation,N6911C,4804,7.0,1.0,0.0
+03/15/1962,00:30,"Western PacifiOcean, Philippine Sea",Flying Tiger Line,739/14,"Travis AFB - Honolulu - Agana, Guam - Clark AFB -Saigon",Lockheed 1049H Super Constellation,N6921C,4817,107.0,107.0,0.0
+05/22/1962,21:21,"Near Unionville, Missouri",Continental Airlines,11,"Chicago - Kansas City, MO",Boeing B-707-124,N70775,17611/49,45.0,45.0,0.0
+06/22/1962,04:01,"Basse-Terre, Guadaloupe, West Indies",Air France,117,Paris - Pointe-a Pitre - Santaigo,Boeing B-707-328,F-BHST,18247/274,112.0,112.0,0.0
+07/07/1962,23:59,"Near Junnar, Maharashtra, India",Alitalia,771,Bangkok - Bombay,McDonnell Douglas DC-8-43,I-DIWD,45631/160,94.0,94.0,0.0
+07/19/1962,15:45,"Near Bangkok, Thailand",United Arab Airlines,869,Hong Kong - Bangkok,de Havilland Comet 4C,SU-AMW,06464,26.0,26.0,0.0
+07/22/1962,23:19,"Honolulu, Hawaii",Canadian PacifiAir Lines,323,"Honolulu - Nadi, Fiji",Bristol Britannia 314,CF-CZB,13394,40.0,27.0,0.0
+09/23/1962,21:00,North AtlantiOcean,Flying Tiger Line,923,"Gander, Newfoundland - Frankfurt, Germany",Lockheed 1049H-82 Super Constellation,N6923C,4827,76.0,28.0,0.0
+10/19/1962,20:52,"Windsor Locks, Connecticut",Allegheny Airlines,928,"Washington D.C. - Providence, RI",Convair CV-340/440,N8415N,125,52.0,1.0,0.0
+11/23/1962,12:24,"Ellicott, Maryland",United Air Lines,297,Newark - Washington D.C.,Vickers Viscount 745D,N7430,128,18.0,18.0,0.0
+11/23/1962,14:10,"Le Bourget, France",Malev Hungarian Airlines,355,Frankfurt - Paris,Ilyushin IL-18D,HA-MOD,180002002,21.0,21.0,0.0
+11/27/1962,03:40,"Lima, Peru",Varig,810,Porto Alegre - Lima,Boeing B-707-441,PP-VJB,17906/129,97.0,97.0,0.0
+11/30/1962,21:45,"New York, New York",Eastern Air Lines,512,Charlotte - New York City,Douglas DC-7B,N815D,45084/711,51.0,25.0,0.0
+12/06/1962,17:00,"Barranca Bermeja, Colombia",Taxader Airlines,209,Bucaramanga - Barrancabermeja,Douglas C-47,HK-437E,4697,26.0,24.0,0.0
+12/14/1962,22:12,"Burbank, California",Flying Tiger Line,183,Chicago - Burbank,Lockheed 1049H Super Constellation,N6913C,4810,5.0,5.0,3.0
+01/17/1963,15:53,"Great Salt Lake, Utah",West Coast Airlines,703,Training,Fairchild F-27,N2703,6,3.0,3.0,0.0
+01/29/1963,22:44,"Kansas City, Missouri",Continental Airlines,290,"Midland, TX - Kansas City, MO",Vickers Viscount 812,N242V,356,8.0,8.0,0.0
+02/01/1963,17:15,"Ankara, Turkey",Middle East Airlines / Military - Turkish Air ForceC-47,265,Nicosia - Ankara,Vickers Viscount 754D,OD-ADE,244,17.0,17.0,87.0
+02/12/1963,13:48,"Near Miami, Florida",Northwest Orient Airlines,705,Miami - Chicago,Boeing B-720-051B,N724US,18354/224,43.0,43.0,0.0
+03/02/1963,10:02,"Near Davao City, Philippines",Philippine Air Lines,984,Cotabato - Davao,Douglas DC-3,PI-C489,16115/32863,27.0,27.0,0.0
+03/05/1963,18:20,"Camden, Tennesee",Private,-,Kansas City - Dyersburg - Nashville,Piper PA-24-250 Comanche,N7000P,24-2144,4.0,4.0,0.0
+03/15/1963,13:55,"Near Charana, Bolivia",Lloyd Aereo Boliviano,915,Arica - La Paz,Douglas DC-6B,CP-707,43547/204,41.0,41.0,0.0
+06/03/1963,10:16,"PacifiOcean, 116 miles WSW of Annette Island, Alaska",Northwest Orient Airlines,293,McChord AFB - Elmendorf AFB,Douglas DC-7CF,N290,45209/861,101.0,101.0,0.0
+07/02/1963,15:49,"Rochester, New York",Mohawk Airlines,112,Rochester - Newark,Martin 404,N449A,14140,43.0,7.0,0.0
+07/03/1963,09:09,"Mt. Ngatamahinerua, New Zealand",New Zealand National Airways,441,Auckland - Whenuapai - Tauranga,Douglas DC-3,ZK-AYZ,15204/26889,23.0,23.0,0.0
+07/27/1963,01:50,"Off Bandra, Maharashtra, India",United Arab Airlines,869,Bangkok - Bombay,de Havilland Comet 4C,SU-ALD,06441,63.0,63.0,0.0
+08/12/1963,13:19,"Lyon, France",Air Inter,2611,Lille - Lyon,Vickers Viscount 708,F-BGNV,039,20.0,20.0,1.0
+09/04/1963,06:22,"Durrenasch, Aargau, Switzerland",Swissair,306,Zurich - Geneva,Sud-Aviation Caravelle III,HG-ICV,147,80.0,80.0,0.0
+10/14/1963,11:33,"Jamaica, New York",New York Airways,600,Idlewild - Newark,Boeing Vetrol 107 II helicopter,N6673D,3,6.0,6.0,0.0
+11/08/1963,17:59,"Mariehamn, Aaland Island, Finland",Finnair,217,Turku - Mariehamn,Douglas DC-3,OH-LCA,9799,24.0,22.0,0.0
+11/29/1963,18:33,"Ste. Therese de Blainville, Canada",Trans Canada Air Lines,831,Montreal - Toronto,McDonnell Douglas DC-8F-54F,CF-TJN,45654/179,118.0,118.0,0.0
+12/08/1963,20:59,"Elkton, Maryland",Pan American World Airways,214,Washington - Baltimore - Philadelphia,Boeing B-707-121,N709PA,17588/3,81.0,81.0,0.0
+02/03/1964,08:00,"Gainsville, Florida",South Central Airlines,510/3,Gainsville - Jacksonville,Beech D18S,N2999,A-811,10.0,10.0,0.0
+02/21/1964,16:00,"Marawi, Philippines",Philippine Air Lines,946,Cotabato - Malabang - Iligan - Cayagan de Oro,Douglas DC-3,PI-C97,14944/2638,32.0,31.0,0.0
+02/25/1964,02:06,"Lake Pontchartrain, New Orleans, Louisiana",Eastern Air Lines,304,Mexico City - New Orleans - New York City,McDonnell Douglas DC-8-21,N8607,45428/61,58.0,58.0,0.0
+02/27/1964,06:15,"Oita, Japan",Fuji Airlines,902,Kagoshima - Oita,Convair CV-240-0,JA5098,053,42.0,20.0,0.0
+02/29/1964,14:14,"Near Innsbruck, Austria",British Eagle International Airlines,802,London - Innsbruck,Bristol Britannia 312,G-AOVO,13423,83.0,83.0,0.0
+03/01/1964,11:29,"Near Zephyr Cove, Nevada",Paradise Airlines,901A,"San Jose, CA - Lake Tahoe",Lockheed 049 Constellation,N86504,2025,85.0,85.0,0.0
+03/10/1964,08:22,"Boston, Massachutes",Slick Airways - Cargo,12,New York - Winsor Locks - Boston,Douglas DC-4,N384,18379,3.0,3.0,0.0
+03/12/1964,20:50,"Miles City, Montana",Frontier Airlines,32,Billings - Miles City - Glendive - Sidney,Douglas DC-3C,N61442,9642,5.0,5.0,0.0
+03/28/1964,22:39,"Mt. Vesuvius, Italy",Alitalia,045,Rome - Napoli,Vickers Viscount 785D,I-LAKE,328,45.0,45.0,0.0
+03/28/1964,06:00,North PacifiOcean,Private - Facilities Management Co.,-,Honolulu - San Francisco,Douglas C-54A-10-DC,N4726V,10315,9.0,9.0,0.0
+05/07/1964,06:49,"San Ramon, California",PacifiAir Lines,773,Stockton - San Fransisco,Fairchild F-27A,N2770R,0036,44.0,44.0,0.0
+11/23/1964,13:09,"Rome, Italy",Trans World Airlines,800,Rome - Athens,Boeing B-707-331,N769TW,17685/123,73.0,50.0,0.0
+07/09/1964,18:15,"Parrottsville, Tennesee",United Air Lines,823,Philidelphia - Washington - Knoxville - Huntsville,Vickers Viscount 745D,N7405,103,39.0,39.0,0.0
+11/15/1964,20:25,"Las Vegas, Nevada",Bonanza Airlines,114,Phoenix - Las Vegas,Fairchild F-27A,N745L,0029,29.0,29.0,0.0
+02/06/1965,08:36,"San Jose Volcano, Chile",LAN,107,Santiago - Buenos Aires,Douglas DC-6B,CC-CCG-104,45513/1004,87.0,87.0,0.0
+02/08/1965,18:26,"Off Jones Beach, New York, New York",Eastern Air Lines,663,New York City - Richmond VA,Douglas DC-7B,N849D,45455/981,84.0,84.0,0.0
+03/08/1965,10:30,"Libmanan, Philippines",Fairways,43,Manila - Naga,Douglas DC-3,PI-C948,4892,12.0,10.0,0.0
+03/17/1965,09:22,"Musquodoboit, Canada",Eastern Provincial Airways,102,Halifax - Sidney NS,Handley Page HPR-7 Herald 211,CF-NAF,160,8.0,8.0,0.0
+03/22/1965,14:55,"Sugar Loaf Mountain, Colombia",AVIANCA,676,Bogota - Bucaramanga,Douglas C-47,HK-109,4753,28.0,28.0,0.0
+04/23/1965,14:23,"Near Seattle, Washington",Aaxico Airlines,1422,"Seattle, WA - Ogden, UT",Douglas DC-6A,N6541C,45369/984,5.0,5.0,0.0
+05/20/1965,23:48,"Cairo, Egypt",Pakistan International Airlines,705,Karachi - Dhahran - Cairo - Geneva - London,Boeing B-720-040B,AP-AMH,18379,125.0,119.0,0.0
+07/01/1965,05:29,"Kansas City, Missouri",Continental Airlines,12,"Los Angeles - Kansas City, MO",Boeing B-707-124,N70773,17609/25,66.0,0.0,0.0
+07/08/1965,16:40,"Dog Creek, British Columbia, Canada",Canadian PacifiAir Lines,21,Vancouver - Whitehorse,Douglas DC-6B,CF-CUQ,43844/334,52.0,52.0,0.0
+07/11/1965,22:22,"Off Nantucket, Massachusetts",Military - U.S. Air Force,-,Otis AFB,EC-121H (Super Constellation),55-1036,4409,19.0,16.0,0.0
+08/16/1965,20:21,"Lake Michigan, near Chicago, Illinois",United Air Lines,389,New York City - Chicago,Boeing B-727-22,N7036U,18328/146,30.0,30.0,0.0
+09/11/1965,16:25,"Near La Carlota, Phillipines",Filipinas Orient Airways,60,Cebu - Bacolod,Douglas DC-3A,PI-C942,1926,11.0,11.0,0.0
+09/17/1965,11:25,"Montserrat, Antigua",Pan American World Airways,292,"Fort de France - Saint Johns, Antigua",Boeing B-707-121B,N708PA,17586/1,30.0,30.0,0.0
+10/20/1965,10:33,"Near Manila, Philippines",Philippine Air Lines,741,Manila - Tacloban,Douglas DC-3,PI-C-144,13403,37.0,1.0,0.0
+11/08/1965,19:02,"Cincinnati Airport, near Covington, Kentucky",American Airlines,383,New York City - Cincinnati,Boeing B-727-23,N1996,18901/153,62.0,58.0,0.0
+11/11/1965,17:52,"Salt Lake City, Utah",United Air Lines,227,Denver - Salt Lake City,Boeing B-727-22,N7030U,18322/130,91.0,43.0,0.0
+11/27/1965,07:15,"Salt Lake City , Utah",Edde Airlines,65/75,Salt Lake - Albuquerque,Douglas C-53-DO (DC-3A),N485,4848,13.0,13.0,0.0
+12/04/1965,16:18,"Carmel, New York",Trans World Airlines / Eastern Air Lines,42 / 853,Boston - Newark,Boeing B-707-131B / L1049C Constellation,N748TW/N6218C,18387/286  / 4526,112.0,4.0,0.0
+12/16/1965,17:22,"Legaspi, Philippines",Air Manila,101,Manila - Legazpi,Douglas DC-3A,PI-C856,18,21.0,2.0,0.0
+01/15/1966,20:55,"Off Cartagena, Colombia",AVIANCA,4,Bogata - Crespo,Douglas DC-6-54B,HK-730,18325,64.0,56.0,0.0
+01/24/1966,08:02,"Mont Blanc, French Alps, Switzerland",Air India,101,Bombay - Beirut  - Geneva - Paris - London -New York,Boeing B-707-437,VT-DMN,18055/200,117.0,117.0,0.0
+01/28/1966,17:50,"Bremen, Germany",Lufthansa,005,Frankfurt - Bremen,Convair CV-440-0,D-ACAT,464,46.0,46.0,0.0
+02/04/1966,19:00,"Tokyo Bay, Japan",All Nippon Airways,8302,Chitose - Tokyo,Boeing B-727-81,JA8302,18822/126,133.0,133.0,0.0
+03/04/1966,20:15,"Near Tokyo, Japan",Canadian PacifiAir Lines,402,Hong Kong - Tokyo,McDonnell Douglas DC-8-43,CF-CPK,45761/237,72.0,64.0,0.0
+03/05/1966,14:15,"Near Gotemba City, Mt. Fuji, Japan",British Overseas Airways,911,Tokyo - Hong Kong,Boeing B-707-436,G-APFE,17706/113,124.0,124.0,0.0
+03/18/1966,18:40,"Cairo, Egypt",United Arab Airlines,749,Nicosia - Cairo,Antonov AN-24B,SU-AOA,57302009,30.0,30.0,0.0
+04/22/1966,20:30,"Near Ardmore, Oklahoma",American Flyers Airline,280D,Monterey - Ardmore,Lockheed 188C Electra,N183H,1136,98.0,83.0,0.0
+04/27/1966,08:05,"Tomas, Peru",LANSA,501,Lima - Cuzco,Lockheed 749A Constellation,OB-R-771,2521,49.0,49.0,0.0
+06/29/1966,12:04,"Sagalyan, Philippines",Philippine Air Lines,785,Mamburao - San Jose,Douglas DC-3,PI-C17,20573,26.0,24.0,0.0
+08/06/1966,23:12,"Near Falls City, Nebraska",Braniff Airlines,250,"Kansas City, MO - Omaha",BAC One-Eleven 203AE,N1553,070,42.0,42.0,0.0
+09/01/1966,00:47,"Near Ljubljana, Slovenia, Yugoslavia",Britannia Airways,105,Luton - Ljubljana,Bristol Britannia 102,G-ANBB,12903,117.0,98.0,0.0
+09/22/1966,13:03,"Winton, Australia",Ansett ANA,149,Mount Isa - Longreach,Vickers Viscount 832,VH-RMI,416,24.0,24.0,0.0
+10/01/1966,19:10,"Near Wemme, Oregon",West Coast Airlines,956,Eugene - Portland,McDonnell Douglas DC-9-14,N9101,45794/52,18.0,18.0,0.0
+11/11/1966,01:43,"Off Chatham, Massachusetts",Military - U.S. Air Force,-,Otis AFB,Lockheed EC-121H,55-5262,4413,19.0,19.0,0.0
+11/13/1966,20:30,"Off Matsuyama, Japan",All Nippon Airways,533,Osaka - Matsuyama,NAMC-YS-11-111,JA8658,2023,50.0,50.0,0.0
+11/24/1966,16:30,"Near Bratislava, Czechoslovakia",Transportno Aviatsionno Bulgaro-Soviet Obshchestvo,101,Bratislava - Praha,Ilyushin IL-18B,LZ-BEN,184007101/356,82.0,82.0,0.0
+12/24/1966,09:56,"Cascubel River, Colombia",AVIANCA,729,Bogota - Cali,Douglas C-47A-80-DL,HK-161,19630,29.0,29.0,0.0
+02/16/1967,14:21,"Menado, Indonesia",Garuda Indonesia Airlines,708,Jakarta - Menado via Surabaya,Lockheed L-188C Electra,PK-GLB,2021,63.0,22.0,0.0
+02/28/1967,04:20,"Mactan, Philippines",Philippine Air Lines,345,Manila - Mactan,Fokker F-27 Friendship 100,PI-C501,10147,20.0,12.0,0.0
+03/04/1967,02:56,"Monrovia, Liberia",Varig,837,Rome - Monrovia,McDonnell Douglas DC-8-33,PP-PEA,45253/5,90.0,51.0,5.0
+03/05/1967,20:07,"Near Marseille, Ohio",Lake Central Airlines,527,Colombus - Toledo,Convair CV-380,N73130,023,38.0,38.0,0.0
+03/09/1967,11:54,"Urbana, Ohio",Trans World Airlines / Private,553,Pittsburgh - Dayton,MD Douglas DC-9-15 / Beechcraft Baron-55,N1063T/N6127V,45777/80 / ,26.0,26.0,0.0
+03/13/1967,17:10,"Off East London, South Africa",South African Airways,406,Port Elizabeth - East London,Vickers Viscount 818,ZS-CVA,317,25.0,25.0,0.0
+03/30/1967,00:45,"New Orleans, Louisiana",Delta Air Lines,9877,New Orleans AP - New Orleans AP,McDonnell Douglas DC-8-51,N802E,45409/19,6.0,6.0,13.0
+04/25/1967,19:05,"Off Nantucket, Massachusetts",Military - U.S. Air Force,-,Otis AFB,EC-121H (Super Constellation),53-0549,4364,15.0,14.0,0.0
+06/23/1967,13:47,"Blossburg, Pennsylvania",Mohawk Airlines,40,Elmira - Washington DC,BAC One Eleven 204AF,N1116J,098,34.0,34.0,0.0
+07/06/1967,18:43,"Bacolod, Philippines",Philippine Air Lines,385,Bacolod - Mactan,Fokker F-27 Friendship 100,PI-C527,10285,21.0,21.0,0.0
+07/19/1967,11:01,"Near Hendersonville, North Carolina",Piedmont Airlines / Private,22,Ashville - Roanoke,Boeing B-727-22 / Cessna 310,N68650/N3121S,18295/4 / ,82.0,82.0,0.0
+09/05/1967,05:10,"Near Gander, Newfoundland, Canada",Ceskoslovenske Aerolinie,523,Gander - Havana,Ilyushin IL-18,OK-WAI,187009705,69.0,37.0,0.0
+10/12/1967,07:25,"Off Rhodes, Greece",British European Airways,284,Athens - Nicosia,de Havilland Comet 4B,G-ARCO,06449,66.0,66.0,0.0
+11/05/1967,10:35,"Hong Kong, China",Cathay PacifiAirways,033,Hong Kong - Saigon,Convair CV-880-22M-3,VR-HFX,22-00-37,127.0,1.0,0.0
+11/06/1967,18:41,"Cincinnati, Ohio",Trans World Airlines,159,Cincinnati - Los Angeles,Boeing B-707-131,N742TW,17669/43,36.0,1.0,0.0
+11/20/1967,20:57,"Cincinnati International Airport, Covington/Hebron, Kentucky",Trans World Airlines,128,Los Angeles - Cincinnati,Convair CV-880-22-1,N821TW,22-00-27,82.0,70.0,0.0
+12/10/1967,15:25,"Near Madison, Wisconsin",Private,-,"Cleveland, OH - Madison WI",Beechcraft 18H,N390R,BA-623,8.0,7.0,0.0
+12/25/1967,13:49,"Chiang Mai, Thailand",Thai Airways,002,Bangkok - Chiang Mai,Douglas DC-3,HS-TDH,9189,31.0,4.0,0.0
+02/16/1968,21:20,"Linkuo, Taiwan",Civil Air Transport,10,Hong Kong - Taipei,Boeing B-727-92C,B-1018,19175/339,63.0,21.0,1.0
+03/06/1968,20:32,"Basse-Terre, Guadeloupe, West Indies",Air France,212,Caracas - Pointe a Pitre,Boeing B-707-328C,F-BLCJ,19724,63.0,63.0,0.0
+03/08/1968,19:18,"Off Panay Island, Philippines",Air Manila,507,Manila - Lapu Lapu,Fairchild F-27,PI-C871,0019,14.0,14.0,0.0
+03/24/1968,10:59,"Off Wexford Harbor, Ireland",Aer Lingus,712,Cork - London,Vickers Viscount 803,EI-AOM,178,61.0,61.0,0.0
+04/08/1968,15:35,"Heathrow Airport, London, England",British Overseas Airways,712,London - Zurich,Boeing B-707-465,G-ARWE,18373,127.0,5.0,0.0
+04/20/1968,18:50,"Near Windhoek, South Africa (Namibia)",South African Airways,228/129,Windhoek - Luanda,Boeing B-707-344C,ZS-EUW,19705,128.0,123.0,0.0
+05/03/1968,15:48,"Near Dawson, Texas",Braniff Airlines,352,Houston - Dallas-Fort Worth,Lockheed L188A Electra,N9707C,1099,85.0,85.0,0.0
+08/10/1968,07:57,"Charleston, West Virginia",Piedmont Airlines,230,"Cincinnati - Charlston, WV",Fairchild-Hiller FH-227B,N712U,557,37.0,35.0,0.0
+09/11/1968,10:30,"Off Cap d'Antibes, France",Air France,1611,Ajaccio - Nice,Sud-Aviation Caravelle 3,F-BOHB,244,95.0,95.0,0.0
+10/25/1968,17:17,"Hanover, New Hampshire",Northeast Airlines,946,"Boston, MA - Montpelier, VT - Lebanon, NH",Fairchild-Hiller FH227C,N380NE,517,42.0,32.0,0.0
+11/22/1968,01:24,"San Francisco, California",Japan Air Lines,2,Tokyo - San Francisco,McDonnell Douglas DC-8-62,JA8032,45954,107.0,0.0,0.0
+11/23/1968,19:59,"Santa Ana, California",Cable Commuter,544,Los Angeles - Santa Ana,de Havilland Canada DHC-6 Twin Otter 200,N7666,148,9.0,9.0,0.0
+12/02/1968,09:36,"Pedro Bay, Alaska",Wien Consolidated Airlines,55,Anchorage - Iliamna,Fairchild F-27B,N4905,0049,39.0,39.0,0.0
+12/12/1968,22:02,"Near Caracas, Venezuela",Pan American World Airways,217,New York City - Caracas,Boeing B-707-321B,N494PA,19696/688,51.0,51.0,0.0
+12/24/1968,20:12,"Bradford, Pennsylvania",Allegheny Airlines,736,Detroit - Erie - Bradford - Washington D.C.,Convair CV-580,N5802,410,47.0,20.0,0.0
+12/27/1968,20:22,"Chicago, Illinois",North Central Airlines,458,Minneapolis - Chicago - Milwaukee,Convair CV-580,N2045,369,45.0,27.0,1.0
+12/31/1968,08:30,"Port Hedland, WA, Australia",MaRobertson-Miller Airlines,1750,Perth - Port Hedland,Vickers Viscount 720,VH-RMQ,045,26.0,26.0,0.0
+01/02/1969,20:12,"Mt. Paku, Taiwan",China Airlines (Taiwan),227,Kaohsiung - Hualien,Douglas DC-3D,B-309,12541,24.0,24.0,0.0
+01/05/1969,02:35,"Gatwick Airport, Horley, Surrey,  England",Ariana Afghan Airlines,701,Frankfurt - London,Boeing B-727-113C,YA-FAR,19690/540,65.0,50.0,2.0
+01/06/1969,20:35,"Near Bradford, Pennsylvania",Allegheny Airlines,737,Washington - Harrisburgh - Bradford - Erie - Detroit,Convair CV-580,N5825,386,28.0,11.0,0.0
+01/13/1969,19:21,"Off Los Angeles, California",Scandinavian Airlines (SAS),933,Copenhagen - Los Angeles - Seattle,McDonnell Douglas DC-8-62,LN-MOO,45822,45.0,15.0,0.0
+01/18/1969,18:21,"Off Los Angeles, California",United Air Lines,266,Los Angeles - Denver - Milwaukee,Boeing B-727-22QC,N7434U,19891/631,38.0,38.0,0.0
+02/18/1969,05:10,"Near Lone Pine, California",Mineral County Airlines,708,"Hawthorne, NV - Burbank - Long Beach",Douglas DC-3,N15570,6320,35.0,35.0,0.0
+03/16/1969,12:00,"Maracaibo, Zulia, Venezuela",Venezolana Internacional de Aviacion,742,Maracaibo - Miami,McDonnell Douglas DC-9-32,YV-C-AVD,47243/448,84.0,84.0,70.0
+06/04/1969,08:42,"Near Salinas Victoria, Nuevo Leon, Mexico",Compania Mexicana de Aviacion,704,Mexico City - Monterey,Boeing B-727-64,XA-SEL,19256/355,79.0,79.0,0.0
+07/06/1969,20:22,"Near Monroe, Georgia",Air South,168,"Atlanta, GA - Sumpter, SC - Greer, SC",Beechcraft B-99,N844NS,U16,14.0,14.0,0.0
+08/31/1969,20:05,"Newton, Iowa",Private Charter,-,Chicago - Des Moines.,Cessna 172H,N3149X,55299,3.0,3.0,0.0
+09/09/1969,14:29,"Near Fairland, Indiana",Allegheny Airlines / Forth Corporation,853,Indianapolis - Bakalar AFB,MD Douglas DC-9-31/Piper Cherokee PA-28,N988VJ/N7374J,47211/357 / ,83.0,83.0,0.0
+09/17/1969,17:09,"Campbell River, Canada",PacifiWestern Airlines,627,Vancouver - Campbell River,Convair CV-640,CF-PWR,440,15.0,4.0,0.0
+11/19/1969,20:20,"Mt. Pilot Knob, Glen Falls, New York",Mohawk Airlines,411,Albany - Glenn Falls,Fairchild-Hiller FH-227B,N7811M,531,14.0,14.0,0.0
+11/20/1969,08:30,"Near Ikeja, Nigeria",Nigeria Airways,825,Kano - Lagos,BAC VC-10-1101,5N-ABD,804,87.0,87.0,0.0
+01/13/1970,06:00,"Faleolo, Western Samoa",Polynesian Airlines,208B,"Apia, Western Samoa - Pago Pago, American Samoa",Douglas DC-3,5W-FAC,16964,32.0,32.0,0.0
+02/10/1970,18:37,"Long Island Sound, Connecticut",Pilgrim Airlines,203,"Groton, CT - New York, NY",de Havilland Canada DHC-6 Twin Otter 100,N124PM,41,5.0,5.0,0.0
+02/21/1970,13:34,"Zurich, Switzerland",Swissair,330,Zurich - Tel Aviv,Convair CV-990-30A-6,HB-ICD,301015,47.0,47.0,0.0
+05/02/1970,15:49,"Near St. Croix, US Virgin Islands",Antillian Airlines,980,New York City - St. Maarten,McDonnell Douglas DC-9-33CF,N935F,47407/457,63.0,23.0,0.0
+05/09/1970,21:28,"Pellston, Michigan",Executive Jet Sales Inc.,-,Detroit - Pellston,Gates Learjet 23,N434EJ,23-046,6.0,6.0,0.0
+05/30/1970,09:30,"Chamblee, Georgia",Lehigh Acres Development Inc.,701,"Chamblee, GA - Fort Myers,FL",Martin 404,N40412,14116,33.0,1.0,5.0
+07/05/1970,08:09,"Toronto, Canada",Air Canada,621,Montreal - Toronto - Los Angeles,McDonnell Douglas DC-8-63,CF-TIW,46114/526,109.0,109.0,0.0
+07/27/1970,11:35,"Tokyo, Japan",Flying Tiger Line,45,Tokyo - Okinawa,McDonnell Douglas DC-8-63AF,N785FT,46005/412,4.0,4.0,0.0
+09/08/1970,16:06,"New York, New York",Trans International Airlines,863,"Jamaica, NY - Washington D.C.",McDonnell Douglas DC-8-63CF,N4863T,45951/414,11.0,11.0,0.0
+10/02/1970,12:00,"Mt. Trelease, near Silver Plume, Colorado","Charter, Golden Eagle Aviation Inc.",108,"Wichita - Denver - Logan, Utah",Martin 404,N464M,14151,40.0,30.0,0.0
+11/14/1970,19:36,"Near Huntington, West Virginia",Southern Airways,932,"Kingston, NC - Huntington, WV",McDonnell Douglas DC-9-31,N97S,47245/510,75.0,75.0,0.0
+11/27/1970,17:05,"Anchorage, Alaska",Capital Airlines,26,Anchorage - Yokota AFB,McDonnell Douglas DC-8-63CF,N4909C,46060/472,229.0,47.0,0.0
+12/28/1970,14:42,"St. Thomas, Virgin Islands",Trans Caribbean Airways,505,New York - St. Thomas,Boeing B-727-2A7,N8790R,20240,55.0,2.0,0.0
+01/09/1971,16:20,"Edison, New Jersey",American Airlines / Private,30,"San Francisco, CA - Newark, NJ",Boeing B-707-323 / Cessna 150,N7595A/N60942,19345 / ,21.0,2.0,0.0
+01/18/1971,15:49,"Zurich, Switzerland",Balkan Bulgarian Airlines,LZ130,Paris - Zurich - Sofia,Ilyushin IL-18,LZ-BED,186009002,47.0,45.0,0.0
+03/31/1971,06:33,"Ontario, California",Western Airlines,366,Los Angeles - Ontairo,Boeing B-720-047B,N3166,19439,5.0,5.0,0.0
+05/23/1971,20:00,"Near Rijeka, Yugoslavia",Aviogenex (Yugoslavia),130,London - Rijeka,Tupolev TU-134A,YU-AHZ,1351205,83.0,78.0,0.0
+06/06/1971,17:11,"Near Duarte, California",Hughes Airwest  / Military - US Marine Air Corps,706,Los Angeles - Salt Lake City,McDonnell Douglas DC-9-31 / F4-B,N9345/151458,47441/503 / ,51.0,50.0,0.0
+06/07/1971,08:49,"New Haven, Connecticut",Allegheny Airlines,485,"Washington D.C. - Newport News, VA - Philadelphia",Convair CV-580,N5832,384,31.0,28.0,0.0
+07/03/1971,18:10,"Hokkaido, Japan",Toa DomestiAirline (Japan),63,Sapporo - Hakodate,NAMC YS-11A-227,JA8764,2134,68.0,68.0,0.0
+07/30/1971,14:00,"Near Morioko, Japan",All Nippon Airways /  Japanese Air Force,58,Sapporo - Tokyo,Boeing B-727-281 / Air Force F86F,JA8329 / ,20436/788,164.0,163.0,0.0
+07/30/1971,14:29,"San Francisco, California",Pan American World Airways,845,San Francisco - Los Angeles,Boeing B-747-121,N747PA,19639/2,218.0,0.0,0.0
+09/04/1971,11:15,"Near Juneau, Alaska",Alaska Airlines,1866,Anchorage - Seattle,Boeing B-727-193,N2969G,19304/287,111.0,111.0,0.0
+10/02/1971,11:10,"Near Aarsele, West Vlaanderen, Belgium",British European Airways,706,London - Salzburg,Vickers Vanguard 951,G-APEC,706,63.0,63.0,0.0
+12/24/1971,12:36,"Near Puerto Inca, Huanuco, Peru",Lineas Aereas Nacionales SA (Peru),508,Lima - Pucallpa,Lockheed 188A Electra,OB-R-941,1086,92.0,91.0,0.0
+01/07/1972,22:00,"Sierra de Atalayasa, Spain",Iberia Airlines,602,Valencia - Ibiza,Sud-Aviation Caravelle VI-R,EC-ATV,163,104.0,104.0,0.0
+01/26/1972,16:10,"Near Hermsdorf, Czechoslovakia",JAT Yugoslav Airlines,JU 367,Stockholm - Belgrade,McDonnell Douglas DC-9-32,YU-AHT,47482/592,28.0,27.0,0.0
+03/03/1972,20:48,"Albany, New York",Mohawk Airlines,405,"New York City - Albany, NY",Fairchild-Hiller FH-227-B,N7818M,541,48.0,16.0,1.0
+03/14/1972,22:00,"Near Al Fujayrah, United Arab Emirates",Sterling Airways,296,Colombo - Dubai,Aerospatiale Caravelle Super 10B,OY-STL,267,112.0,112.0,0.0
+04/18/1972,09:39,"Addis Ababa, Ethiopia",East African Airways,720,Addis Ababa - Rome,BAC Super VC-10 1154,5X-UVA,881,107.0,43.0,0.0
+05/05/1972,22:24,"Near Carini, Sicily, Italy",Alitalia,112,Rome - Palermo,McDonnell Douglas DC-8-43,I-DIWB,45625/150,115.0,115.0,0.0
+05/30/1972,06:24,"Dallas/Ft. Worth, Texas",Delta Air Lines,9570,Training,McDonnell Douglas DC-9-14,N3305L,45700,4.0,4.0,0.0
+06/14/1972,20:20,"Near New Delhi, India",Japan Air Lines,471,Bangkok - Delhi,McDonnell Douglas DC-8-53,JA8012,45860/213,87.0,82.0,4.0
+06/15/1972,14:00,"Near Pleiku, Vietnam",Cathay PacifiAirways,700Z,Bangkok - Hong Kong,Convair CV-880-22M-21,VR-HFZ,22-7-1-53,81.0,81.0,0.0
+06/18/1972,16:11,"London Heathrow,  Staines, Surrey, England",British European Airways,548,London - Brussels,Hawker Siddeley Trident 1C,G-ARPI,2109,118.0,118.0,0.0
+06/24/1972,23:17,"Ponce, Puerto Rico",Prinair,191,San Juan - Ponce,de Havilland DH-114 Heron 2B,N554PR,14085,20.0,5.0,0.0
+06/29/1972,09:37,"Appleton, Wisconsin",North Central Airlines / Air Wisconsin,290 / 671,"Chicago, IL - Appleton, WI - Sheboygan, WI",Convair CV-580/De Hav. Twin Otter 100,N90858/N4043B,083 / 013,13.0,13.0,0.0
+10/27/1972,19:20,"Near Noiretable, Loire, France",Air Inter,696,Lyon - Clermont,Vickers Viscount 724,F-BMCH,050,68.0,60.0,0.0
+11/28/1972,19:51,"Near Moscow, Russia",Japan Air Lines,446,Moscow - Tokyo,McDonnell Douglas DC-8-62,JA8040,46057/474,76.0,62.0,0.0
+12/08/1972,14:28,"Chicago, Midway Airport, Illinois",United Air Lines,553,Washington - Chicago,Boeing B-737-222,N9031U,19069/75,61.0,43.0,2.0
+12/20/1972,18:00,"Chicago, Illinois",Delta Air Lines/ North Central Airlines,954/575,Tampa - Chicago / Chicago - Madison,Convair CV-880 / McDonnell DC-9-31,N8897E/N954N,22-00-29 / 47159/231,133.0,10.0,0.0
+12/29/1972,23:42,"Everglades National Park, Florida",Eastern Air Lines,401,New York City - Miami,Lockheed L-1011 TriStar1,N310EA,1011,176.0,103.0,0.0
+02/21/1973,14:10,"Near Isma'iliya, Egypt",Libya Arab Airlines,114,Tripoli - Cairo,Boeing B-727-224,5A-DAH,20244/650,113.0,110.0,0.0
+03/03/1973,12:45,"Moscow, Russia",Balkan Bulgarian Airlines,307,Sofia - Moscow,Ilyushin IL-18V,LZ-BEM,182005602,25.0,25.0,0.0
+03/05/1973,13:50,"Near Nantes, France",Lineas Aereas de Espana/Spantax SA Transportes,504/400,Palma de Mallorca - London,MD Douglas DC-9-32/Convair CV-990A,EC-BII/EC-BJC,47077/148 /30-10-22,182.0,68.0,0.0
+07/11/1973,14:03,"Paris, Orly, France",Varig,820,Rio - de Janerio - Paris,Boeing B-707-345C,PP-VJZ,19106/683,134.0,123.0,0.0
+07/22/1973,22:07,"Off Papeete, Tahiti",Pan American World Airways,816,"Auckland, NZ - Papeete, Tahiti - Honolulu - Los Angeles",Boeing B-707-321B,N417PA,18959,79.0,78.0,0.0
+07/23/1973,16:43,"St. Louis, Missouri",Ozark Air Lines,809,"Marion, IL - St. Louis",Fairchild-Hiller FH-227B,N4215,513,44.0,38.0,0.0
+07/31/1973,10:08,"Logan Airport, Boston, Massachusett",Delta Air Lines,723,"Burlilngton, VT  - Boston, MA",McDonnell Douglas DC-9-31,N975NE,47075/166,89.0,89.0,0.0
+10/13/1973,20:15,"Near  Domodedovo, Russia",Aeroflot,964,Tbilisi - Moscow,Tupolev TU-104B,SSR-42486,021504,119.0,119.0,0.0
+08/13/1973,11:40,"Near La  Corunda, Spain",Aviaco,116,Madrid - La Coruna,Sud-Aviation Caravelle 10-R,EC-BIC,225/224,85.0,85.0,5.0
+08/28/1973,20:50,"Thirty-five miles west of Los Angeles, California",Trans World Airlines,742,Honolulu - Los Angeles,Boeing B-707-331B,N8705T,18916/455,149.0,1.0,0.0
+09/20/1973,22:45,"Natchitoches, Louisiana",Private Charter,-,"Natchitoches, La - Dallas, TX",Beechcraft E18S,N50JR,BA-176,6.0,6.0,0.0
+09/27/1973,19:52,"Rich Mountain, Arkansas",Texas International Airlines,655,Memphis - El Dorado - Texarkana - Dallas,Convair 600,N94230,056,11.0,11.0,0.0
+11/03/1973,16:40,"Near Albuquerque,  New Mexico",National Airlines,27,"Miami, FL - San Francisco, CA",McDonnell Douglas DC-10-10,N60NA,46700/14,128.0,1.0,0.0
+11/03/1973,09:39,"Boston, Massachusett",Pan American World Airways,160,New York City - Prestwick,Boeing B-707-321C,N458PA,19368/640,3.0,3.0,0.0
+12/17/1973,13:00,"Rome, Italy",Pan American World Airways,110,Rome - Beirut,Boeing B-707-321B,N407PA,18838,177.0,30.0,0.0
+01/30/1974,23:41,"Pago Pago, American Samoa",Pan American World Airways,806,Auckland - Pago Pago,Boeing B-707-321B,N454PA,19376/661,101.0,96.0,0.0
+03/03/1974,11:41,"Near Ermenonville, France",Turkish Airlines (THY),981,Paris - London,McDonnell Douglas DC-10-10,TC-JAV,46704/29,346.0,346.0,0.0
+03/13/1974,19:28,"Bishop, California",Sierra PacifiAirlines,802,Bishop - Burbank,Convair CV-440,N4819C,138,36.0,36.0,0.0
+04/22/1974,15:26,"Grogak, Bali, Indonesia",Pan American World Airways,812,"Hong Kong - Bali, Indonesia - Sydney, Austrailia",Boeing B-707-321C,N446PA,19268/544,107.0,107.0,0.0
+06/08/1974,17:30,"Monte San Isidro,  Colombia",Aerolineas TAO,514,Bucaramanga - Cucuta,Vickers Viscount 785D,HK-1058,380,44.0,44.0,0.0
+09/08/1974,09:40,"Ionian Sea , off Kefallinia, Greece",Trans World Airlines,841,Tel Aviv - Athens - Rome - New York,Boeing B-707-331B,N8734,20063/789,88.0,88.0,0.0
+09/11/1974,07:34,"Near Charlotte, North Carolina",Eastern Air Lines,212,"Charleston, SC - Charlotte, NC - Chicago, IL",McDonnell Douglas DC-9-31,N8984E,47400/443,82.0,70.0,0.0
+09/15/1974,11:00,"Phan Rang, Vietnam",Air Vietnam (South Vietnam),706,Da Nang - Saigon,Boeing B-727-121C,XV-NJC,19819,75.0,75.0,0.0
+11/20/1974,07:50,"Near Nairobi, Kenya",Lufthansa,540,Nairobi - Johannesburg,Boeing B-747-130,D-ABYB,19747/29,157.0,59.0,0.0
+12/01/1974,19:26,"Bear Mountain,  Thiells, New York",Northwest Orient Airlines,6231,"New York City, NY - Buffalo, NY",Boeing B-727-251,N274US,20296,3.0,3.0,0.0
+12/01/1974,11:10,"Near Berryville, Virginia",Trans World Airlines,514,Columbus - Washington D.C.,Boeing B-727-231,N54328,20306/791,92.0,92.0,0.0
+01/09/1975,16:07,"Whittier, California",Golden West Airlines / Private,261,Ontario - Los Angeles,de Hav Can. DHC-6 Tw Otter 100/ Cessna,N6383,83,14.0,14.0,0.0
+06/24/1975,16:05,"JFK Airport, New York, New York",Eastern Air Lines,66,New Orleans - New York City,Boeing B-727-225,N8845E,20443/837,124.0,113.0,0.0
+08/07/1975,16:11,"Denver, Colorado",Continental Airlines,426,Denver - Wichita,Boeing B-727-224,N88777,19798/608,131.0,0.0,0.0
+08/20/1975,01:15,"Near Damascus, Syria",Ceskoslovenske Aerolinie,542,"Prague, Czechoslovakia - Damascus, Syria",Ilyushin IL-62,OK-DBF,31502,128.0,126.0,0.0
+08/30/1975,13:57,"Near Gambell, Alaska",Wien Air Alaska,99,Nome - Gambell,Fairchild F-27B,N4904,21,32.0,10.0,0.0
+01/01/1976,05:30,"Near Al Qaysumah, Saudi Arabia",Middle East Airlines,438,Beirut - Dubai,Boeing B-720B-023B,OD-AFT,18020/165,82.0,82.0,0.0
+04/05/1976,08:19,"Ketchikan, Alaska",Alaska Airlines,60,Juneau - Ketchikan,Boeing B-727-81,N124AS,18821,50.0,1.0,0.0
+04/27/1976,15:10,"St. Thomas, Virgin Islands",American Airlines,625,New York City - Saint Thomas,Boeing B-727-95,N1963,19837/499,88.0,37.0,0.0
+05/09/1976,16:30,"Near Cuneca, Spain",Military - Imperial Iranian Air Force,228,"Terhan, Iran - Madrid, Spain - McGuire AFB, New Jersey",Boeing B-747-131F,5-283,19677/73,17.0,17.0,0.0
+06/04/1976,14:48,"Agana, Guam",Air Manila,702,Wake Island - Guam - Manila,Lockheed 188A Electra,RP-C1061,1007,45.0,45.0,1.0
+09/09/1976,14:50,"Off Adler, Russia",Aeroflot / Aeroflot,7957 /31,Donetsk - Sochi /Rostov na Donu - Kerch,Antonov AN-24 / Yakovlev Yak-40,46518/87772,37308504 / 9030713,90.0,90.0,0.0
+09/10/1976,10:15,"Near Gaj, Hrvatska, Yugoslavia",Inex Adria Aviopromet / British Airways,330/476,Split - Koln / London - Istanbul,McDonnell Douglas DC-9-31 / Trident 3B,YU-AJR/G-AWZT,47649741 / 2320,176.0,176.0,0.0
+10/06/1976,13:24,"Off Bridgetown, Barbados",Cubana de Aviacion,455,Bridgetown - Kingston,McDonnell Douglas DC-8-43,CU-T1201,45611/48,73.0,73.0,0.0
+12/12/1976,23:26,"Cape May, New Jersey",AtlantiCity Airlines,977,AtlantiCity - Cap May,de Havilland Canada DHC-6 Twin Otter 300,N101AC,262,10.0,3.0,0.0
+12/25/1976,03:45,"Near Bangkok, Thailand",EgyptAir,864,Cairo - Bangkok,Boeing B-707-366C,SU-AXA,20763,53.0,53.0,19.0
+01/13/1977,18:15,"Near Alma Ata,  Kazakastan, USSR",Aeroflot,3843,Novosibirsk - Alma Ata,Tupolev TU-104A,CCCP-42369,86601203,96.0,96.0,0.0
+03/27/1977,17:07,"Tenerife, Canary Islands",Pan American World Airways / KLM,1736/4805,Tenerife - Las Palmas / Tenerife - Las Palmas,Boeing B-747-121 / Boeing B-747-206B,N736PA/PH-BUF,19643/11 / 20400/157,644.0,583.0,0.0
+04/04/1977,16:19,"New Hope, Georgia",Southern Airways,242,Huntsville - Atlanta,McDonnell Douglas DC-9-31,N1335U,47393/608,85.0,62.0,8.0
+09/06/1977,14:52,"Mt. Iliamna, Alaska",Alaska Aeronautical Industries,302,Iliamna - Anchorage,de Havilland Canada DHC-6 Twin Otter 200,N563MA,196,13.0,13.0,0.0
+11/19/1977,21:48,"Near Funchal, Island of Madeira, Portugal",TAP (Air Portugal),425,Brussels - Funchal,Boeing B-727-282,CS-TBR,20972/1096,164.0,131.0,0.0
+12/04/1977,20:15,"Straits of Johore, near Kampung Ladang, Malaysia",Malaysia Airlines,653,Penang - Kuala Lumpur,Boeing B-737-2H6,9M-MBD,20585/306,100.0,100.0,0.0
+12/13/1977,19:22,"Evansville, Indiana","National Jet Services Inc.,  (Air Indiana)",216,Evansville - Nashville,Douglas DC-3,N51071,4837,29.0,29.0,0.0
+01/01/1978,20:15,"Off Bandra, Maharashtra, India",Air India,855,Bombay - Dubai,Boeing B-747-237B,VT-EBD,19959/124,213.0,213.0,0.0
+02/10/1978,16:50,"Richland, Washington",Columbia PacifiAirlines,23,"Richland, WA - Seattle, WA",Beechcraft 99,N199EA,U037,17.0,17.0,0.0
+02/11/1978,12:55,"Cranbrook, British Columbia, Canada",PacifiWestern Airlines,314,Calgary - Cranbrook,Boeing B-737-275,C-FPWC,20142/253,49.0,42.0,0.0
+03/01/1978,09:25,"LAX, Los Angeles, California",Continental Airlines,603,Los Angeles - Honolulu,McDonnell Douglas DC-10-10,N68045,46904,200.0,2.0,0.0
+05/08/1978,21:20,"Pensacola, Florida",National Airlines,193,"Miami, FL - Pensacola, FL - Mobile, AL",Boeing B-727-235,N4744,19464,58.0,3.0,0.0
+06/26/1978,08:08,"Toronto, Canada",Air Canada,189,Toronto - Winnipeg,McDonnell Douglas DC-9-32,C-FTLV,47197,107.0,2.0,0.0
+09/03/1978,17:30,"Near Kariba, Rhodesia (Zimbabwe)",Air Rhodesia,825,Kariba - Salisbury,Vickers Viscount 782D,VP-WAS,297,56.0,38.0,0.0
+09/25/1978,09:02,"San Diego, California",PacifiSouthwest Airlines / Private,182,Los Angeles - San Diego,Boeing B-727-214 / Cessna 172,N533PS/N7711G,19688/589 / ,137.0,137.0,7.0
+12/04/1978,19:45,"Near Steamboat Springs, Coloado",Rocky Mountain Airways,217,Steamboat Springs - Denver,de Havilland Canada DHC-6 Twin Otter 300,N25RM,387,22.0,2.0,0.0
+12/23/1978,00:39,"Near Cinisi, Sicily, Italy",Alitalia,4128,Rome - Palermo,McDonnell Douglas DC-9-32,I-DIKQ,47227/334,129.0,108.0,0.0
+12/28/1978,18:15,"Portland, Oregon",United Air Lines,173,Denver - Portland,McDonnell Douglas DC-8-61,N8082U,45972/357,189.0,10.0,0.0
+02/12/1979,13:00,"Clarksburg, West Virginia",Allegheny Airlines,561,Clarksburg - Washington DC,Nord 262,N29824,48,25.0,2.0,0.0
+03/06/1979,18:55,"Near Probolinggo, Indonesia",Garuda Indonesia Airlines,553,Denpasar - Surabaya,Fokker F-28 Fellowship 1000,PK-GVP,11094,4.0,4.0,0.0
+03/10/1979,17:52,"Off Marina del Rey, California",Swift Aire Lines Inc.,235,New York - Santa Monica,Aerospatiale Nord 262A-33,N418SA,41,7.0,3.0,0.0
+05/25/1979,15:04,"Chicago O'Hare, Illinois",American Airlines,191,"Chicago, IL- Los Angeles, CA",McDonnell Douglas DC-10-10,N110AA,46510/22,271.0,271.0,2.0
+05/30/1979,20:55,"Rockland, Maine",Downeast Airlines,46,Boston - Rockland,de Havilland DHC-6-200,N68DE,229,18.0,17.0,0.0
+06/17/1979,22:48,"Hyannis, Massachusetts",Air New England,248,"New York, NY - Hyannis, MA",de Havilland Canada DHC-6 Twin Otter 300,N383EX,245,10.0,1.0,0.0
+07/24/1979,09:22,"St. Croix, Virgin Islands",Prinair,610,St. Croix - St. Kitts,de Havilland DH-114 Heron,N575PR,14125,21.0,8.0,0.0
+08/11/1979,13:35,"Dneprodzerzhinsk, Ukraine, USSR",Aeroflot / Aeroflot,7880,Tashkent - Donetsk - Minsk /Chelyabinsk to Kishinev,Tupolev TU-134A / Tupolev Tu-134A,65735/65816,2351516 / 05040,178.0,178.0,0.0
+09/14/1979,20:47,"Near Klamath Falls, Oregon",Butler Aviation Inc.,-,Redmond - Klamath Falls - Medford,Douglas DC-7,N455SW,44287,12.0,12.0,0.0
+10/31/1979,05:42,"Mexico City, Mexico",Western Airlines,2605,"Los Angeles, CA  - Mexico City, Mexico",McDonnell Douglas DC-10-10,N903WA,46929/107,88.0,72.0,1.0
+11/26/1979,02:03,"Near At Ta'if, Jeddah, Saudi Arabia",Pakistan International Airlines,740,Jeddah - Karachi,Boeing B-707-340C,AP-AWZ,20275/844,156.0,156.0,0.0
+11/28/1979,12:49,"Near Mt. Erebus, Ross Ice Shelf, Antarctica",Air New Zealand,901,Auckland - Christchurch,McDonnell Douglas DC-10-30,ZK-NZP,46910/182,257.0,257.0,0.0
+03/14/1980,11:00,"Near Warsaw, Poland",LOT Polish Airlines,007,New York City - Warsaw,Ilyushin IL-62,SP-LAA,11004,87.0,87.0,0.0
+04/25/1980,13:21,"Tenerife, Canary Islands",Dan Air Services,1008,Manchester - Tenerife,Boeing B-727-64,G-BDAN,19279/288,146.0,146.0,0.0
+04/27/1980,06:55,"Don Muang, Thailand",Thai Airways,231,Khon Kaen - Bangkok,Hawker Siddeley HS-748-2,HS-THB,1568,53.0,44.0,0.0
+06/12/1980,15:46,"Valley, Nebraska",Air Wisconsin,965,"Appleton, WI - Minneapolis, MN, - Lincoln, NE",Swearingen 226TC Metro II,N6505,TC-228,15.0,13.0,0.0
+06/27/1980,20:59,"Tyrrhenian Sea,  off Ustica, Italy",Itavia,870,Bologna - Palermo,McDonnell Douglas DC-9-15,I-TIGI,45724/22,81.0,81.0,0.0
+07/07/1980,00:39,"Nar Alma-Ata, Kasakastan, USSR",Aeroflot,4225,Alma Ata - Simferopol,Tupolev TU-154B,CCCP-85355,355,166.0,166.0,0.0
+08/19/1980,19:08,"Near Riyadh, Saudi Arabia",Saudi Arabian Airlines,163,Riyadh - Jeddah,Lockheed 1011-200 TriStar,HZ-AHK,1169,301.0,301.0,0.0
+01/20/1981,11:27,"Spokane, Washington",Cascade Airways,201,Moses Lake - Spokane,Beechcraft 99A,N390CA,U-101,9.0,7.0,0.0
+04/17/1981,16:01,"Loveland, Colorado",Air US / Private,716 / -,"Denver, CO - Gillette, WY",Hadley Page 137Jetstream I / Cessna 206,N11360 / N4862F,238,19.0,15.0,0.0
+05/07/1981,10:53,"Rio de la Plata, Argentina",Austral Lineas Aeras (Argentina),901,Tucuman - Buenos Aires,BAC One-Eleven 529FR,LV-LOX,212,31.0,31.0,0.0
+08/22/1981,10:00,"Near Sanyi, Miao-li, Taiwan",Far Eastern Air Transport,103,Taipei - Kaohsiung,Boeing B-737-222,B-2603,19939/151,110.0,110.0,0.0
+10/06/1981,17:12,"Moerdijk, Netherlands",NLM (Nederlandse Luchtvaart Maatschappij),431,Rotterdam - Eindhoven - Hamburgh,Fokker F-28 Fellowship 4000,PH-CHI,11141,17.0,17.0,0.0
+12/01/1981,08:53,"Mt. San Pietro, near Ajaccio, Corsica, France",Inex Adria Aviopromet (Yugoslavia),JP1308,Ljubljana - Ajaccio,McDonnell Douglas MD-81,YU-ANA,48047/998,180.0,180.0,0.0
+01/13/1982,16:01,"Washington, D.C.",Air Florida,90,"Washington D.C. - Fort Lauderdale, FL",Boeing B-737-222,N62AF,19556/130,79.0,74.0,4.0
+01/23/1982,19:36,"Logan Airport,  Boston, Massachusett",World Airways,30H,"Newark, NJ - Boston, MA",McDonnell Douglas DC-10-30CF,N113WA,47821/320,212.0,2.0,0.0
+02/09/1982,08:47,"Tokyo, Japan",Japan Air Lines,350,Fukuoka - Tokyo,McDonnell Douglas DC-8-61,JA-8061,45889/291,174.0,24.0,0.0
+02/21/1982,15:33,"Providence, Rhode Island",Pilgrim Airlines,458,New York City - Bridgeport - New Haven - Groton - Boston,de Havilland DHC -6-100,N127PM,105,12.0,1.0,0.0
+03/11/1982,13:26,"Mehamn, Norway",Wideroe's Flyveselksap,933,Berlevag - Mehamn,de Havilland Canada DHC-6 Twin Otter 300,LN-BNK,568,15.0,15.0,0.0
+06/24/1982,20:44,"Mount Galunggung, Indonesia",British Airways,009,Kuala Lampur - Perth,Boeing B-747,G-BDXH,21635/365,257.0,0.0,0.0
+06/28/1982,10:50,"Southern Belarus, USSR",Aeroflot,8641,Leningrad - Kiev,Yakovlev YAK-42,CCCP-45229,8040104,132.0,132.0,0.0
+04/26/1982,16:45,"Near Yangshuo, Guangxi, China",CAAC,3303,Guangzhou - Guilin,Hawker Siddeley Trident 2E,B-266,2170,112.0,112.0,0.0
+06/08/1982,02:25,"Near Pacatuba, Brazil",VASP,168,Rio de Janerio - Fortaleza,Boeing B-727-212A,PP-SRK,21347/1282,137.0,137.0,0.0
+07/09/1982,16:09,"Kenner, Louisiana",Pan American World Airways,759,New Orleans - Las Vegas,Boeing B-727-235,N4737,19457/518,145.0,145.0,8.0
+09/13/1982,12:00,"Near Malaga, Spain",Spantax,995,Malaga - New York City,McDonnell Douglas DC-10-30CF,EC-DEG,46962/238,394.0,50.0,0.0
+12/09/1982,13:27,"La Serena, Chile",Aeronor Chile,304,Santiago - La Serena,Fairchild F-27J,CC-CJE,0063,46.0,46.0,0.0
+01/11/1983,02:50,"Detroit, Michigan",United Air Lines,2885,Detroit - Los Angeles,McDonnell Douglas DC-8-54F37,N8053U,46010/406,3.0,3.0,0.0
+04/07/1983,14:55,"Selawik, Alaska",Munz Northern Airlines,601,Nome - Ambler,Britten-Norman BN-2A-8 Islander,N37MN,558,3.0,2.0,0.0
+04/29/1983,15:10,"Guayaquil, Ecuador",SAN Ecuador,832,Guayaquil - Quito,Sud Aviation SE-210 Caravelle VIR,HC-BAT,125,100.0,8.0,0.0
+05/05/1983,09:15,"En route Miami, FL - Nassau, Bahamas",Eastern Air Lines,855,"Miami, FL - Nassau, Bahamas",Lockheed L-1011,N334EA,1141,172.0,0.0,0.0
+06/02/1983,19:20,"Cincinnati International Airport, Covington/Hebron, Kentucky",Air Canada,797,Dallas-Fort Worth - Toronto,McDonnell Douglas DC-9-32,C-FTLU,47196/278,46.0,23.0,0.0
+07/23/1983,19:30,"Gimli, Manitoba, Canada",Air Canada,143,Ottawa - Edmonton,Boeing B-767-233ER,C-GAUN,22520/47,69.0,0.0,0.0
+09/01/1983,18:26,"Near Sakhalin Island, Russia",Korean Airlines,007,Anchorage - Seoul,Boeing B-747-230B,HL-7442,20559/186,269.0,269.0,0.0
+09/23/1983,15:30,"Near Mina Jebel Ali, UAE",Gulf Air,771,Karachi - Abu Dhabi,Boeing B-737-2P6,A40-BK,21734/566,112.0,112.0,0.0
+10/11/1983,20:53,"Pinckneyville, Illinois",Air Illinois,701,"Springfield, Il - Carbondale, IL",Hawker Siddeley HS-748-FAA,N748LL,1716,10.0,10.0,0.0
+11/27/1983,10:06,"Madrid-Barajas, Spain",AVIANCA,11,Paris - Madrid - Bogota,Boeing B-747-283B,HK-2910,21381,192.0,181.0,0.0
+12/07/1983,09:40,"Near Madrid, Spain",Iberia Airlines / Aviaco,350/134,Madrid - Rome,Boeing B-727-200 / DC9-32,EC-CFJ/EC-CGS,20820 / 47645,135.0,93.0,0.0
+02/28/1984,16:16,"JFK Airport, New York, New York",Scandinavian Airlines (SAS),901,"Oslo, Norway, New York, NY",McDonnell Douglas DC-10-30,LN-RKB,46871,177.0,0.0,0.0
+08/24/1984,11:18,"San Luis Obispo, California",Wings West Airlines / Private,628,San Luis Obispo - San Fransisco,Beechcraft C99 / Rockwell 112TC,N6399U/N112SM,U187 /,17.0,17.0,0.0
+09/18/1984,11:04,"Quito, Ecuador",AECA Cargo,767-103,Quito - Guayaquil,McDonnell Douglas DC-8F-55,HC-BKN,45754/224,4.0,4.0,49.0
+10/11/1984,05:40,"Near Omsk, Russia",Aeroflot,3352,Krasnodar - Omsk,Tupolev TU-154B,CCCP-85243,243,179.0,174.0,4.0
+12/06/1984,18:14,"Jacksonville, Florida",Provincetown - Boston Airlines,1039,Jacksonville - Tampa,Embraer 110P1 Bandeirante,N96PB,110-365,13.0,13.0,0.0
+01/01/1985,20:30,"Near La Paz, Bolivia",Eastern Air Lines,980,"Asuncion, Paraguay - La Paz, Bolivia",Boeing B-727-225 Adv,N819EA,22556/1793,29.0,29.0,0.0
+01/21/1985,01:04,"Reno, Nevada",Galaxy Airlines,203,"Reno, NV - Minneapolis-St. Paul, MN",Lockheed L-188A Electra,N5532,1121,71.0,70.0,0.0
+02/04/1985,19:51,"Soldotna, Alaska",North PacifiAirlines,-,"Anchorage, AK - Anchorage, AK",Beech Queen Air 65-A80,N50NP,LD-231,9.0,9.0,0.0
+02/19/1985,09:27,"Near Durango, Vizcaya, Spain",Iberia Airlines,610,Madrid - Bilbao,Boeing B-727-256,EC-DDU,21777/1487,148.0,148.0,0.0
+02/19/1985,10:15,"300 nm NW of San Francisco, California",China Airlines (Taiwan),006,Taipei - Los Angeles,Boeing B-747-SP-09,N4522V,22805/564,274.0,0.0,0.0
+05/31/1985,23:00,"Nashville, Tennessee",General Aviation Inc.,115,Nashville - Indianapolis,Grumman G-159 Gulfstream I,N181TG,181,2.0,2.0,0.0
+06/23/1985,07:15,"AtlantiOcean, 110 miles West of Ireland",Air India,182,Montreal - London,Boeing B-747-237B,VT-EFO,21473/330,329.0,329.0,0.0
+07/10/1985,23:45,"Near Uchuduk, Uzbekistan, USSR",Aeroflot,7425,Karshi - Leningrad,Tupolev TU-154B-2,CCCP-85311,311,200.0,200.0,0.0
+08/02/1985,18:06,"Ft. Worth-Dallas, Texas",Delta Air Lines,191,Fort Lauderdale - Dallas-Fort Worth,Lockheed L-1011-1 TriStar,N726DA,1163,163.0,134.0,1.0
+08/12/1985,18:56,"Mt. Osutaka, near Ueno Village, Japan",Japan Air Lines,123,Tokyo - Osaka,Boeing B-747-SR46,JA8119,20783/230,524.0,520.0,0.0
+08/22/1985,06:13,"Manchester, England",British Airtours,28M,Manchester - Kerkira,Boeing B-737-236,G-BGJL,22033/743,137.0,55.0,0.0
+08/25/1985,22:05,"Auburn, Maine",Bar Harbor Airlines,1808,"Boston, MA - Auburn, ME",Beechcraft 99,N300WP,U-22,8.0,8.0,0.0
+09/06/1985,15:21,"Milwaukee, Wisconsin",Midwest Express,105,Milwaukee - Atlanta,McDonnell Douglas DC-9-14,N100ME,47309/393,31.0,31.0,0.0
+09/23/1985,10:20,"Grottoes Grove, Virginia",Air Taxi - Henson Airlines,1517,"Washington D.C. Baltimore, MD",Beechcraft B99,N339HA,U156,14.0,14.0,0.0
+11/24/1985,20:15,"Luqa, Malta",EgyptAir,648,Athens - Cairo,Boeing B-737-266,SU-AYH,21191/450,103.0,60.0,0.0
+12/12/1985,06:45,"Gander, Newfoundland, Canada",Arrow Airways,MF1285R,"Gander - Fort Campbell, KY",McDonnell Douglas DC-8 Super 63PF,N950JW,46058/433,256.0,256.0,0.0
+03/13/1986,22:15,"Alpena, Michigan",Simmons Airlines,1746,"Detroit, MI - Alpena, MI",Embraer 110P1 Bandeirante,N1356P,110370,9.0,3.0,0.0
+03/31/1986,09:11,"Maravatio, Mexico",Mexicana,940,Mexico City - Puerto Vallarta,Boeing B-727-264,XA-MEM,22414/1748,167.0,167.0,0.0
+06/12/1986,15:22,"Port Ellen, Islay Island",Loganair,423,Glasgow - Port Ellen,de Havilland Canada DHC-6 Twin Otter 300,G-BGPC,635,16.0,1.0,0.0
+06/18/1986,09:33,"Grand Canyon, Arizona",Grand Canyon Airlines / Helitech,6 / 2,Grand Canyon - Grand Canyon,de Havilland Can. DHC-6 -300/ Bell 206B,N76GC/N6TC,248 /,25.0,25.0,0.0
+08/31/1986,11:52,"Cerritos, California",Aeromexico / Private,498,Tijuana - Los Angeles,MD Douglas DC-9-32 / Piper PA-28-181,XA-JED/N4891F,47356/470 /,67.0,67.0,15.0
+09/03/1986,15:45,"Tullamarine, VIC, Australia",Peninsula Air Services,-,Tullamarine - Leongatha,Cessna 402,VH-RED,402-0130,6.0,6.0,0.0
+09/05/1986,06:00,"Karachi, Pakistan",Pan American World Airways,73,Bombay-Karachi-Frankfurt-New York,Boeing B-747-121,N656PA,20351/127,384.0,16.0,1.0
+10/04/1986,04:10,"San Antonio, Texas",Southern Air Transport,15,Kelly AFB - Warner Robins AFB,Lockheed L-100-30 Hercules,N15ST,4391,3.0,3.0,0.0
+10/22/1986,16:45,"Manhattan, New York",Private - WNBC,-,Traffireporting,Enstrom F-28F,N8617B,700,2.0,2.0,0.0
+01/15/1987,12:52,"Salt Lake City, Utah",Skywest Airlines / Private.,1834,Pocatello - Salt Lake City,Swearingen SA-226TC / Mooney M-20C,N163SW / N6485U,TC-327 /,10.0,10.0,0.0
+03/04/1987,14:34,"Detroit, Michigan",Northwest Airlink,2268,Cleveland - Detroit,CASA 212 Aviocar 200,N160FB,160,22.0,9.0,0.0
+04/04/1987,14:40,"Medan-Polonia, Indonesia",Garuda Indonesia Airlines,035,Banda Aceh - Medan,McDonnell Douglas DC-9-32,PK-GNQ,47741/836,45.0,27.0,0.0
+05/08/1987,06:50,"Mayaguez, Puerto Rico",American Eagle,5452,"San Juan, PR - Mayaguez, PR",CASA 212 Aviocar 200,N432CA,271,6.0,2.0,0.0
+05/09/1987,11:12,"Warsaw, Poland",LOT Polish Airlines,5055,Warsaw - New York City,Ilyushin IL-62M,SP-LBG,3344942,183.0,183.0,0.0
+01/18/1988,22:17,"Near Chungking, Sichuan, China",China Southwest Airlines,4146,Beijing - Chongqing,Ilyushin IL-18D,B-222,187009901,108.0,108.0,0.0
+08/16/1987,20:46,"Romulus, Michigan",Northwest Airlines,255,"Detroit, MI - Phoenix, AZ",McDonnell Douglas MD-82,N312RC,48090/1040,155.0,154.0,2.0
+08/31/1987,15:36,"Off Ko Phuket, Thiland",Thai Airways,365,Hat Yai - Phuket,Boeing B-737-2P5,HS-TBC,22267/685,83.0,83.0,0.0
+11/15/1987,14:15,"Denver, Colorado",Continental Airlines,1713,"Denver, CO - Boise, ID",McDonnell Douglas DC-9-14,N626TX,45726/36,82.0,28.0,0.0
+11/23/1987,18:25,"Homer, Alaska",Ryan Air Services,103,Kodiak - Homer,Beechcraft 1900C,N401RA,UB-58,21.0,18.0,0.0
+01/19/1988,19:20,"Bayfield, Colorado",Trans Colorado AL / Continental Express,2286,"Denver, CO - Durango, CO",Swearingen SA.227AC Metro,N68TC,AC-457,17.0,9.0,0.0
+11/28/1987,04:00,"Off Mauritius, Indian Ocean",South African Airways,295,"Taipei, Taiwan -  Mauritius - Johannesburg, South Africa",Boeing B-747-244B,ZS-SAS,22171/488,159.0,159.0,0.0
+11/29/1987,11:30,Over the Andaman Sea,Korean Airlines,858,Abu Dhabi - Bangkok,Boeing B-707-3B5C,HL-7406,20522/855,115.0,115.0,0.0
+12/07/1987,16:16,"San Luis Obispo, California",PacifiSouthwest Airlines,1771,Los Angeles - San Fransisco,British Aerospace BAe-146-200A,N350PS,E-2027,43.0,43.0,0.0
+01/02/1988,19:20,"Izmir, Turkey",Condor Flugdienst,3780,Stuttgart - Izmir,Boeing B-737-230A,D-ABHD,22635/774,16.0,16.0,0.0
+02/08/1988,07:58,"Near Mulheim, Germany",NFD - Nurnberger Flugdienst,108,Hannover - Dusseldorf,Swearingen SA.227AC Metro III,D-CABB,AC-500,21.0,21.0,0.0
+02/19/1988,21:27,"Cary, North Carolina",AV Air / American Eagle,3378,Raleigh - Richmond,Swearingen SA227-AC,N622AV,AC-622,12.0,12.0,0.0
+03/01/1988,17:28,"Near Johannesburg, South Africa",Commercial Airways (Comair),206,Phalaborwa - Johannesburg,Embraer 110P1 Bandeirante,ZS-LGP,110-402,17.0,17.0,0.0
+03/04/1988,06:37,"Near Fontainebleau, France",Transport Arien Transregional,230,Nancy - Paris,Fairchild FH-227B,F-GCPS,546,23.0,23.0,0.0
+03/17/1988,13:17,"Near Cucuta, N of  Santander, Colombia",AVIANCA,410,Cucuta - Cartagena,Boeing B-727-21,HK-1716,18999/240,143.0,143.0,0.0
+04/28/1988,13:46,"Maui, Hawaii",Aloha Airlines,243,Hilo - Honolulu,Boeing B-737-297,N73711,20209,95.0,1.0,0.0
+06/26/1988,14:45,"Habsheim, France",Air France,296Q,Basel - Basel,Airbus A320-111,F-GFKC,009,136.0,3.0,0.0
+07/03/1988,10:55,"Over the Persian Gulf, near Bandar Abbas, Iran",Iran Air,655,Bandar Abbas - Dubai,Airbus A300B2-203,EP-IBU,186,290.0,290.0,0.0
+08/31/1988,09:19,"Kowloon Bay, Hong Kong",CAAC,301,Guangzhou - Hong Kong,Hawker Siddeley HS-121 Trident 2E,B-2218,2159,89.0,7.0,0.0
+08/31/1988,09:01,"Dallas, Texas",Delta Air Lines,1141,"Dallas/Fort Worth, TX - Salt Lake City, UT",Boeing B-727-232 Adv,N473DA,20750/992,108.0,14.0,0.0
+09/09/1988,11:38,"Bangkok, Thailand",Hang Khong (Vietnam),831,Hanoi - Bangkok,Tupolev TU-134A,VN-A102,60925,90.0,76.0,0.0
+09/15/1988,13:05,"Bahar Dar, Ethiopia",Ethiopian Airlines,604,Bahar Dar - Asmara,Boeing B-737-230,ET-AJA,23914/1456,104.0,35.0,0.0
+10/17/1988,00:30,"Rome, Italy",Uganda Airlines,775,London - Rome,Boeing B-707-338C,5X-UBC,19630/746,52.0,33.0,0.0
+10/19/1988,07:00,"Near Ahmedabad, India",Indian Airlines,113,Bombay - Ahmadabad,Boeing B-737-2A8,VT-EAH,20481/271,129.0,124.0,0.0
+12/21/1988,19:03,"Lockerbie, Scotland",Pan American World Airways,103,London - New York City,Boeing B-747-121A,N739PA,19646/15,259.0,259.0,11.0
+01/08/1989,20:25,"Leicestershire, England",British Midland Airways,92,London - Belfast,Boeing B-737-4Y0,G-OBME,23867/1603,126.0,47.0,0.0
+02/06/1989,18:25,"Marseille, France",RAM,3132,Marseille - Paris,Vickers 952F Vanguard,F-GEJE,730,3.0,3.0,0.0
+02/08/1989,14:08,"Santa Maria, Azores, Portugal",Independent Air Inc.,1851,Bergamo - Orio al Serio - Santa Maria,Boeing B-707-331B,N7231T,19572/687,144.0,144.0,0.0
+02/24/1989,02:09,"Honolulu, Hawaii",United Air Lines,811,Los Angeles - Honolulu - Auckland - Sidney,Boeing B-747-122,N4713U,19875/89,356.0,9.0,0.0
+03/10/1989,12:09,"Dryden, Ontario, Canada",Air Ontario,1363,Dryden - Winnipeg,Fokker F-28 Fellowship 1000,C-FONF,11060,69.0,24.0,0.0
+04/10/1989,21:07,"Col de Tourniol, France",Europe Aero Service EAS,602,Paris - Valence,Fairchild FH-227B,F-GGDM,532,22.0,22.0,0.0
+06/07/1989,04:27,"Near Paramaribo, Surinam",Surinam Airways,764,Paramaribo - Zanderij,McDonnell Douglas DC-8 Super 62,N1809E,46107/498,187.0,176.0,0.0
+06/11/1989,13:30,"Waipio Valley, Hawaii",SceniAir Tours,21,"Hilo, HI - Kahului, HI",Beechcraft H18,N34AP,BA-746,11.0,11.0,0.0
+07/19/1989,16:00,"Sioux City, Iowa",United Air Lines,232,"Denver, CO - Chicago, IL",McDonnell Douglas DC-10-10,N1819U,46618,298.0,112.0,0.0
+07/27/1989,07:00,"Tripoli, Libya",Korean Airlines,803,Jeddah - Tripoli,McDonnell Douglas DC-10-30,HL-7328,47887/125,199.0,75.0,4.0
+07/31/1989,22:00,"Auckland, New Zealand",Air Freight New Zealand,1,Auckland - Christchurch,Convair CV-580,ZK-FTB,180,3.0,3.0,0.0
+09/03/1989,20:45,"Near Sao Jose do Xingu, Brazil",Varig,254,Maraba - Belem,Boeing B-737-241,PP-VMK,21006,54.0,13.0,0.0
+09/08/1989,16:36,"Skagerrak, Denmark",Partnair,394,Oslo - Hamburg,Convair CV-580,LN-PAA,056,55.0,55.0,0.0
+09/19/1989,14:00,"Near Bilma, Niger",Union des Transportes Aeriens,772,N'Djamena - Paris,McDonnell Douglas DC-10-30,N54629,46852/125,171.0,171.0,0.0
+09/20/1989,23:21,"La Guardia Airport, New York, New York",USAir,5050,"New York City - Charlotte, NC",Boeing B-737-401,N416US,23884/1643,63.0,2.0,0.0
+09/27/1989,09:53,"Grand Canyon National Park Airport, Tusayan, Arizona",Grand Canyon Airlines,Canyon 5,Grand Canyon National Park,de Havilland Canada DHC-6 Twin Otter 300,N75GC,439,21.0,10.0,0.0
+10/21/1989,07:53,"Near Tegucigalpa, Honduras",TAN,414,Managua - Tegucigalpa,Boeing B-727-224,N88705,19514/597,146.0,127.0,0.0
+10/26/1989,18:55,"Hualein, China",China Airlines (Taiwan),204,Hualian - Taibei,Boeing B-737-209,B-180,23795/1319,54.0,54.0,0.0
+10/28/1989,18:37,"Halawa Point, Molokai, Hawaii",Aloha Island Air,1712,"Kahului, Maui - Kaunakakai, Molokai",de Havilland DHC-6 Twin Otter 300,N707PV,400,20.0,20.0,0.0
+11/27/1989,07:16,"Bogota, Colombia",AVIANCA,203,Bogota - Cali,Boeing B-727-21,HK-1803,19035/272,107.0,107.0,3.0
+12/26/1989,22:30,"Pasco, Washington",United Express,2415,Yakima - Pasco,British Aerospace 3101 Jetstream 31,N410UE,776,6.0,6.0,0.0
+01/15/1990,08:30,"Pico Blanco, Costa Rica",SANSA,032,San Jose - Palmar Sur,CASA 212 Aviocar 200,TI-SAB,163,23.0,23.0,0.0
+01/17/1990,07:19,"Near Leadville, Colorado",Federal Express,824,Denver - Montrose,Cessna 208A Caravan I Cargomaster,N835FE,208-00091,1.0,1.0,0.0
+01/23/1990,07:35,"Near Caracas, Venezuela",Military - Venezuelan Navy,-,Caracas - Puerto Ayancucho,CASA 212-200 Aviocar,ARV-0210,268,25.0,25.0,0.0
+01/25/1990,21:34,"Cove Neck, New York",AVIANCA,052,Medellin - New York City,Boeing B-707-321B,HK 2016,19276/592,158.0,73.0,0.0
+02/14/1990,13:03,"Near Bangalore, India",Indian Airlines,605,Bombay - Bangalore,Airbus A320-231,VT-EPN,079,146.0,92.0,0.0
+04/12/1990,14:44,"Off Vaeroy, Norway",Wideroe's Flyveselksap,839,Vaeroy - Bodo,de Havilland Canada DHC-6 Twin Otter 300,LN-BNS,536,5.0,5.0,0.0
+05/18/1990,06:25,"Manila, Philippines",Aerolift Philippines,075,Manila - Surigao City,Beechcraft 1900C-1,RP-C314,UC-46,21.0,21.0,4.0
+06/10/1990,07:33,"Oxfordshire, England",British Airways,5390,"Birmingham, England - Malaga, Spain",BAC One-Eleven 528FL,G-BJRT,BAC 234,85.0,0.0,0.0
+08/27/1990,01:00,"Elkhorn, Wisconsin",Private - Omniflight Helicopters,-,"Elkhorn, WI - Chicago, IL",Bell BHT-206-B Helicopter,N16933,023338,5.0,5.0,0.0
+10/02/1990,09:15,"Guangzhou, China",China Southwest Airlines / Xiamen Airlines,8301/,Guangzhou - Shanghi,Boeing B-737-247 / Boeing B-757-21B,B-2812/B-2510,24758 / 23189,226.0,128.0,0.0
+10/24/1990,01:58,"Santiago de Cuba, Cuba",Cubana de Aviacion,2886,Camaguey - Santiago de Cuba,Yakovlev YAK-40,CU-T1202,9631449,31.0,11.0,0.0
+11/14/1990,19:11,"Stadelberg, Switzerland",Alitalia,404,Milano - Zürich,McDonnell Douglas DC-9-32,I-ATJA,47641/746,46.0,46.0,0.0
+02/17/1991,00:20,"Cleveland, Ohio",Ryan International Airlines,590,Cleveland - Indianapolis,McDonnell Douglas DC-9-15RC,N565PC,47240/346,2.0,2.0,0.0
+11/21/1990,11:15,"Koh Samui, Thailand",Bangkok Airways,125,Bangkok - Koh Samui,de Havilland Canada DHC-8-103,OB-1358,T210-63675,38.0,38.0,0.0
+12/03/1990,13:45,"Romulus, Michigan",Northwest Airlines/ Northwest Airlines,299/1482,Detroit - Pittsburg,Boeing B-727-251 / MD Douglas DC-9-14,N278US/N3313L,21157 / 45708/77,198.0,8.0,0.0
+02/01/1991,18:07,"LAX, Los Angeles, California",USAir / Skywest Airlilnes,1493/5569,Columbus - Los Angeles \  Los Angeles - Fresno,Boeing B-737-300 / Swearingen SA-227AC,N388US/N683AV,23310/1145 / AC-683,99.0,34.0,0.0
+03/03/1991,09:44,"Near Colorado Springs, Colorado",United Air Lines,585,Denver - Colorado Springs,Boeing B-737-291,N999UA,22742/875,25.0,25.0,0.0
+03/05/1991,16:15,"La Puerta, Venezuela",Linea Aeropostal Venezolana,108,Maracaibo - Santa Barbara de Zulia,McDonnell Douglas DC-9-32,YV-23C,47720/846,45.0,45.0,0.0
+04/05/1991,14:51,"Brunswick, Georgia",AtlantiSoutheast Airlines,2311,Atlanta - Brunswick,Embraer 120RT- Brasilia,N270AS,120-218,23.0,23.0,0.0
+05/26/1991,23:17,"Near Ban Nong Rong, Thailand",Lauda Air,004,"Bangkok - Wien, Austria",Boeing B-767-3Z9ER,OE-LAV,24628/283,223.0,223.0,0.0
+06/01/1991,10:16,"Off Matthewtown, Great Inagua",Agape Flight Inc.,90,"Grada Zuma, Bahamas - Cape Hatien",GAF Nomad N24A,N8071L,44,3.0,2.0,0.0
+07/10/1991,18:12,"Birmingham, Alabama",L'Express Airlines,508,New Orleans - Mobile - Birmingham,Beechcraft BE-99-C99,N7217L,U226,15.0,13.0,0.0
+07/11/1991,08:40,"Jeddah, Saudi Arabia",Nationair (chartered by Nigeria Airways),2120,Jeddah - Sokoto,McDonnell Douglas DC-8 Super 61,C-GMXQ,45982/345,261.0,261.0,0.0
+08/16/1991,01:55,"Imphal, India",Indian Airlines,257,Calcutta - Imphal,Boeing B-737-2A8,VT-EFL,21497,69.0,69.0,0.0
+09/11/1991,10:03,"Near Eagle Lake, Texas",Continental Express,2574,Laredo - Houston,Embraer 120RT Brasilia,N33701,120-077,14.0,14.0,0.0
+12/27/1991,08:51,"Stockholm, Sweden",Scandinavian Airlines (SAS),751,Stockholm-Copenhagen-Warsaw,MDonnell Douglas MD-81,OY-KHO,53003,129.0,0.0,0.0
+12/29/1991,15:05,"Wanli, Taiwan",China Airlines (Taiwan),358,Taipei - Anchorage,Boeing B-747-2R7F,B-198,22390,5.0,5.0,0.0
+01/03/1992,05:46,"Gabriels, New York",Commutair,4821,"Plattsburgh, NY - SaranaLake, NY",Beechcraft 1900C,N55000,UC-135,4.0,2.0,0.0
+01/20/1992,19:20,"Mt. Saint-Odile, near Strasbourg, France",Air Inter,148,Lyon - Strasbourg,Airbus A320-111,F-GGED,015,96.0,87.0,0.0
+02/15/1992,03:26,"Toledo, Ohio",ATI,805,Seattle - Toledo,McDonnell Douglas DC-8-63F,N794AL,45923/383,4.0,3.0,0.0
+03/22/1992,21:35,"La Guardia Airport, New York, New York",USAir,405,New York City - Cleveland,Fokker F-28 Fellowship 4000,N485US,11235,51.0,27.0,0.0
+04/22/1992,15:53,"Mt. Haleakala, Hawaii",SceniAir Tours,22,Local sightseeing,Beechcraft E18S,N342E,BA-308,9.0,9.0,0.0
+06/08/1992,08:52,"Anniston, Alabama",GP Express Airlines,861,"Atlanta - Anniston, AR",Beechcraft C99,N118GP,U-185,6.0,3.0,0.0
+09/28/1992,14:30,"Near  Kathmandu, Nepal",Pakistan International Airlines,268,Karachi - Kathmandu,Airbus A300B4-203,AP-BCP,025,167.0,167.0,0.0
+07/30/1992,17:41,"JFK Airport, New York, New York",Trans World Airlines,843,New York City - San Francisco,Lockheed L-1011,N11002,1014,292.0,0.0,0.0
+07/31/1992,12:45,"Near Kathmandu, Nepal",Thai Airways,311,Bangkok - Kathmandu,Airbus A310-304,HS-TID,438,113.0,113.0,0.0
+07/31/1992,15:12,"Nanjing, Jiangsu, China",China General Aviation Corporation,7552,Nanjing - Xiamen,Yakovlev YAK-42D,B-2755,2116644,126.0,108.0,0.0
+08/27/1992,22:44,"Near Ivanovo, Russia",Aeroflot,2808,Donetsk - Ivanovo,Tupolev TU-134A,CCCP-65058,49868,84.0,84.0,0.0
+10/04/1992,17:35,"Amsterdam, Netherlands",El Al,1862,Amsterdam - Tel Aviv,Boeing B-747-258F,4X-AXG,21737/362,4.0,4.0,47.0
+11/14/1992,07:10,"Near Nha Trang, Vietnam",Vietnam Airlines,474,Ho Chi Minh City - Nha Trang,Yakovlev YAK-40,VN-A449,9631848,31.0,30.0,0.0
+11/24/1992,07:52,"Near Liutang, Guangxi, China",China Southern Airlines,3943,Guangzhou - Guilin,Boeing B-737-3Y0,B-2523,24913,141.0,141.0,0.0
+12/21/1992,07:53,"Faro, Algarve, Portugal",Martinair Holland NV,495,Amsterdam - Faro,McDonnell Douglas DC-10-30CF,PH-MBN,46924,340.0,56.0,0.0
+12/22/1992,10:00,"Tripoli, Libya",Libya Arab Airlines / Military -  Libya Air Force,1103,Benghazi - Tripoli,Boeing B-727-2L5 / MiG23UB,5A-DIA,21050/1108,157.0,157.0,0.0
+01/06/1993,19:20,"Paris, France",Lufthansa Cityline,5634,Bremen - Paris,de Havilland Canada DHC-8-301,D-BEAT,210,23.0,4.0,0.0
+03/05/1993,11:12,"Skopje, Macedonia",Palair Macedonian,301,Skopje - Zürich,Fokker 100,PH-KXL,11393,97.0,83.0,0.0
+04/06/1993,01:10,"950 nm S of  Shemya, Alaska",China Eastern Airlines,583,Shanghai - Los Angeles,McDonnell Douglas MD-11,B-2171,48495/461,264.0,2.0,0.0
+04/19/1993,15:52,"Zwingle, Iowa",Private,-,"Cincinnati, OH - Pierre, SD",Mitsubishi MU-2B-60,N86SD,765SA,8.0,8.0,0.0
+04/26/1993,13:00,"Aurangabad, India",Indian Airlines,491,Aurangabad - Bombay,Boeing B-737-2A8,VT-ECQ,20961/375,118.0,56.0,0.0
+05/19/1993,15:04,"Near Medellin, Colombia",SAM Colombia,501,Panama City - Medellin,Boeing B-727-46,HK-2422X,18876/217,132.0,132.0,0.0
+07/23/1993,15:40,"Yinchuan, China",China Northwest Airlines,2119,Yinchuan - Beijing,British Aerospace 146-300,B-2716,E-3215,113.0,55.0,0.0
+07/26/1993,15:48,"Haenam, South Korea",Asiana Airlines,733,Seoul - Mokpo,Boeing B-737-5L9,HL-7229,24805/1878,110.0,68.0,0.0
+08/18/1993,16:56,"Leeward Point Airfield, Guantanamo Bay, Cuba",American International Airways,808,"Norfolk, VA - Guantanamo, Cuba",McDonnell Douglas DC-8-61,N814CK,46127,3.0,0.0,0.0
+09/14/1993,15:33,"Warsaw, Poland",Lufthansa,2904,Frankfurt - Warszawa,Airbus A320-211,D-AIPN,105,70.0,2.0,0.0
+10/26/1993,13:04,"Fuzhou, China",China Eastern Airlines,5398,Shenzen - Fuzhou,McDonnell Douglas MD-82,B-2103,49355,80.0,2.0,0.0
+11/10/1993,18:05,"Sandy Lake, Canada",Air Manitoba,205,Winnipeg - Sandy Lake,Hawker Siddeley HS-748-234 Srs. 2A,C-GQTH,1617,7.0,7.0,0.0
+11/13/1993,14:55,"Urumqi, China",China Northern Airlines,6901,Beijing - Urumqi,McDonnell Douglas MD-82,B-2141,49849/1772,102.0,12.0,0.0
+11/20/1993,23:30,"Near Ohrid, Macedonia",Aviaimpex (Macedonia),110,Genève - Skopje,Yakovlev YAK-42D,RA-42390,4016557,116.0,116.0,0.0
+12/01/1993,19:50,"Hibbing, Minnesota",Express Airlines - Northwest Airlink,5719,Minneapolis/St. Paul - Hibbing,British Aerospace Jetstream BA-3100,N334PX,706,18.0,18.0,0.0
+01/03/1994,12:07,"Near Irrupts, Siberia, Russia",Baikal Air,130,Irkutsk - Moscow,Tupolev TU-154M,RA-85656,89A801,124.0,124.0,1.0
+01/07/1994,23:21,"Columbus, Ohio",AtlantiCoast Airlines (United Express),6291,"Washington D.C. - Columbus, OH",British Aerospace Jetstream 4101,N304UE,41016,8.0,5.0,0.0
+02/25/1994,19:46,"East Midlands, England",British World Airways,4272,Edinburgh - Coventry,Vickers 813 Viscount,G-OHOT,349,2.0,1.0,0.0
+03/02/1994,17:59,"New York, New York",Continental Airlines,795,New York City - Denver,McDonnell Douglas MD-82,N18835,49439,116.0,0.0,0.0
+03/17/1994,22:30,Near Nag,Military - Iranian Air Force,-,Tehran - Moscow,Lockheed Hercules C-130,5-8521,4432,32.0,32.0,0.0
+03/23/1994,00:57,"Near Mezhdurechensk, Russia",Aeroflot Russian International Airways,593,Moscow - Hong Kong,Airbus A310-304,F-OGQS,596,75.0,75.0,0.0
+04/04/1994,14:46,"Amsterdam, Netherlands",KLM Cityhopper,433,Amsterdam - Cardiff,Saab 340B,PH-KSH,195,24.0,3.0,0.0
+04/26/1994,20:16,"Near Komaki, Aichi, Japan",China Airlines (Taiwan),140,Taipe - Nagoya,Airbus A300B4-622R,B-1816,580,271.0,264.0,0.0
+06/06/1994,08:20,"Near Xi'an, China",China Northwest Airlines,2303,Xian - Guangzhou,Tupolev TU-154M,B-2610,86A-740,160.0,160.0,0.0
+06/26/1994,19:35,"Abidjan, Ivory Coast",Air Ivorie,777,San Pedro - Abidjan,Fokker F-27 Friendship 400M,TU-TIP,10577,17.0,17.0,0.0
+06/30/1994,17:41,"Toulouse-Blagnac, France",Airbus Industrie,129,Toulouse - Toulouse,Airbus A330-321,F-WWKH,042,7.0,7.0,0.0
+07/02/1994,18:43,"Charlotte, North Carolina",USAir,1016,"Columbia, SC - Charlotte, NC",McDonnell Douglas DC-9-30,N954VJ,47590,57.0,37.0,0.0
+08/10/1994,11:22,"Cheju, South Korea",Korean Airlines,2033,Seoul - Cheju,Airbus A300B4-622R,HL-7296,583,160.0,0.0,0.0
+09/08/1994,19:03,"Near Aliquippa, Pennsylvania",USAir,427,Chicago - Pittsburgh,Boeing B-737-3B7,N513AU,23699/1452,132.0,132.0,0.0
+10/12/1994,22:50,"Krakas Mountains, near Natanz , Iran",Iran Asseman Airlines,746,Isfahan - Terhan,Fokker F-28 Fellowship 1000,EP-PAV,11070,66.0,66.0,0.0
+10/31/1994,15:59,"Roselawn, Indiana",American Eagle,4184,Indianapolis - Chicago,ATR-72-212,N401AM,401,68.0,68.0,0.0
+12/10/1994,11:30,PacifiOcean,Philippine Air Lines,434,Manila - Cebu - Tokyo,Boeing B-747-200,EI-BWF,21575,293.0,1.0,0.0
+12/13/1994,18:34,"Morrisville, North Carolina",American Eagle,3379,Greensboro - Raleigh,British Aerospace Jetstream 3201,N918AE,918,20.0,15.0,0.0
+12/21/1994,09:53,"Coventry, England",Phoenix Aviation,702,East Midlands - Coventry,Boeing 737-2D6C,7T-VEE,20758/322,5.0,5.0,0.0
+12/26/1994,17:00,"Algiers Airport, Algeria",Air France,8969,Alger - Paris,Airbus A300B2-1C,F-GBEC,104,239.0,3.0,0.0
+12/29/1994,15:30,"Near Van, Turkey",Turkish Airlines (THY),278,Ankara - Van,Boeing B-737-4Y0,TC-JES,26074/2376,76.0,57.0,0.0
+01/11/1995,19:38,"Cartagena, Colombia",Intercontinental de Aviacion,256,Bogota - Cartagena,McDonnell Douglas DC-9-14,HK-3839X,45742/26,52.0,51.0,0.0
+01/17/1995,13:59,"Kathmandu, Nepal",Royal Nepal Airlines,133,Kathmandu - Rumjatar,de Havilland Canada DHC-6 Twin Otter 300,9N-ABI,392,24.0,2.0,0.0
+02/13/1995,15:36,"Near Tusayan, Arizona",Las Vegas Airlines,45,"AZ - Las Vegas, NV",Piper PA-31-350 Navajo,N27245,31-77552121,10.0,8.0,0.0
+03/31/1995,09:11,"Near Balotesti, Romania",Transporturile Aeriene Romane (TAROM),371,Bucharest - Brussel,Airbus A310-324,YR-LCC,450/395,60.0,60.0,0.0
+05/01/1995,13:28,"Sioux Falls, Ontario, Canada",Bearskin Airlines / Air Sandy,362 / 3101,Red Lake - Sioux Lookout  / Sioux Lookout - Red Lake,Swear. SA-227CC Metro 23/Piper Navajo,C-GYYB/ C-GYPZ,CC-827B /,8.0,8.0,0.0
+05/24/1995,16:51,"Near Leeds, England",Knight Air,816,Leeds - Aberdeen,Embraer 110 P1 Bandeirante,G-OEAA,110-256,12.0,12.0,0.0
+06/08/1995,19:08,"Atlanta, Georgia",ValuJet,597,Atlanta - Miami,McDonnell Douglas DC-9-32,N908VJ,47321,62.0,0.0,0.0
+06/09/1995,09:22,"Near Palmerston North, New Zealand",Ansett New Zealand,703,Auckland - Palmerston North,de Havilland Canada DHC-8-102,ZK-NEY,055,21.0,5.0,0.0
+08/09/1995,20:14,"Mt. Chichontepec, San Vincente, El Salvador",Aviateca,901,Guatemala City - San Salvador,Boeing B-737-2H6,N125GU,23849,65.0,65.0,0.0
+08/21/1995,12:53,"Near Carrollton, GA",AtlantiSoutheast Airlines,529,Atlanta - Gulfport,Embraer 120-RT Brasilia,N256AS,120-122,29.0,10.0,0.0
+09/15/1995,12:22,"Tawau,  Malaysia",Malaysia Airlines,2133,Kota Kinabalu - Tawau,Fokker 50,9M-MGH,20174,53.0,34.0,0.0
+09/22/1995,07:45,"Anchorage, Alaska",Military - U.S. Air Force,27,Anchorage-Elmendorf AFB - Anchorage-Elmendorf AFB,Boeing B-707 (E-3B),77-0354,21554/933,24.0,24.0,0.0
+09/27/1995,19:10,"Campbell River, British Columbia, Canada",Western Straits Air,-,Triumph Bay - Campbell River,De Havilland Dash-3,C-FEBX,38,10.0,8.0,0.0
+10/03/1995,08:00,"Gunung Antara, Indonesia",Sabang Merauke Raya Air Charter,1994,Medan - Meulaboh,CASA 212,PK-ZAG,158/28N,14.0,1.0,0.0
+11/13/1995,08:55,"Kaduna, Nigeria",Nigeria Airways,357,Jos - Kano,Boeing B-737-2F9,5N-AUA,22985,137.0,9.0,0.0
+12/03/1995,22:44,"Near Douala, Cameroon",Cameroon Airlines,3701,Cotonou - Douala,Boeing B-737-2K9,TJ-CBE,23386/1143,78.0,72.0,0.0
+12/07/1995,05:20,"Near Grossevichi, Russia",Far East Aviation,3949,Yushno - Khabarovk,Tupolev TU-154B,RA-85164,76A-0164,98.0,98.0,0.0
+12/13/1995,19:00,"Verona  - Villafranca, Italy",Romanian Banat Air,166,Verona - Timisoara,Antonov AN-24B,YR-AMR,77303309,49.0,49.0,0.0
+12/20/1995,21:38,"Near Buga, Valle del Cauca, Colombia",American Airlines,965,Miami - Cali,Boeing B-757-223,N651A,24609,164.0,160.0,0.0
+02/06/1996,23:47,"Off Puerto Plata, Domincan Republic","Alas Nacionales, leased from Birgen Air",301,Puerto Plata - Gander,Boeing B-757-225,TC-GEN,22206/31,189.0,189.0,0.0
+02/29/1996,20:25,"Arequipa, Peru",Compania de Aviacion Faucett SA (Peru),251,Lima - Arequipa,Boeing B-737-222,OB-1451,19072/86,123.0,123.0,0.0
+04/03/1996,14:52,"Near Dubrovnik, Croatia",Military - U.S. Air Force,21,Tizla - Dubrovnik,Boeing B-737-T43,73-1149,20696/347,35.0,35.0,0.0
+05/11/1996,14:15,"Everglades, Miami, Florida",ValuJet,592,Miami - Atlanta,McDonnell Douglas DC-9-32,N904VJ,47377/496,110.0,110.0,0.0
+06/13/1996,12:07,"Fukuoka, Japan",Garuda Indonesia Airlines,865,Fukuoka - Denpasar,McDonnell Douglas DC-10-30,PK-GIE,46685/284,275.0,3.0,0.0
+07/06/1996,15:42,"Pensacola, Florida",Delta Air Lines,1288,Pensacola - Atlanta,McDonnell Douglas MD-88,N927DA,49714/1524,142.0,2.0,0.0
+07/17/1996,20:31,"Off East Moriches, New York",Trans World Airlines,800,New York City - Paris,Boeing B-747-131,N93119,20083/153,230.0,230.0,0.0
+07/20/1996,15:15,"Russian Mission, Alaska",Northern Air Cargo,33,Emmonak - Aniak,Douglas DC-6A,N313RS,44663/630,4.0,4.0,0.0
+08/12/1996,13:47,"Markham Bay, Canada",First Air,64,Iqaluit - Markham Bay,de Havilland Canada DHC-6 Twin Otter 300,C-GNDN,427,2.0,2.0,0.0
+08/29/1996,10:22,"Spitsbergen, Norway",Vnokovo Airlines,2801,Moscow - Svalbard,Tupolev TU-154M,RA-85621,86A-742,141.0,141.0,0.0
+10/02/1996,01:16,"Off Pasamayo, Peru",Aeroperu,603,Lima - Santiago,Boeing B-757-200,N52AW,25489/505,70.0,70.0,0.0
+10/08/1996,10:50,"San Francesco al Campo, Italy",Aeroflot,9981,"Moscow - Turin, Italy",Antonov An-124,RA-82069,9773053359122,23.0,2.0,0.0
+10/20/1996,12:12,"Eel River Crossing, New Brunswick, Canada",Telford Aviation,-,"Port Meiner, Quebe- Bangor, Maine",Piper PA-31-350 Navajo Chieftain,N744W,31-7952246,8.0,8.0,0.0
+10/31/1996,08:27,"Sao Paolo, Brazil",TAM (Brazil),402,Sao Paulo - Rio de Janiero,Fokker 100,PT-MRK,11440,95.0,95.0,3.0
+11/07/1996,17:00,"Lagos, Nigeria",Aviation Development Corporation,086,Port Harcourt - Lagos,Boeing B-727-231,5N-BBF,20054/718,143.0,143.0,0.0
+11/12/1996,18:40,"Near Charkhidadri, India",Saudi Arabian Airlines / Kazastan Airlines,763/1907,New Delhi - Dhahran / Chimkent - New Delhi,Boeing B-747-168B / Ilyushin IL-76TD,HZAIH/UN-76435,22748/555/1023413428,349.0,349.0,0.0
+11/19/1996,17:01,"Quincy, Illinois",United Express  / Private,5925,"Burlington, IA - Quincy, IA",Beechcraft 1900-C / Beech King Air A90,N87GL / N1127D,UC-87 /,14.0,14.0,0.0
+11/23/1996,15:15,"Off Moroni, Comoros",Ethiopian Airlines,961,Addis Ababa - Nairobi,Boeing B-767-200ER,ET-AIZ,23916/187,175.0,127.0,0.0
+11/30/1996,10:33,"Medellin, Colombia",ACES Colombia,148,Medellin - Bahia Solano,de Havilland Canada DHC-6 Twin Otter 300,HK-2602,746,15.0,14.0,0.0
+12/22/1996,18:10,"Narrows, Virginia",Airborne Express,827,Test flight,McDonnell Douglas DC-8-63F,N827AX,45901/293,6.0,6.0,0.0
+01/07/1997,11:00,"Near Moamoa, Samoa",Polynesian Airlines,211,Pago Pago - FagaliI,de Havilland Canada DHC-6 Twin Otter 300,5W-FAU,678,5.0,3.0,0.0
+01/09/1997,15:54,"Near Monroe, Michigan",Comair,3272,Cincinnati - Detroit,Embraer 120RT Brasilia,N265CA,120257,29.0,29.0,0.0
+02/14/1997,12:34,"Carajas, Brazil",Varig,265,Maraba - Carajas,Boeing B-737-2C3,PP-CJO,21013/393,52.0,1.0,0.0
+03/18/1997,10:04,"Cherkessk, Russia",Stavropol Airlines,1023,Stavropol - Trabzon,Antonov AN-24RV,RA-46516,37308502,50.0,50.0,0.0
+04/10/1997,20:30,"Near Wainwright, Alaska",Hageland Aviation Services,502,Barrow - Wainwright,Cessna 208B Caravan I,N408GV,208B-0455,5.0,5.0,0.0
+04/19/1997,07:39,"Tanjung Pandan, Indonesia",Merpati Nusantara Airlines,106,Jakarta - Tanjung Pandan,British Aerospace ATP,PK-MTX,2048,53.0,15.0,0.0
+05/08/1997,21:28,"Huangtian, China",China Southern Airlines,3456,Chongqing - Shenzen,Boeing B-737-31B,B-2925,27288/2577,74.0,35.0,0.0
+07/09/1997,09:30,"Suzano, Brazil",TAM (Brazil),283,Sao Jose dos Campos - Congonhas,Fokker 100,PT-WHK,11440,60.0,1.0,0.0
+07/11/1997,21:55,"Off Santiago de Cuba, Cuba",Cubana de Aviacion,787,Santiago de Cuba - Havana,Antonov AN-24,CU-T1262,27307610,44.0,44.0,0.0
+07/17/1997,11:56,"Bandung, Indonesia",Sempati Air,304,Bangdung - Jakarta,Fokker F-27 Friendship 600,PK-YPM,10415,50.0,30.0,0.0
+07/30/1997,10:30,"Florence, Italy",Air Littoral,701,Nice - Florence,Aerospatiale ATR-42-512,F-GPYE,492,17.0,1.0,0.0
+08/06/1997,01:42,"Agana, Guam",Korean Airlines,801,Seoul - Guam,Boeing B-747-300,HL-7468,22487/605,254.0,229.0,0.0
+08/07/1997,12:36,"Miami, Florida",Fine Air,101A,Miami - Santo Domingo,McDonnell Douglas DC-8-61F,N27UA,45942/349,4.0,4.0,0.0
+08/10/1997,08:15,"Matsu Island, Taiwan",Formosa Airlines,7601,Taipei - Matsu,Dornier DO-228-212,B-12256,8220,16.0,16.0,0.0
+09/03/1997,14:00,"Phnom Penh, Cambodia",Vietnam Airlines,815,Ho Chi Minh City - Phnom Penh,Tupolev TU-134,VN-A120,66360,66.0,65.0,0.0
+09/06/1997,19:44,"Near Miri, Malaysia",Borneo Airways,238,Bandar Seri Begawan - Miri,Dornier 228-212,9M-MIA,8217,10.0,10.0,0.0
+09/26/1997,13:34,"Buah Nabar, Indonesia",Garuda Indonesia Airlines,152,Jakarta - Medan,Airbus A300-B4-200,PK-GAI,214,234.0,234.0,0.0
+10/08/1997,07:23,"Near Montrose, Colorado",SceniAirlines,-,"Montrose, CO - Page, AZ",Cessna 208B Caravan I,N12022,208B-0432,9.0,9.0,0.0
+10/10/1997,22:23,"Nuevo Berlin, Uruguay",Austral Lineas Aeras (Argentina),2553,Posadas - Buenos Aires,McDonnell Douglas DC-9-32,LV-WEG,47446/561,74.0,74.0,0.0
+11/08/1997,08:08,"Near Barrow, Alaska",Hageland Aviation Services,500,Barrow - Wainwright,Cessna 208B Caravan I,N750GC,208B-0504,8.0,8.0,0.0
+12/09/1997,15:26,"Little Grand Rapids, Canada",Sowind Air,301,Winnipeg - Little Grand Rapids,Embraer 110P1 Bandeirante,C-GVRO,110285,17.0,4.0,0.0
+12/16/1997,18:35,"Sharjah, United Arab Emirates",Tajikistan Airlines,3183,Dushanbe - Sharjah,Tupolev TU-154,EY-85281,78A-281,86.0,85.0,0.0
+12/17/1997,21:13,"Fotina, Greece",Aerosweet Airlines (LVOV),241,Odessa - Thessaloniki,Yakovlev YAK-42,UR-42334,4520422606,70.0,70.0,0.0
+12/19/1997,16:13,"Near Palembang, Indonesia",SilkAir,185,Jakarta - Hatta - Singapore,Boeing B-737-300,9V-TRF,28556/2851,104.0,104.0,0.0
+12/28/1997,23:10,Over the PacifiOcean,United Air Lines,826,Tokyo - Honolulu,Boeing B-747-122,N4723U,19882/175,393.0,1.0,0.0
+01/27/1998,11:45,"Yangon (Rangoon), Myanmar",Myanmar Airways,403,Thandwe - Sittwe,Fokker F-27 Friendship 600,XY-AES,10576,45.0,16.0,0.0
+02/02/1998,11:00,"Pagalungan, Philippines",Cebu PacifiAir,387,Tacloban - Cagayan de Oro,McDonnell Douglas DC-9-32,RP-C1507,47069/175,104.0,104.0,0.0
+02/16/1998,20:09,"Taipei, Taiwan",China Airlines (Taiwan),676,Denpasar - Taipei,Airbus A300-622R,B-1814,578,196.0,196.0,7.0
+03/05/1998,05:20,"Near Clarksville, Tennesee",Baron Aviation,8315,"Memphis, TN - Bowling Green, KY",Cessna 208B Caravan I Super Cargomaster,N840FE,208B-0142,1.0,1.0,0.0
+03/18/1998,19:31,"Off Hsinchu, Taiwan",Formosa Airlines,7623,Hsinchu - Kao Hsiung,Saab340B,B-12255,340B-377,13.0,13.0,0.0
+03/22/1998,19:42,"Bacolod, Philippines",Philippine Air Lines,137,Manila - Bacolod,Airbus A.320-214,RP-C3222,708,127.0,0.0,3.0
+03/28/1998,09:35,"Piura, Peru",Fuerza Aérea del Peru,388,Tumbes - Piura,Antonov AN-32,OB-1388,1203,55.0,22.0,1.0
+04/20/1998,16:47,"Near Bogota, Colombia",Air France,422,Bogota - Quito,Boeing B-727-230,HC-BSU,21622/1431,53.0,53.0,0.0
+06/18/1998,07:28,"Montreal, Canada",Propair,420,Montreal - Peterborough,Swearingen SA-226TC Metroliner II,C-GQAL,TC-233,11.0,11.0,0.0
+07/30/1998,11:05,"Kochi, India",Alliance Airlines,503,Agathi - Kochi - Thiruvananthapuram,Dornier 228-201,VT-EJW,8075/2017,6.0,6.0,2.0
+02/25/1999,12:30,"Genoa, Italy",Minerva Airlines,1553,Cagliar - Genoa,Dornier 328-110,D-CPRR,3054,31.0,4.0,0.0
+07/30/1998,15:58,"Near Quiberon, France",Proteus Air / Private,706,Lyon - Lorient,Beechcraft 1900D / Cessna 177,F-GSJM/F-GAJE,UE-238,15.0,15.0,0.0
+08/04/1998,17:58,"Kincolith, British Columbia, Canada",Harbour Air Seaplanes Ltd.,709,Prince Rupert - Kincolith,de Havilland Dash-2 Beaver,C-FOCJ,0039,5.0,5.0,0.0
+08/24/1998,08:35,"Manibagi, Myanmar",Myanmar Airways,635,Rangoon - Tachilek,Fokker F-27 Friendship 600,XY-AEN,10476,44.0,44.0,0.0
+08/29/1998,13:03,"Quito, Ecuador",Cubana de Aviacion,389,Quito - Guayaquil - Havana,Tupolev TU-154M,CU-T1264,720,91.0,70.0,10.0
+09/02/1998,21:30,"Off Peggy's Cove, Nova Scotia, Canada",Swissair,111,New York City - Geneva,McDonnell Douglas MD-11,HB-IWF,48448/465,229.0,229.0,0.0
+09/25/1998,09:00,"Near Nador, Morroco",Paukn Air,4101,Malaga - Melilla,British Aerospace BAe-146-100,EC-GEO,E1007,38.0,38.0,0.0
+09/29/1998,13:50,"Off Mannar, Sri Lanka",Lionair,602,Jaffna - Colombo,Antonov AN-24RV,EW-46465,27307901,55.0,55.0,0.0
+11/23/1998,00:30,"Victoria, British Columbia",Regency Express Air,434,Vancouver - Victoria,Cessna 208B Caravan I Super Cargomaster,N9352B,208B-0061,2.0,2.0,0.0
+12/11/1998,19:10,"Near Surat Thani, Thailand",Thai Airways,261,Bangkok - Surat Thani,Airbus A-310-204,HS-TIA,415,146.0,102.0,0.0
+12/26/1998,12:00,"Vila Nova, Angola",Transafrik,806,Huambo - Saurimo,Lockheed Martin L-100-30 Hercules,S9-CAO,4561,14.0,14.0,0.0
+02/24/1999,16:34,"Rui'an, China",China Southwest Airlines,4509,Chengdu - Wenzhou,Tupolev TU-154,B-2622,90A-846,61.0,61.0,0.0
+03/19/1999,09:45,"Davis Inlet, Newfoundland, Canada",Provincial Airlines,960,Goose Bay - Davis Inlet,de Havilland Canada DHC-6 Twin Otter 300,C-FWLQ,724,2.0,1.0,0.0
+04/07/1999,00:33,"Near Ceyhan, Turkey",Turkish Airlines (THY),5904,Adana - Ciddah,Boeing 737-4Q8,TC-JEP,25378/2732,6.0,6.0,0.0
+04/15/1999,16:05,"Shanghi, China",Korean Air,6316,"Shanghi, China - Seoul, Korea",McDonnell Douglas MD-11,HL-7373,48409/490,3.0,3.0,0.0
+06/01/1999,23:50,"Little Rock, Arkansas",American Airlines,1420,Dallas-Fort Worth - Little Rock,McDonnell Douglas MD-82,N215AA,49163/1111,145.0,11.0,0.0
+06/30/1999,02:42,"Seraing, Belgium",Nightexpress,114,"London, England - Frankfort, Germany",Beechcraft 99,D-IBEX,U- 45,2.0,2.0,0.0
+07/07/1999,19:51,"Near Kathmandu, Nepal",Lufthansa Cargo Airlines,8533,Kathmandu - New Delhi,Boeing 727-243F,VT-LCI,22168/1770,5.0,5.0,0.0
+07/16/1999,21:41,"Off Martha's Vineyard, Massachusetts",Private,-,"Fairfield, N.J. - Martha's Vineyard, MA",Piper PA-32-R301 Saratoga II HP,N9253N,3213100,3.0,3.0,0.0
+07/20/1999,11:00,"Near Bluefields, Nicaragua",La Costena,046,Managua - Bluefields,Cessna 208B Grand Caravan,YN-CED,208B-0341,16.0,16.0,0.0
+07/24/1999,05:35,"Nasevou Village, Fiji",Air Fiji,121,Nausori - Nadi,Embraer 110P1 Bandeirante,DQ-AFN,110416,17.0,17.0,0.0
+07/31/1999,08:30,"Marine City, Michigan",Private,-,Sky Diving,Beech King Air 65-A90,N518DM,LJ-251,10.0,10.0,0.0
+08/07/1999,12:00,"Santo Antao, Cape Verde Islands",TACV-Cabo Verde Airlines,5002,Sao Vicente - Santo Antao,Dornier 228-201,D4-CBC,8091,18.0,18.0,0.0
+08/12/1999,23:58,"Sept-Îles, Canada",Regionnair,347,Port-Menier - Sept-Iles,Beechcraft 1900D,C-FLIH,UE-347,4.0,1.0,0.0
+08/22/1999,18:45,"Hong Kong, China",China Airlines (Taiwan),642,Bangkok - Hong Kong,McDonnell Douglas MD-11,B-150,48468/518,315.0,3.0,0.0
+08/24/1999,12:36,"Hualian, Taiwan",Uni Air,873,Taipei - Hualian,McDonnell Douglas MD-90-30,B-17912,53536/2160,96.0,1.0,0.0
+08/31/1999,20:55,"Buenos Aires, Argentina","LAPA, Lineas Aereas Privadas Argentinas",3142,Buenos Aires - Cordoba,Boeing B-737-204C,LV-WRZ,20389/251,103.0,64.0,10.0
+09/03/1999,12:50,"Glasgow, Scotland",Edinburgh Air Charter,-,Glasgow - Aberdeen,Cessna 404 Titan Ambassador,G-ILGW,404-0690,11.0,8.0,0.0
+09/05/1999,10:30,"Near Kathmandu, Nepal",Necon Air,128,Pokhara - Kathmandu,Hawker Siddeley HS-748-501 Super 2B,9N-AEG,1806,15.0,15.0,0.0
+09/25/1999,17:25,"Mt. Mauna Loa, Hawaii",Big Island Airlines,58,Sightseeing,Piper PA-31-350 Navajo Chieftain,N411WL,31-8352039,10.0,10.0,0.0
+10/31/1999,06:52,"Off Nantucket Island, Massachusetts",EgyptAir,990,New York City - Cairo,Boeing B-767-366ER,SU-GAP,24542/282,217.0,217.0,0.0
+11/09/1999,19:03,"Near Uruapan, Mexico",TAESA,725,Uruapan - Mexico City,McDonnell Douglas DC-9-31,XA-TKN,47418/570,18.0,18.0,0.0
+11/12/1999,11:13,"Near Pristina, Kosovo",Si Fly - U.N. charter,3275,Rome - Pristina,Aerospatiale Alenia ATR-42,F-OHFV,12,24.0,24.0,0.0
+12/06/1999,07:06,"Johannesburg, South Africa",Charter - Flightline Charter Services,-,"Johannesburg, South Africa  - Oranjemund, Namibia",Piper PA-31-350,ZS-OJY,31-7405210,9.0,9.0,0.0
+12/09/1999,12:04,"Near Sundsvall, Sweden",Charter - Twin Air HB,-,Sundsvall - Gothenburg,Piper PA-31-350,SE-GDN,31-7300948,8.0,8.0,0.0
+12/11/1999,09:20,"Sao Jorge, Azores (Portugal)",SATA,530,Ponta Delgada - Horta,British Aerospace APT,CS-TGM,2030,35.0,35.0,0.0
+12/21/1999,09:40,"Guatemala City, Guatemala",Cubana de Aviacon,261,Havana - Guatemala City,McDonnell Douglas DC-10-30,F-GTDI,46890/77,314.0,16.0,2.0
+12/22/1999,18:38,"Great Hallingbury, United Kingdom",Korean Air,8509,"London, England - Milan, Italy",Boeing 747-2B5F,HL-7451,22480/448,4.0,4.0,0.0
+12/25/1999,20:15,"Bejuma, Venezuela",Cubana de Aviacion,310,Havana - Valencia,Yakovlev YAK-42D,CU-T1285,4520424914068,22.0,22.0,0.0
+01/10/2000,17:54,"Niederhasli, Switzerland",Crossair,498,Zürich - Dresden,Saab 340B,HB-AKK,213,10.0,10.0,0.0
+01/30/2000,21:08,"Off Abidjan, Ivory Coast",Kenya Airways,431,Abidjan - Lagos,AirbusA310-304,5Y-BEN,426,179.0,169.0,0.0
+01/31/2000,16:21,"Off Point Mugu, California",Alaska Airlines,261,Puerto Vallarta - San Francisco,McDonnell Douglas MD-83,N963AS,53077/1995,88.0,88.0,0.0
+02/16/2000,19:50,"Sacramento, California",Emery Worldwide,17,"Sacramento, CA - Dayton, OH",McDonnell Douglas DC-8-71F,N8079U,45947/341,3.0,3.0,0.0
+03/05/2000,18:11,"Burbank, Calilfornia",Southwest Airlines,1455,Las Vegas - Burbank,Boeing B-737-3T5,N668SW,23060/1069,142.0,0.0,0.0
+04/19/2000,07:02,"Samal Island, Philippines",Air Philippines,541,Manila - Davao,Boeing B-737-2H4,RP-C3010,21447/508,131.0,131.0,0.0
+05/21/2000,11:28,"Near Wilkes-Barre, Pennsylvania",Executive Airlines,Charter,AtlantiCity - Wilkes-Barre,BAe Jetstream 3101-31,N16EJ,834,19.0,19.0,0.0
+05/25/2000,02:50,"Paris, France",Streamline,200,Paris - London,Shorts 330-200,G-SSWN,SH-3064,2.0,1.0,0.0
+05/31/2000,19:05,"Off Whyalla, Australia",Whyalla Airlines,904,Adelaide - Whyalla,Piper PA-31-350 Navajo,VH-MZK,31-8152180,8.0,8.0,0.0
+06/05/2000,11:35,"Accra, Ghana",Ghana Airlink,200,Tamale - Accra,Fokker F-27 Friendship 600,G-524,10535,52.0,7.0,0.0
+06/14/2000,09:50,"Liverpool, England",ANT Air Taxi,-,Ronaldsway - Liverpool,Piper PA-31-350 Navajo,G-BMBC,31-7652172,5.0,5.0,0.0
+06/22/2000,15:16,"Shitai, China",Wuhan Airlines,343,Enshi - Wuhan,Xian Yunshuji Y-7-100C,B-3479,06708,44.0,44.0,7.0
+07/08/2000,19:50,"Near Villahermosa, Mexico",Aerocaribe,7831,Tuxtla Gutierrez - Villahermosa,British Aerospace  BAe Jetstream 32EP,N912FJ,912,19.0,19.0,0.0
+07/17/2000,07:34,"Patna, India",Indian Airlines/Alliance Airlines,7412,Calcutta - Patna - Lucknow - New Delhi,Boeing B-737-2A8 Advanced,VT-EGD,22280/671,58.0,55.0,5.0
+07/19/2000,00:30,"Linneus, Maine",Airwave Transport,9807,Moncton - Montreal,Grumman G-159 Gulfstream I,C-GNAK,154,2.0,2.0,0.0
+07/25/2000,16:44,"Gonesse, France",Air France,4590,Paris - New York City,Aerospatiale BAe Concorde 101,F-BTSC,203,109.0,109.0,4.0
+08/06/2000,15:55,"Puerto Montt, Chile",Military - Fuerza Aérea de Chile,-,Santiago - Coihaique,Casa 212-AB10 Aviocar,230,AB10-454,14.0,14.0,0.0
+08/23/2000,19:30,"Off Manama, Bahrain",Gulf Air,072,Cairo - Manama,Airbus A320-212,A4O-EK,0481,143.0,143.0,0.0
+08/25/2000,17:30,"Hilo Bay, Hawaii",Big Island Airlines,57,Sightseeing,Piper PA-31-350 Navajo Chieftain,N923BA,31-8252024,9.0,1.0,0.0
+08/26/2000,12:10,"Near La Fortuna, Costa Rica",SANSA,1644,San Jose  - La Fortuna - Tamarindo,Cessna 208B Grand Caravan I,HP-1357AAP,208B-0709,10.0,10.0,0.0
+09/18/2000,15:10,"Nuiqsut, Alaska",Cape Smythe Air Service,181,Deadhorse - Nuiqsut,Piper PA-31-350 Navajo,N220CS,8275013,10.0,5.0,0.0
+10/06/2000,16:55,"Reynosa, Mexico",Aeromexico,250,Mexico City - Reynosa - Matamoros,McDonnell Douglas DC-9-31,N936ML,47501/571,88.0,0.0,4.0
+10/09/2000,09:50,"Lummi Island, Washington",Empire Airlines,665,Bellingham - Eastsound-Orcas Island,Cessna 208B Caravan I Super Cargomaster,N941FE,208B-0192,1.0,1.0,0.0
+10/19/2000,12:12,"Near Sam Neua, Laos",Lao Aviation,703,Vientiane - Sam Neua,Harbin Yunshuji Y-12-II,RDPL-34130,86,17.0,8.0,0.0
+10/31/2000,23:17,"Taipei, Taiwan",Singapore Airlines,006,Taipei - Los Angeles,Boeing B-747-412,9V-SPK,28023/1099,179.0,83.0,0.0
+01/25/2001,18:15,"Ciudad Bolivar, Venezuela",Rutaca Airlines,224,Canaina - Ciudad Bolivar - Por La Mar,Douglas DC-3C (C47A-DL),YV-224C,19055,24.0,24.0,0.0
+02/27/2001,17:30,"Near Granton Harbour, Scotland",Loganair,670,Edinburgh - Belfast,Shorts 360-100,G-BNMT,SH3723,2.0,2.0,0.0
+03/03/2001,14:48,"Bangkok, Thailand",Thai Airways,114,Bangkok - Chiang Mai.,Boeing B-737-4D7,HS-TDC,25321/2113,5.0,1.0,0.0
+03/24/2001,16:30,"Gustavia, St. Barthélémy, French West Indies",Air Caraibes,1501,St. Maarten - St. Barthélémy,de Havilland Canada DHC-6 Twin Otter,F-OGES,254,19.0,19.0,1.0
+03/29/2001,19:01,"Near Aspen, Colorado",Jetwingsco Inc. - Private Charter,-,Los Angeles - Aspen,Grummand Gulfstream III,N303GA,303,18.0,18.0,0.0
+07/04/2001,02:08,"Near Irkutsk, Russia",Vladivostokavia,352,Yekaterinburg - Irkutsk - Vladivostok,Tupolev TU-154M,RA-85845,86A-735,145.0,145.0,0.0
+08/24/2001,18:46,"Terceira, Azores",Canadian Air Transat,236,Toronto - Lisbon,Airbus A-330-243,C-GITS,0271,304.0,0.0,0.0
+08/25/2001,18:45,"Marsh Harbour, Bahamas",Blackhawk Int. Airways  - Private charter,-,Abaco - Miami,Cessna 402B,N8097W,402B1014,9.0,9.0,0.0
+08/29/2001,10:15,"Near Malaga, Spain",Binter Mediterráneo,8261,Melilla - Málaga,CASA  CN-235-200,EC-FBC,C033,47.0,4.0,0.0
+09/11/2001,10:03,"Shanksville, Pennsylvania",United Air Lines,93,Newark - San Francisco,Boeing B-757-222,N591UA,28142/718,44.0,44.0,0.0
+09/11/2001,09:45,"Arlington, Virginia.",American Airlines,77,Washington D.C. - Los Angeles,Boeing B-757-223,N644AA,24602/365,64.0,64.0,125.0
+09/11/2001,08:47,"New York City, New York",American Airlines,11,Boston - Los Angeles,Boeing 767-223ER,N334AA,22332/169,92.0,92.0,2750.0
+09/11/2001,09:03,"New York City, New York",United Air Lines,175,Boston - Los Angeles,Boeing B-767-222,N612UA,21873/41,65.0,65.0,2750.0
+09/12/2001,16:25,"Near Chichen Itza, Mexico",Aero Ferinco Charter,-,Chichen Itza - Cozumel,LET 410UVP,XA-ACM,892401,19.0,19.0,0.0
+09/18/2001,07:30,"Guatemala City, Guatemala",AtlantiAirlines,870,"Guatemala City - San Pedro Sula, Honduras",LET 410UVP-E,TG-CPE,861705,13.0,9.0,0.0
+10/04/2001,13:44,"110 miles SW of Sochi, Russia",Sibir Airlines,1812,"Tel Aviv -  Novosibirsk, Russia",Tupolev Tu-154M,RA-85693,90A-866,78.0,78.0,0.0
+10/08/2001,08:10,"Milan, Italy",Scandinavian Airlines (SAS) / Private,686 / -,Milan - Copenhagen / Milan - Paris,MD-87 / Cessna 525A Citation II,SE-DMA / D-IEVX,53009/ 525A-0036,114.0,114.0,4.0
+10/10/2001,09:26,"Dillingham, Alaska",PenAir,350,Dillingham - King Salmon,Cessna 208 Caravan,N9530F,20800088,10.0,10.0,0.0
+10/10/2001,10:42,"Off Valencia, Spain",Flightline,101,"Barcelona - Oran, Algeria",Swearingen SA-226AT Merlin IV,EC-GDV,AT-043,10.0,10.0,0.0
+11/12/2001,09:16,"Belle Harbor, Queens, New York",American Airlines,587,"New York City - Santo Domingo, Dominican Rep.",Airbus A-300-605R,N14053,420,260.0,260.0,5.0
+11/19/2001,21:19,"Kalyazin, Russia",Charter - IRS Aero,-,Khatanga - Moscow,Ilyushin 18V,RA-75840,182005301,27.0,27.0,0.0
+11/24/2001,22:07,"Birchwil, Switzerland",Crossair,3597,Berlin - Zurich,BAE Avro RJ100,HB-IXM,E-3291,33.0,24.0,0.0
+11/28/2001,11:48,"San Jerónimo de Moravia , Costa Rica",SANSA,1624,San Jose - Quepos,Cessna 208B Grand Caravan,HP-1405APP,208B0788,8.0,3.0,0.0
+12/01/2001,12:54,"Near Novaya Inya , Russia","Military - Russian, cargo",-,Moscow - Bratsk - Anadyr,Ilyushin IL- 76TD,RA-76839,1023411375,18.0,18.0,0.0
+12/10/2001,18:21,"Sierra Blanca, Texas",Air Cargo Express,36,Harlingen - El Paso,Learjet 24D,N997TD,24-247,2.0,2.0,0.0
+01/14/2002,07:28,"Bilbao, Spain",Ibertrans Aérea,1278,Madrid - Bilbao,Embraer EMB-120 Brasilia,EC-GTJ,120-024,3.0,3.0,0.0
+01/16/2002,16:29,"Near Solo, Indonesia",Garuda Indonesia Airlines,421,Ampenan - Yogyakarta - Jakarta,Boeing B-737-3Q8,PK-GWA,24403/1706,62.0,1.0,0.0
+01/19/2002,c: 9:40,"Near Milford Sound, New Zealand",Air Fiordland,-,Te Anau  - Milford Sound,Cessna 207 Skywagon,ZK-SEV,20700204,6.0,6.0,0.0
+01/28/2002,11:00,"Near Ipiales, Colombia",TAME,120,Quito -  Tulcán - Cali,Boeing B-727-134,HC-BLF,19692/498,92.0,92.0,0.0
+02/12/2002,07:50,"Near Khorramabed, Iran",Iran Air Tours,956,Tehran - Khorramabed,Tupolev TU-154,EP-MBS,91A-871,117.0,117.0,0.0
+02/21/2002,20:44,"Lakhta, Russia",Military - Russian Navy,-,Sanofov - Lakhta,Antonov AN-26,07RED,ZR726001,20.0,17.0,0.0
+02/22/2002,02:30,"Off Dumaguete, Philippines",Military - U.S. Army,-,Basilan - Mactan Island,MH-47 Chinook helicopter,92-0471,M-3719,10.0,10.0,0.0
+03/09/2002,13:40,"Monte Rotondo, Italy",Svedijos Prekés,2801,"Budapest, Hungary - Tunis, Tunisia",Antonov 2TP,LY-AVD,1G137-53,3.0,3.0,0.0
+04/12/2002,04:07,"Palma de Mallorca, Spain",Tadair,306,Madrid - Palma de Mallorca,Swearingen SA.227AC Metro III,EC-GKR,AC-620,2.0,2.0,0.0
+04/15/2002,11:23,"Busan, South Korea",Air China,129,Beijing - Busan,Boeing B-767-200ER,B-2552,23308/127,166.0,128.0,0.0
+05/04/2002,13:30,"Kano, Nigeria",EAS Airlines (Executive Airline Services),4226,Abuja - Jos - Kano - Lagos,BAC One-Eleven 525FT,5N-ESF,266,77.0,74.0,75.0
+05/07/2002,15:17,"Near Tunis, Tunisia",EgyptAir,843,Cairo - Tunis,Boeing B-737-566,SU-GBI,25307/2135,62.0,14.0,0.0
+05/07/2002,21:32,"Off Dalian, China",China Northern Airlines,6136,Beijing - Dalian,McDonnell Douglas MD-82,B-2138,49522/17023,112.0,112.0,0.0
+05/25/2002,15:29,"Off Penghu Island, Taiwan",China Airlines (Taiwan),611,Taipei - Hong Kong,Boeing B-747-209B,B-18255,21843/386,225.0,225.0,0.0
+07/01/2002,23:36,"Uberlingen, Germany",Bashkirian Airlines / DHL Worldwide Express,2927 / 611,Moscow-Munich-Barcelona / Bahrain/Brussels,Tupolev TU-154M / Boeing B-757-23APF,RA85816/A9C-DHL,1006 / 24635/258,71.0,71.0,0.0
+07/16/2002,19:45,"Off Cromer, Norfork, England",Bristow Helicopters,-,Gas platform Clipper - drilling rig Golbal Sante Fe Monach,Sikorsky S-76A,G-BJVX,760100,11.0,11.0,0.0
+08/07/2002,22:00,"Caguas, Puerto Rico",Military - U.S. Air Force,-,Roosevelt Roads NS - Borinquen NGB,Lockheed MC-130H Hercules,90-0161,5265,10.0,10.0,0.0
+10/23/2002,19:45,"Spanish Fort, Alabama",Mid-AtlantiFreight,282,Mobile - Mongomery,Cessna 208B Cargomaster I,N76U,208B-0775,1.0,1.0,0.0
+10/25/2002,10:22,"Eveleth, Minnesota",Aviation Charter - Air Taxi,-,St. Paul - Eveleth,Beechcraft King Air A100,N41BE,B-245,8.0,8.0,0.0
+11/06/2002,10:10,"Near Niederanven, Luxembourg",Luxair,9642/2420,"Berlin, Germany - Luxembourg",Fokker 50,LX-LGB,20221,22.0,20.0,0.0
+11/11/2002,06:09,"Manila, Philippines",Laoag International Airlines,585,Manila - Laoag,Fokker F27 Friendship 100,RP-C6888,10571,34.0,19.0,0.0
+11/28/2002,14:15,"Masai Mara Game Reserve, Kenya",Eagle Aviation,-,Ol Kiombo - Mombasa,Let 410UVP-E20,5Y-ONT,871812,20.0,1.0,0.0
+12/17/2002,22:51,"Rockford, Illinois",Planemasters,1627,Decatur - Rockford,Cessna 208B Caravan I Super Cargomaster,N277PM,208B-0143,1.0,1.0,0.0
+12/23/2002,19:30,"Near Isfanan, Iran",Aeromist-Kharkiv,2137,"Kharkiv, Ukraine - Trabzon, Turkey - Isfanan, Iran",Antonov AN-140,UR-14003,0204,44.0,44.0,0.0
+01/08/2003,20:28,"Diyarbakir, Turkey",Turkish Airlines (THY),634,Istanbul - Ankara - Diyarbakir,BAe Avro RJ-100,TC-THG,E-3241,80.0,75.0,0.0
+01/08/2003,08:53,"Charlotte, North Carolina",US Air Express/Air Midwest,5481,"Charlotte, NC - Greer, SC",Beech BE-1900D,N233YV,UE-233,21.0,21.0,0.0
+01/09/2003,08:43,"Near Chachapoyas, Peru",TANS Airlines,222,Chiclayo - Chachapoyas,Fokker 28 Fellowship 1000,OB-1396,11100,46.0,46.0,0.0
+02/10/2003,19:42,"Tallinn, Estonia",Enimex,827,Tallinn - Helsinki,Antonov AN-28,ES-NOY,1AJ006-04,3.0,2.0,0.0
+02/20/2003,08:52,"Near Kohat, Pakistan",Military - Pakistan Air Force,-,Islamabad - Kohat,Fokker F-27 Friendship 200,10254,10254,17.0,17.0,0.0
+03/01/2003,14:25,"Near Barki, Russia",Private - Kabanov - skydiving,-,Skydiving,Let L-410UVP,FLARF-01032,831109,25.0,11.0,0.0
+03/06/2003,15:45,"Tamanrasset, Algeria",Air Algerie,6289,Tamanrasset - Algiers,Boeing B-737-2T4,7T-VEZ,22700/885,103.0,102.0,0.0
+03/28/2003,15:49,"New Vienna, Iowa",Morris Hancock Flying Club - Charter,-,"Aurora, IL - Morris, MN",Beech A36,N1636W,E-348,3.0,3.0,0.0
+05/26/2003,04:45,"Near Macka, Turkey",Ukranian-Mediterranean Airlines,4230,"Kabul, Afghanistan - Trabzon, Turkey - Zaragoza, Spain",Yakovlev 42D,UR-42352,2042181195,75.0,75.0,0.0
+06/06/2003,19:15,"Christchurch, New Zealand",Charter - Air Adventures New Zealand Ltd,-,Palmerston North - Christchurch,Piper PA-31-350 Navajo Chieftain,ZK-NCA,31-7405203,10.0,8.0,0.0
+06/22/2003,23:55,"Near Brest, France",Brit Air,5672,Nantes - Brest,Canadair CRJ-100ER,F-GRJS,7377,24.0,1.0,0.0
+07/08/2003,04:00,"Port Sudan, Sudan",Sudan Airways,139,Port Sudan - Khartoum,Boeing 737-2J8C,ST-AFK,21169/429,117.0,116.0,0.0
+07/19/2003,18:00,"Mount Kenya, Kenya",Ryan Blake Air Charter,-,Nairobi - Samburu National Park,Swearingen SA-226T Metro II,ZS-OYI,TC-349,14.0,14.0,0.0
+08/24/2003,14:00,"Cap Haitien, Haiti",Tropical Airways,1301,Cap Haitien - Port au Paix,Let 420UVP-E,HH-TAD,861702,21.0,21.0,0.0
+09/11/2003,20:30,"Near Summer Beaver, Canada",Wasaya Airways,125,Pickle Lake - Summer Beaver,Cessna 208B Grand Caravan,C-FKAB,208B-0305,8.0,8.0,0.0
+09/19/2003,17:10,"Del Rio, Texas",Ameristar Jet Charter,982,El Paso - Del Rio,Learjet 25B,N666TW,25-116,2.0,1.0,0.0
+10/03/2003,21:25,"Off Waikanae, New Zealand",Air Freight New Zealand,642,Christchurch - Palmerston North,Convair CV-580F,ZK-KFU,017,2.0,2.0,0.0
+10/29/2003,08:51,"Cody, Wyoming",FedEx,8773,Casper - Cody,Cessna 208B Caravan I Super Cargomaster,N791FE,208-0289,1.0,1.0,0.0
+11/29/2003,08:01,"Spokane, Washington",Ameriflight,1996,Seattle - Spokane,Swearingen SA227AT Merlin IVC,N439AF,AT-439B,1.0,1.0,0.0
+12/25/2003,14:55,"Cotonou, Benin",Union des Transports Aeriens de Guinee,141,"Conakry, Guinea - Cotonou, Benin - Beirut, Lebanon",Boeing B-727-223,3X-GDO,21090,161.0,140.0,0.0
+01/03/2004,04:44,"Off Sharm el Sheikh, Egypt",Flash Air,604,"Sharm el Sheikh, Egypt - Cairo, Egypt",Boeing B-737-3Q8,SU-ZCF,26283,148.0,148.0,0.0
+01/13/2004,19:40,"Tashkent, Uzbekistan",Uzbekistan Airways,1154,Termez - Tashkent,Yakovlev YAK-40,UK-87985,9540844,37.0,37.0,0.0
+01/17/2004,16:40,"Lake Erie, off Pelee Island, Ontario, Canada",Georgia Express,0126,"Pelee Island, Ontario - Windsor, Ontario",Cessna 208B Grand Caravan,C-FAGA,208B-0658,10.0,10.0,0.0
+02/10/2004,11:40,"Sharjah, United Arab Emirates",Kish Airlines,1770,Kish Island - Sharjah,Fokker F-50,EP-LCA,20273,46.0,43.0,0.0
+05/14/2004,18:30,"Near Manaus, Brazil",Rico Linhas Aereas,4815,Sao Paulo - Tefe - Manaus,Embraer 120ER Brasilia,PT-WRO,120070,33.0,33.0,0.0
+05/25/2004,13:56,"Near Lukla, Nepal",Yeti Airlines,117,Katmandou - Lukla,de Havilland DHC-6 Twin Otter 300,9N-AFD,651,3.0,3.0,0.0
+06/08/2004,09:38,"Off Libreville, Gabon",Gabon Express,221,Libreville - Franceville,BAe HS-748-232 Srs 2A,TR-LFW,1611/82,30.0,19.0,0.0
+08/13/2004,00:50,"Cincinnati, Ohio",Air Taroma,185,Memphis - Cincinnati,Convair CV-580,N586P,68,2.0,1.0,0.0
+08/17/2004,23:40,"Great Falls, Montana",Alpine Air Express,5071,Billings - Kalispell,Beechcraft 99,N199GL,U-15,2.0,2.0,0.0
+08/24/2004,22:59,"Near Rostov-on-Don, Russia",Sibir Airlines,1047,Moscow - Sochi,Tupolev 154B-2,RA-85556,82A-556,46.0,46.0,0.0
+08/24/2004,22:56,"Near Toula, Russia",Volga-Avia Express,1303,Moscow - Volograd,Tupolev 134A-3,RA-65080,60065,41.0,41.0,0.0
+11/27/2004,11:20,"Near Bagram, Afghanstan",Presidental Airways Inc. - Air Taxi,-,"Bagram - Farah, Afghanstan",CASA 212-CC,N960BW,231,6.0,6.0,0.0
+10/14/2004,22:15,"Jefferson City, Missouri",Pinnacle Airlines/Northwest Airlink,3701,Little Rock - Minneapolis,Canadair CRJ200LR RegionalJet,N8396A,10161,2.0,2.0,0.0
+10/14/2004,03:56,"Halifax, Nova Scotia, Canada",MK Airlines,1602,"Windsor Locks - Halifax - Zaragoza, Spain",Boeing 747-244B-SF,9G-MKJ,22170,7.0,7.0,0.0
+10/19/2004,07:45,"Near Kirksville, Missouri",Corporate Airlines (American Connection),5966,"St. Louis, MO - Kirkville, MO",Bae Jetstream 3201,N875JX,875,15.0,13.0,0.0
+11/18/2004,13:02,"Caracas, Venezuela",Venezolana,213,El Vigia - Caracas,BAe 3101 Jetstream 31,YV-1083C,762,21.0,3.0,0.0
+11/28/2004,09:55,"Montrose, Colorado",Glow Air/Air Castle - Charter,73,"Montrose, CO - South Bend, IN",Canadair CL-601-2A12 Challenger,N873G,3009,6.0,3.0,0.0
+11/30/2004,18:14,"Solo, Indonesia",Lion Air,583,"Jakarta, Indonesia - Solo, Indonesia",McDonnell-Douglas MD-82,PK-LMN,49189/1173,154.0,26.0,0.0
+02/03/2005,17:00,"Near Peshawar, Pakistan",Kam Air,904,Herat - Kabul,Boeing B-737-200,EX-037,22075/630,104.0,104.0,0.0
+02/10/2005,20:30,"Lebec, California",Action Air Express Inc. - Air Taxi,-,"Fresno, CA - Santa Monica, CA",Cessna P210N,N432AR,P21000098,2.0,2.0,0.0
+06/02/2005,11:15,"Khartoom, Sudan",Marsland Aviation,430,Kartoom - El Obeid - El Fasher,Antonov AN-24B,ST-WAL,6991004,42.0,7.0,0.0
+08/02/2005,16:04,"Toronto, Canada",Air France,358,"Paris, France - Toronto Canada",Airbus A-340,F-GLZQ,289,309.0,0.0,0.0
+08/06/2005,15:40,"Off Palermo, Italy",Tuninter,1153,"Bari, Italy - Djerba, Tunisia",ATR-72-202,TS-LBB,258,39.0,16.0,0.0
+08/14/2005,12:20,"Near Grammatikos, Greece",Helios Airways,522,"Larnaca, Cyprus - Athens, Greece - Prague, Czech Republic",Boeing 737-31S,5B-DBY,29099/2982,121.0,121.0,0.0
+08/23/2005,15:06,"Near Pucallpa, Peru",TANS Peru,204,Lima - Pucallpa - Iquitos,Boeing B-737-244,OB-1809,22580/87,98.0,40.0,0.0
+09/05/2005,09:40,"Medan, Indonesia",Mandala Airlines,091,Medan - Jakarta,Boeing 737-230,PK-RIM,22136/738,117.0,99.0,44.0
+10/06/2005,05:40,"Winnipeg, Canada",Morningstar Air Express,8060,"Winnipeg - Thunder Bay, Ontario",Cessna 208B,C-FEXS,208B-0542,1.0,1.0,0.0
+10/22/2005,20:40,"Lisa, Nigeria",Bellview Airlines,3210,Lagos - Abuja,Boeing B-737-2L9,5N-BFN,22734/818,117.0,117.0,0.0
+12/08/2005,19:15,"Chicago, Illinois",Southwest Airlines,1248,"Baltimore, Maryland - Chicago, Illinois - Las Vegas, Nevada",Boeing B-737-7H4,N471WN,32471/1535,103.0,0.0,1.0
+12/10/2005,14:08,"Near Port Harcourt, Nigeria",Sosoliso Airlines,1145,Abuja - Port Harcourt,McDonnell DC-9-32,5NBFD,47562/685,109.0,108.0,0.0
+12/19/2005,14:40,"Off Miami Beach, Florida",Chalk's Ocean Airways,101,"Miami, Florida - Bimini, Bahamas",Grumman G73T Turbo Mallard,N2969,J-27,20.0,20.0,0.0
+12/23/2005,22:27,"Nardaran, Azerbaijan",Azerbaijan Airlines,217,"Baku, Azerbaijan - Aktau, Kazakhstan",Antonov AN-140-100,4K-AZ48,36525307036,23.0,23.0,0.0
+03/31/2006,17:35,"Rio Bonito, Brazil",Team Air,6865,Macaé - Rio de Janeiro,Let L410UVP-E20,PT-FSE,912532,19.0,19.0,0.0
+05/03/2006,02:15,"Off Sochi, Russia",Armavia,967,"Yerevan, Armenia - Sochi, Russia",Airbus A320-211,EK-32009,547,113.0,113.0,0.0
+07/09/2006,07:44,"Irkutsk, Russia",Sibir (S7),778,Moscow - Irkutsk,Airbus A-310-324ET,F-OGYP,442,203.0,128.0,0.0
+07/10/2006,12:05,"Multan, Pakistan",Pakistan International Airlines,688,Multan - Lahore,Fokker F-27 Friendship 200,AP-BAL,10243,45.0,45.0,0.0
+08/04/2006,09:30,"Near Pownal, Vermont",AirNow,59,"Binghamton, NY - Benningham, VT",Embraer 110 Bandeirante,N59BA,110-396,1.0,1.0,0.0
+08/13/2006,20:15,"Near Piacenza, Italy",Air Algerie,2208,"Algiers, Algeria - Frankfurt, Germany",Lockheed L-100-30 Hercules,7T-VHG,4880,3.0,3.0,0.0
+08/22/2006,15:30,"Near Donetsk, Ukraine",Pulkovo Airlines,612,Anapa - St. Petersburg,Tupolev Tu-154M,RA-851857,894,170.0,170.0,0.0
+08/27/2006,06:07,"Lexington, Kentucky",Comair,5191,"Lexington, KY - Atlanta, GA",Canadair CRJ-200ER,N431CA,7472,50.0,49.0,0.0
+09/29/2006,15:59,"Near Sao Felix do Araguaia , Brazil",Gol Airlines / Private,1907,Manaus - Brasilia,Boeing B-737-8EH /EMB-135JB,PR-GTD / N600XL,34653/2039 /14500965,161.0,154.0,0.0
+10/10/2006,07:35,"Stord, Norway",AtlantiAirways,670,Stavanger - Stord,BAe 146-200,OY-CRG,2075/75,16.0,4.0,0.0
+10/29/2006,11:30,"Near Abuja, Nigeria",ADC Airlines,053,Lagos - Abuja - Sokoto,Boeing 737-2B7,5N-BFK,22891/998,105.0,96.0,0.0
+01/01/2007,14:07,"Off Parepare, Indonesia",Adam Air,574,"Surabaya, East Java - Manado, Indonesia",Boeing B-737-4Q8,PK-KKW,24070,102.0,102.0,0.0
+01/25/2007,11:15,"Pau, France",Regional Compagnie Aerienne Europeenne,7775,Pau - Paris,Fokker 100,F-GMPG ,11362,54.0,0.0,1.0
+03/07/2007,07:14,"Yogyakarta, Indonesia",Garuda Indonesia Airlines,200,Jakarta - Yogyakarta,Boeing B-737-497,PK-GZC,25664/2393,140.0,22.0,0.0
+03/17/2007,11:40,"Samara, Russia",UTAir Airlines,471,Surgut - Samara,Tupelov 134AK,RA-65021,48390,57.0,6.0,0.0
+06/25/2007,10:40,"Near Sihanoukville, Cambodia",PMT Air,241,Siem Reap - Sihanoukville,Antonov AN-24V,XU-U4A,99901908,22.0,22.0,0.0
+07/17/2007,18:52,"Sao Paulo, Brazil",TAM (Brazil),3054,Porto Alegre - Sao Paulo,Airbus A-320-233,PR-MBK,789,187.0,187.0,12.0
+07/29/2007,04:22,"Moscow, Russia",Atran,9655,Sightseeing,Antonov AN-12BP,RA-93912,4341709,9.0,9.0,0.0
+08/09/2007,12:00,"Off Moorea, French Polynesia",Air Moorea,1121,Moorea - Papeete,de Havilland Canada DHC-6 Twin Otter 300,F-OIQ,608,20.0,20.0,0.0
+09/16/2007,15:35,"Phuket, Thailand",One-Two-Go Airlines,269,Bangkok - Phuket,McDonnell Douglas MD-82,HS-OMG,49183/1129,130.0,90.0,0.0
+11/30/2007,01:36,"Near Isparta, Turkey",Atlasjet Airlines,4203,Istanbul - Isparta,McDonnell Douglas MD-83,TC-AKM,53185/2090,57.0,57.0,0.0
+02/21/2008,17:00,"Merida, Venezuela",Santa Barbara Airlines,518,Merida - Caracas,ATR-42-300,YV-1449,028,46.0,46.0,0.0
+05/23/2008,01:25,"Billings, Montana",Alpine Aviation ,5008,Billings - Great Falls,Beechcraft 1900C,N195GA,U-65,1.0,1.0,0.0
+05/30/2008,09:40,"Tegucigalpa, Honduras",TACA International Airlines,390,"San Salvador, El Salvador - Tegucigalpa, Honduras - Miami",Airbus A-320-233,EI-TAF,1374,136.0,3.0,2.0
+06/10/2008,20:45,"Khartoum, Sudan",Sudan Airways,548,"Aman, Jordan - Damascus, Syria - Khartoum, Sudan",Airbus A-310-324,ST-ATN,548,214.0,32.0,0.0
+07/06/2008,02:15,"Saltillo, Mexico",USA Jet Airlines,199,"Hamilton, Ont, Can.- Shreveport, LA - Saltillo, Mexico",Douglas DC9-15F,N199US,47153/185,2.0,1.0,0.0
+07/31/2008,09:53,"Owatonna, Minnesota",East Coast Jets,81,"AtlantiCity, NJ- Owatonna,MN",British Aerospace BAe-125-800A,N818MV,258186,8.0,8.0,0.0
+08/20/2008,14:45,"Madrid, Spain",Spanair,5022,"Madrid - Las Palmas, Canary Islands",McDonnell Douglas MD-82,EC-HFP ,53148/2072,172.0,154.0,0.0
+08/24/2008,20:30,"Bishkek, Kyrgyzstan",Itek Air,6895,"Bishkek - Tehran, Iran",Boeing B-737-219,EX-009,22088,90.0,68.0,0.0
+09/14/2008,03:15,"Perm, Russia",Aeroflot,821,Moscow - Perm,Boeing B-737-505,VP-BKO,25792/2353,88.0,88.0,0.0
+01/15/2009,15:06,"New York, New York",US Airways,1549,"New York, NY- Charlotte, NC",Airbus A320-214,N106US,1044,155.0,0.0,0.0
+02/12/2009,22:17,"Clarence Center, New York",Continental Connection/Colgan Air,3407,"Newark, N.J. - Buffalo, NY",Bombardier DHC-8-402 Q400,N200WQ,4200,49.0,49.0,1.0
+02/25/2009,10:31,"Amsterdam, Netherlands",Turkish Airlines,1951,"Istanbul, Turkey - Amsterdam, Netherlands",Boeing 737-8F2,TC-JGE,29789/1065,134.0,9.0,0.0
+03/23/2009,06:48,"Tokyo, Japan",FedEx,80,"Guangzhou, China - Tokyo, Japan",McDonnell Douglas MD-11,N526FE,48600/560,2.0,2.0,0.0
+04/17/2009,10:30,"Mount Gergaji, Indonesia",Mimika Air,514,Ilaga - Mulia,Pilatus PC-6,PK-LTJ,959,11.0,11.0,0.0
+06/01/2009,00:15,"AtlantiOcean, 570 miles northeast of Natal, Brazil",Air France,447,Rio de Janeiro - Paris,Airbus A330-203,F-GZCP,660,228.0,228.0,0.0

@@ -1,0 +1,6 @@
+Date,Time,Location,Operator,Flight,Route,Type,Registration,cn,Aboard,Fatalities,Ground
+01/10/1945,04:10,"Burbank, California",American Airlines,6001,"New York City - Juarez, Mexico - Burbank",Douglas DC-3,NC25684,2215,24.0,24.0,0.0
+02/23/1945,02:25,"Marion, Virginia",American Airlines,9,New York City - Los Angeles,Douglas DC-3,N18142,2138,22.0,17.0,0.0
+04/14/1945,16:58,"Morgantown, West Virginia",Pennsylvania Central Airlines,142,Pittsburgh - Morgantown,Douglas DC-3,NC25692,2262,20.0,20.0,0.0
+07/12/1945,14:36,"Near Florence, South Carolina",Eastern Air Lines / Military - U.S. Army Air Corps,45,Boston - NY - Washington DC - Jacksonville - Miami,Douglas DC-3-201C /  Army A-26,NC25647,2235,10.0,3.0,0.0
+08/03/1945,10:11,"Fort de France, Martinique",Pan American World Airways,216,Port of Spain - Fort de France,Sikorsky S-43 (flying boat),NC15066,4306,14.0,4.0,0.0

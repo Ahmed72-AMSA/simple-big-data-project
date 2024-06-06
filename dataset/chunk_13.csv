@@ -1,0 +1,6 @@
+Date,Time,Location,Operator,Flight,Route,Type,Registration,cn,Aboard,Fatalities,Ground
+01/31/1946,02:47,"Mt. Elk, Wyoming",United Air Lines,14,Boise - Denver,Douglas DC-3-194H,NC25675,2147,21.0,21.0,0.0
+03/03/1946,08:12,"Live Oak Springs, California",American Airlines,6-103,Dallas - Tucon - San Diego,Douglas DC-3-227B,NC21799,2203,27.0,27.0,0.0
+08/21/1946,04:19,"Moline, Illinois",Trans Luxury Airlines,878,Teterboro - Chicago - San Francisco,Douglas C-47-DL,N51878,4542,25.0,2.0,0.0
+09/05/1946,02:00,"Elko, Nevada",Trans-Luxury Airlines,850,New York City - San Francisco,Douglas DC-3 (C-47-A5-DL),NC57850,9214,22.0,21.0,0.0
+10/08/1946,04:33,"Cheyenne, Wyoming",United Air Lines,28,San Francisco - Cheyenne - Chicago,Douglas DC-4,N30051,10471,41.0,2.0,0.0

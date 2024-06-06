@@ -1,0 +1,501 @@
+Date,Time,Location,Route,Type,Aboard
+01/19/1930,18:23,Oceanside California,"Aqua Caliente, Mexico - Los Angeles",Ford 5-AT-C Tri Motor,16.0
+03/31/1931,10:45,Bazaar Kansas,Kansas City - Wichita -  Los Angeles,Fokker F10A Trimotor,8.0
+08/31/1934,23:42,Amazonia Missouri,Omaha - St. Joseph,Stinson  SM-6000B,5.0
+05/06/1935,03:30,Atlanta Missouri,Los Angeles - Albuquerque - Kanasas City -  Washington,Douglas DC-2-112,14.0
+08/14/1935,23:45,Near Gilmer Texas,Dallas -  Atlanta,Stinson Model A,4.0
+10/07/1935,02:19,Near Cheyenne Wyoming,Salt Lake City - Cheyenne,Boeing 247D,12.0
+01/14/1936,19:32,Goodwin Arkansas,"Newark, NJ - Fort Worth, TX",Douglas DC-2-120,17.0
+04/07/1936,10:20,Uniontown Pennsylvania,Newark - Los Angeles,Douglas DC-2-112,15.0
+12/15/1936,03:14,Near Salt Lake City Utah,Burbank - Las Vegas - Salt Lake City,Boeing 247D,7.0
+12/19/1936,20:47,Near Milford Pennsylvania,"Miami, FL - Charleston, SC - Newark, NJ",Douglas DC-2-112,14.0
+12/27/1936,19:38,Newhall California,Oakland - San Francisco - Los Angeles,Boeing 247-D,12.0
+01/12/1937,11:07,Near Newhall California,Salt Lake City - Burbank,Boeing 247B,13.0
+02/09/1937,20:50,Off San Francisco California,Los Angeles - San Francisco - Oakland,Douglas DC-3A,11.0
+03/25/1937,18:40,Clifton Pennsylvania,Newark - Camden - Pittsburg,Douglas DC-2-112,13.0
+05/06/1937,19:25,Lakehurst New Jersey,Frankfurt - Lakehurst N.J.,Zeppelin LZ-129,97.0
+08/10/1937,04:40,Daytona Beach Florida,Chicago - Daytona,Douglas DC-2,9.0
+10/17/1937,21:00,Haydens Peak Wyoming,Cheyenne - Salt Lake City,Douglas DC-3,19.0
+01/10/1938,15:07,Bozeman Montana,Seattle - Billings - Chicago,Lockheed 14H Super Electra,10.0
+01/11/1938,19:40,Pago Pago US Samoa,Honolulu - Pago Pago - Auckland,Sikorsky S-42 (flying boat),7.0
+03/01/1938,21:30,Near Wawona Cailifornia,San Francisco - Burbank,Douglas DC-2-112,9.0
+05/24/1938,22:17,Cleveland Ohio,Newark - Cleveland - Chicago,Douglas DST-A-207A,10.0
+07/29/1938,04:11,PacifiOcean between Manila and Guam,Alameda - Manila,Martin M-130 (flying boat),15.0
+11/29/1938,05:30,Off Point Reyes California,Medford - Oakland,Douglas DC 3-A-SB-3-G-14,7.0
+01/13/1939,21:15,Miles City Montana,Chicago - Seattle,Lockheed 14-H Super Electra,4.0
+03/26/1939,14:48,Oklahoma City Oklahoma,Chicago - Dallas,Douglas DC-2-112,12.0
+08/31/1940,14:41,Near Lovettsville Virginia,Washington D.C. - Detroit,Douglas DC-3,25.0
+11/04/1940,04:42,Near Centerville Utah,Oakland - Salt Lake City,Douglas DC-3,10.0
+12/04/1940,17:48,Chicago Illinois,New York City - Chicago,Douglas DC-3A,16.0
+01/23/1941,04:13,Near Robertson Missouri,"Kansas City, MO - New York",Douglas DC-3-3,13.0
+02/26/1941,11:50,Atlanta Georgia,New York City -  Washington D.C. - Atlanta - Brownsville,Douglas DC-3,16.0
+10/03/1941,17:48,San Juan Puerto Rico,Miami - Buenos Aires,Sikorsky S-42B (flying boat),15.0
+10/30/1941,02:04,Near Moorhead Minnesota,Minneapolis - Fargo,Douglas DC-3,15.0
+10/30/1941,22:10,St Thomas Ontario Canada,New York - Buffalo - Chicago - Detroit,Douglas DC-3,20.0
+01/16/1942,19:23,Near Las Vegas Nevada,Las Vegas - Los Angeles,Douglas DC-3,22.0
+05/01/1942,23:00,Salt Lake City Utah,San Francisco - New York City,Douglas DST-A-207A,17.0
+05/12/1942,11:51,Miles City Montana,Chicago - Seattle,Douglas DC-3-A-269,14.0
+10/03/1942,19:05,Botwood Newfoundland,"New York - Botwood - Foynes, Ireland",Sirkorsky 44A (flying boat),37.0
+10/23/1942,17:15,Palm Springs California,Palm Springs - New York City,Douglas DC-3 / Boeing B-34,13.0
+12/15/1942,01:22,Fairfield Utah,Salt Lake - Las Vegas - Burbank,Douglas DC-3A,19.0
+01/21/1943,07:30,Ukiah California,Hawaii - San Francisco,Martin M-130 (flying boat),19.0
+01/22/1943,15:15,Near Chaparra Peru,"Santiago, Chili - Arequipa, Peru - Lima, Peru",Douglas DC-3A,15.0
+02/22/1943,06:47,Lisbon Portugal,New York City - Lisbon,Boeing B-314 (flying boat),39.0
+06/01/1943,11:00,Off the coast of France,Lisbon - London,Douglas DC-3,17.0
+07/28/1943,22:43,Trammel Kentucky,Cleveland - Memphis,Douglas DC-3,22.0
+10/15/1943,23:17,Near Centerville Tennessee,Nashville - Memphis,Douglas DC3-G102,15.0
+02/10/1944,23:36,Memphis Tennessee,Little Rock - Memphis,Douglas DC-3,24.0
+08/08/1944,13:20,Off Antilla Cuba,Antilla - Miami,Sikorsky S-42 (flying boat),31.0
+11/04/1944,17:15,Hanford California,San Francisco - New York City,Douglas DC-3,24.0
+12/01/1944,00:54,Van Nuys California,San Francisco - Burbank - New York City,Douglas DC-3,17.0
+01/08/1945,21:16,Port of Spain Trinidad,Miami - Leopoldville,Martin M-130 (flying boat),30.0
+01/10/1945,04:10,Burbank California,"New York City - Juarez, Mexico - Burbank",Douglas DC-3,24.0
+02/23/1945,02:25,Marion Virginia,New York City - Los Angeles,Douglas DC-3,22.0
+04/14/1945,16:58,Morgantown West Virginia,Pittsburgh - Morgantown,Douglas DC-3,20.0
+07/12/1945,14:36,Near Florence South Carolina,Boston - NY - Washington DC - Jacksonville - Miami,Douglas DC-3-201C /  Army A-26,10.0
+08/03/1945,10:11,Fort de France Martinique,Port of Spain - Fort de France,Sikorsky S-43 (flying boat),14.0
+09/07/1945,02:13,Florence South Carolina,Miami - New York City,Douglas DC-3,22.0
+10/05/1945,01:05,Lakeland Florida,Miami - Jacksonville,Lockheed 18 Lodestar,15.0
+12/30/1945,21:13,New York City New York,Philadelphia - New York City,Douglas DC-3,12.0
+01/06/1946,03:59,Birmingham Alabama,"New York City - Birmingham, AL",Douglas DC-3,11.0
+01/18/1946,11:03,Cheshire Connecticut,New York - Boston,Douglas DC-3-201E,17.0
+01/31/1946,02:47,Mt Elk Wyoming,Boise - Denver,Douglas DC-3-194H,21.0
+03/03/1946,08:12,Live Oak Springs California,Dallas - Tucon - San Diego,Douglas DC-3-227B,27.0
+08/21/1946,04:19,Moline Illinois,Teterboro - Chicago - San Francisco,Douglas C-47-DL,25.0
+09/05/1946,02:00,Elko Nevada,New York City - San Francisco,Douglas DC-3 (C-47-A5-DL),22.0
+10/08/1946,04:33,Cheyenne Wyoming,San Francisco - Cheyenne - Chicago,Douglas DC-4,41.0
+10/17/1946,00:57,Laramie Wyoming,Oakland - Chicago,Douglas DC-3,13.0
+11/11/1946,03:30,Cleveland Ohio,Chicago - Cleveland,Douglas DC-3 (C-53D-DO),20.0
+11/13/1946,03:41,Lebec California,Palmdale - Burbank,Douglas C-53D-DO (DC-3),11.0
+12/24/1946,19:19,Near San Diego California,Holtville - San Diego,Douglas DC-3 ( C-53D-DO),12.0
+12/28/1946,09:19,Michigan City Indiana,Buffalo - Chicago,Douglas DC-3 (C-50A-DO),21.0
+12/28/1946,02:09,Near Shannon Ireland,Paris - Shannon,Lockheed 049 Consellation,23.0
+01/12/1947,01:38,Near Galax Virginia,"Akron, OH - Winston/Salem, NC",Douglas DC-3,19.0
+04/28/1947,23:13,Near Vancouver British Columbia Canada,Lethbridge - Vancouver,Lockheed 18 Loadstar,15.0
+05/29/1947,19:05,La Guardia Airport Queens New York,New York City - Cleveland,Douglas C-54B,48.0
+05/30/1947,17:41,Port Deposit Maryland,Newark - Baltimore - Miami,Douglas C-54B-15-DO,53.0
+06/13/1947,18:16,Leesburg Virginia,Pittsburgh - Washington D.C.,Douglas DC-4 (C-54-DO),50.0
+06/19/1947,23:40,Al Mayadin Syria,Karachi - Istanbul,Lockheed 049-46-21 Constellation,36.0
+10/08/1947,07:55,Near El Paso Texas,New York City - Dallas - Los Angeles,Douglas DC-4,54.0
+10/24/1947,12:29,Bryce Canyon Utah,Los Angeles - New York City,Douglas DC-6,53.0
+10/26/1947,13:45,Annette Island Alaska,Seattle - Juneau,Douglas DC-4A,18.0
+10/26/1947,17:20,Near Mt Hymettus Greece,Istanbul-Athens-Rome-Geneve-Copenhagen-Stockholm,Douglas DC-4-1009,44.0
+11/30/1947,14:25,Seattle Washington,Anchorage - Seattle,Douglas C-54A,28.0
+01/13/1948,04:36,Oxon Hill Maryland,Atlanta - Washington D.C.,Douglas DC-3-201F,9.0
+03/10/1948,22:58,Chicago Illinois,Chicago - Miami,Douglas DC-4,13.0
+03/12/1948,21:14,Mt Sanford Alaska,Anchorage - New York City,Douglas DC-4 (C-54G-1-DO),30.0
+04/15/1948,02:35,Shannon Ireland,Belgium - Shannon,Lockheed L-049-46 Constellation,31.0
+06/17/1948,12:41,Mount Carmel Pennsylvania,Chicago - New York City,Douglas DC-6,43.0
+08/29/1948,17:05,Near Winona Minnesota,Chicago - Minneapolis,Martin 202,37.0
+10/27/1948,16:50,Near Edmonton Alberta Canada,"Edmonton - Anchorage, AK",Douglas C-54A,5.0
+01/20/1949,20:05,Homer Alaska,Homer - Anchorage,Douglas DC-3C,6.0
+07/12/1949,07:43,Chatsworth California,Albuquerque - Burbank,Curtiss C-46E-1-CS,48.0
+07/30/1949,10:45,Chesterfield New Jersey,New York City - Wilmington,Douglas DC-3 -201D/ F-6-F- 5 Hellcat,16.0
+11/01/1949,11:45,Arlington Virginia,Boston - Washington D.C. - New Orleans,Douglas C-54B / P-38,55.0
+11/29/1949,05:49,Dallas Texas,New York City - Mexico City,Douglas DC-6,46.0
+12/12/1949,20:45,Washington DC,New Port News - Washington D.C.,Douglas DC-3-313A,23.0
+03/07/1950,20:59,Minneapolis Minnesota,Rochester Minn. - Minneapolis,Martin 202,13.0
+06/23/1950,23:25,Lake Michigan 18 NNW of Benton Harbor Michigan,New York City - Minneapolis-St. Paul,Douglas DC-4,58.0
+08/31/1950,00:03,Near Wadi Natrun Egypt,Cairo - Rome,Lockheed 749A Constellation,55.0
+09/04/1950,14:10,Utica New York,"Utica, NY - Newark, NJ",Douglas DC-3,23.0
+11/03/1950,09:43,Mont Blanc France,Bombay - Cairo - Geneva - London,Lockheed 749 Constellation,48.0
+11/06/1950,08:15,Butte Montana,Helena - Butte,Martin 202,21.0
+12/22/1950,13:53,Penticton British Columbia Canada,Vancouver - Penticton,Douglas DC-3,18.0
+01/14/1951,14:13,Philadelphia Pennsylvania,Newark - Philadelphia,Douglas DC-4-1009,28.0
+01/16/1951,12:14,Near Reardon Washington,Minneapolis - Seattle,Martin 202,10.0
+03/02/1951,09:12,Sioux City Iowa,"Kansas City, MO - Omaha, NB - Sioux City, Iowa",Douglas DC-3,25.0
+04/06/1951,20:30,Refugio Pass near Santa Barbara California,Santa Maria - Santa Barbara - Oxnard - Los Angeles,Douglas DC-3,22.0
+04/25/1951,11:49,Key West Florida,Miami - Havana,Douglas DC-4 /Beechcraft SMB-1,43.0
+04/28/1951,19:32,Fort Wayne Indiana,Cleveland - Fort Wayne - South Bend - Chicago,Douglas DC-3,11.0
+06/22/1951,03:25,Near Sanoyea Liberia,Johannesburg - Accra - Monrovia - New York,Lockheed 049 Constellation,40.0
+06/30/1951,02:00,Rocky Mountain Nat Park near Ft Collins Colorado,Salt Lake City - Denver,Douglas DC-6B,50.0
+08/24/1951,04:28,Decoto California,Boston - Hartford - Cleveland - Chicago - Oakland,Douglas DC-6B,50.0
+11/05/1951,09:29,Near Tucumcari Arazona,Oakland - Albuquerque,Martin 202,29.0
+12/29/1951,22:25,Near Little Valley New York,Pittsburgh - Buffalo,Curtiss C-46A-50-CU,40.0
+12/30/1951,22:07,Near Fairbanks Alaska,Umiat - Fairbanks,Curtiss C 46F-CU,4.0
+01/19/1952,01:38,Off Sandspit BC Canada,Tokyo - Elmendorf AFB,Douglas DC-4,43.0
+01/22/1952,15:43,Elizabeth New Jersey,Buffalo - Newark,Convair CV-240-0,23.0
+01/07/1953,20:55,Issaquah Washington,San Francisco - Seattle,Douglas C-54B-10-DO,7.0
+04/11/1952,12:20,North of San Juan Puerto Rico,San Juan - New York City,Douglas DC-4,69.0
+04/18/1952,03:34,Near Whittier California,"Kansas City, MO - Phoenix - Burbank",Curtiss C-46F-1CU,29.0
+04/29/1952,04:40,Near Carolina Brazil,Rio de Janeiro - New York City,Boeing 377-10-26 Stratocruiser,50.0
+05/26/1952,08:45,Near Atar Mauritania,Tripoli - Kano,Handley Page HP-81 Hermes IV,18.0
+07/27/1952,11:46,Off Rio de Janeiro Brazil,Rio de Janeiro - Buenos Aires,Boeing 377 Stratocruiser,27.0
+01/07/1953,04:12,Fish Haven Idaho,Boeing Field - Cheyenne,Curtiss C-46,40.0
+02/14/1953,17:10,Off Mobile Alabama,Miami - Orlando - New Orleans,Douglas DC-6,46.0
+03/20/1953,18:38,Alvarado California,Roswell - Oakland - Guam,Douglas DC-4  (C-54-10-DO),35.0
+04/20/1953,23:08,San Francisco Bay California,Los Angeles - San Francisco - Oakland,Douglas DC-6B,10.0
+05/02/1953,16:35,Near Jalalogori West Bengal India,Calcutta - Delhi,de Havilland DH106 Comet 1,43.0
+05/17/1953,14:15,Near Marshall Texas,Dallas - Shreveport,Douglas DC-3,20.0
+07/12/1953,08:41,PacifiOcean 325 miles east of Wake Island,Wake Island - Honolulu - Oakland,Douglas DC-6A,58.0
+09/16/1953,08:34,Albany New York,Boston - Hartford - Albany - Chicago,Convair CV-240-0,28.0
+10/19/1953,00:56,New York City New York,New York City - San Juan,Lockheed 749A Constellation,27.0
+10/29/1953,08:44,Near Half Moon Bay California,Sydney - Honolulu - San Francisco,Douglas DC-6,19.0
+01/10/1954,09:50,Off Elba Italy,Rome - London,de Havilland DH106 Comet 1,35.0
+02/26/1954,10:32,Wright Wyoming,Salt Lake City - Cedar City - Rapid City,Convair CV-240,9.0
+04/08/1954,19:10,Off Stromboli Italy,Rome - Cairo,de Havilland DH106 Comet 1,21.0
+08/22/1954,17:03,Near Mason City Iowa,Memphis - Minneapolis,Douglas DC-3,19.0
+09/05/1954,02:30,Foynes Ireland,Shannon - New York City,Lockheed 1049C-55-81 S Constellation,56.0
+11/30/1954,11:15,Berlin New Hampshire,"Laconia, NH - Berlin, NH",Douglas DC-3,7.0
+12/18/1954,14:00,New York New York,Rome - New York City,Douglas DC-6B,32.0
+12/22/1954,23:00,Pittsburgh Pennsylvania,Newark - Tacoma,Douglas DC-3,28.0
+01/19/1955,16:25,Des Moines Iowa,Newark - Des Moines - Lincoln,Convair CV-340,39.0
+02/19/1955,07:31,Albuquerque New Mexico,Albuquerque - Sante Fe,Martin 404,16.0
+02/23/1955,09:20,Salisbury  Zimbabwe,Salisbury - Lusaka,Douglas DC-3,26.0
+03/20/1955,22:36,Springfield Mississippi,Newark - Chicago - St. Louis - Springfield - Tulsa,Convair CV-240-0,35.0
+03/26/1955,11:12,Off the Oregon coast,Portland - Honolulu,Boeing 377 Stratocruiser 10-26,23.0
+07/17/1955,06:24,Chicago Illinois,"Kansas City, MO - Chicago",Convair CV-340-32,43.0
+07/27/1955,07:40,Near Petrich Bulgaria,Wien - Tel Aviv,Lockheed 049 Constellation,58.0
+10/06/1955,07:26,Near Centennial Wyoming,Denver - Salt Lake City - San Francisco,Douglas DC-4,66.0
+11/01/1955,19:03,Longmont Colorado,Denver - Portland,Douglas DC-6B,44.0
+11/17/1955,23:59,Seattle Washingon,Seattle - Newark,Douglas C-54,74.0
+12/21/1955,03:43,Jacksonville Florida,Miami - Jacksonville,Lockheed 749C-79-12 Constellation,17.0
+04/01/1956,19:20,Pittsburgh Pennsylvania,Pittsburgh - Newark,Martin 404,36.0
+04/02/1956,08:10,Seattle Washington,Seattle - Portland,Boeing 377 Stratocruiser 10-30,38.0
+04/09/1956,09:51,Skilak Lake Alaska,Anchorage - Seward,Aero Commander  520,6.0
+06/30/1956,10:32,Grand Canyon Arizona,Los Angeles - Chicago / Los Angeles - Kansas City,Douglas DC-7 / Lockheed S Constellation,128.0
+07/09/1956,13:53,Near Flat Rock Michigan,Chicago - Montreal,Vickers Viscount,35.0
+08/29/1956,20:45,Cold Bay Alaska,Vancouver - Hong Kong,Douglas DC-6B,22.0
+10/02/1956,18:25,Near Nome Alaska,Unalakleet and Nome,Stinson AT-19,5.0
+10/16/1956,06:15,Over the PacifiOcean,Honolulu - San Francisco,Boeing  377 Stratocruiser,31.0
+11/27/1956,07:50,Caracas Venezuela,New York City - Maiquetia,Lockheed 749-79-34 Constellation,25.0
+12/09/1956,19:15,Near Chilliwack British Columbia Canada,Vancouver - Toronto,Canadair DC-4M-2 Northstar,62.0
+01/06/1957,00:01,Owasso Oklahoma,Joplin - Owasso,Convair CV-240-0,10.0
+02/01/1957,18:02,New York New York,New York City - Miami,Douglas DC-6A,101.0
+03/02/1957,17:19,Blyn Washington,Fairbanks - Seattle,Douglas C-54B,5.0
+04/10/1957,15:20,Anchieta Island Brazil,Rio de Janerio - Sao Paulo,Douglas DC-3,30.0
+05/09/1957,19:04,Barajas Madrid Spain,Santiago de Compostella - Madrid,Bristol 170 Freighter,37.0
+06/14/1957,23:10,Near Moscow Russia,Warsaw - Moscow,Ilyushin P-14,13.0
+07/16/1957,03:36,Near Biak Indonesia,Mokmer - Manila,Lockheed 1049C Super Constellation,68.0
+07/25/1957,03:37,Daggett California,Minneapolis -- Salt Lake - Cedar City - Las Vegas- LA,Convair CV-240,16.0
+09/15/1957,20:46,New Bedford Massachusett,Martha's Vineyard - New Bedford,Douglas DC-3,24.0
+11/09/1957,16:27,900 miles E of Honolulu Hawaii PacifiOcean,San Fransisco - Honolulu,Boeing - 377-10-29 Stratocruiser,44.0
+02/06/1958,14:17,Munich Germany,Munich - Manchester,Airspeed Ambassador A5-57,44.0
+04/06/1958,23:19,Freeland Michigan,New York - Detroit - Saginaw - Chicago,Vickers Viscount 745D,47.0
+04/07/1958,09:00,Mt Illiniza Ecuador,Guayaquil - Quito,Douglas DC-3,32.0
+04/21/1958,08:30,Near Sloan 10 miles SW of Las Vegas Nevada,Los Angeles - New York City,Douglas DC-7 / F-100F,49.0
+05/20/1958,11:29,Brunswick Maryland,Pittsburgh - Baltimore,Vickers Viscount 745D / T-33A,11.0
+08/14/1958,03:45,North AtlantiOcean 100 miles W of Galway Bay Ireland,Amsterdam - Shannon - Gander - New York,Lockheed 1049H Super Constellation,99.0
+10/22/1958,11:50,Anzio Italy,London - Napoli,Vickers Viscount 701C,31.0
+11/01/1958,02:01,Nipe Bay Cuba,Miami - Varadero,Vickers Viscount 755D,20.0
+12/26/1958,12:52,Salisbury Zimbabwe,Johannesberg - Salisbury - Brazzaville - Nice - Paris,Douglas DC-6B,70.0
+01/08/1959,20:32,Mt Holston Tennessee,Nashville - Knoxville - Tri-City Aport,Douglas DC-3,10.0
+01/22/1959,15:00,Dabouk Jordan,Jerusalem - Dobouk,Convair CV-240-2,15.0
+02/03/1959,01:00,Mason City Iowa,Mason City - Fargo,Beechcraft Bonanza 35,4.0
+02/03/1959,23:56,La Guardia Airport New York NY,Chicago - New York City,Lockheed  188A Electra,73.0
+05/12/1959,15:29,Charleston West Virginia,Pittsburg - Charleston,Lockheed C-69 Constellation,44.0
+05/12/1959,16:13,Chase Maryland,New York City - Atlanta,Vickers Viscount 745D,31.0
+06/26/1959,17:35,Near Varese Lombardia 20 miles NW of Milan Italy,Milan - Paris,Lockheed 1649A Starliner,68.0
+08/15/1959,16:42,Calverton New York,Training,Boeing 707-123,5.0
+09/24/1959,17:20,Great Sitkin Island Alaska,Shemya - Cold Bay - Adak - Anchorage,Douglas C-54B,16.0
+09/29/1959,23:09,Buffalo Texas,Houston - Dallas,Lockheed 188A Electra,34.0
+10/26/1959,20:18,Santa Maria California,Los Angeles - Oxnard - Santa Maria - Paso Robles,Douglas C-47A-DL,19.0
+10/29/1959,15:25,Athens Greece,Athens - Thessaloniki,Douglas DC-3,18.0
+10/30/1959,20:40,Waynesborough Virginia,"Washington DC - Charlottsville, VA",Douglas DC-3,27.0
+11/04/1959,23:07,St Cleophas Quebec Canada,Montreal - Hall Lake,Douglas C-54A,5.0
+11/16/1959,00:55,Gulf of Mexico,Tampa - New Orleans,Douglas DC-7B,42.0
+11/24/1959,05:35,Chicago Illinois,Chicago - Los Angeles,Lockheed L-1049H Super Constellation,3.0
+12/01/1959,09:47,Willamsport Pennsylvania,Harrisburg - Willamsport,Martin 202,26.0
+01/06/1960,02:38,WilmingtonBolivia North Carolina,New York - Miami,Douglas DC-6B,34.0
+01/18/1960,22:19,Charles City Virginia,Washington D.C. - Norfolk,Vickers Viscount 745D,50.0
+01/19/1960,18:47,Ankara Turkey,Istanbul - Ankara,Sud Aviation Caravelle 1,42.0
+03/17/1960,15:25,Near Cannelton 10 mile SE of Tell City Indiana,Chicago - Miami,Lockheed 188C Electra,63.0
+03/19/1960,11:10,Cordoba Colombia,San Andres - Medellin,Curtiss C-46,46.0
+04/19/1960,20:48,Bogota Colombia,Miami - Medellin - Bogota,Curtiss C-46,51.0
+06/14/1960,04:47,Mt Gilbert Alaska,Cordova - Anchorage,Lockheed 749A-79-32 Constellation,14.0
+07/14/1960,04:30,Off Manila Philippines,Okinawa - Manila,Douglas DC-7C,58.0
+07/15/1960,09:40,Near Jima Ethiopia,Bulchi - Jimma,Douglas DC-3,11.0
+08/29/1960,06:50,Off Dakar Senegal,Paris - Dakar,Lockheed 1049G Super Constellation,63.0
+09/19/1960,06:02,Agana Guam Mariana Islands,Guam - Wake Island,Douglas DC-6AB,94.0
+09/26/1960,23:40,Moscow Russia,Warsaw - Moscow,Vickers Viscount 837,37.0
+09/29/1960,12:15,Off Elba Italy,Geneva - Rome,Vickers Viscount 739B,21.0
+10/04/1960,17:40,Boston Massachusett,Boston - Philadelphia,Lockheed 188A Electra,72.0
+10/28/1960,11:39,Near Missoula Montana,Spokane - Missoula,Douglas C-54A-DC,12.0
+04/03/1961,23:57,Llico Chile,Temuco - Santiago,Douglas DC-3,24.0
+05/10/1961,02:30,Stah Algeria,"Fort Lamy, Chad - Marseilles, France",Lockheed 1649A Starliner,78.0
+12/16/1960,10:33,Staten Island  Brooklyn New York,Chicago - New York City / Columbus - New York City,MD DC-8-11 / Lockheed  1049 S Const,128.0
+12/22/1960,12:31,Cebu City Philippines,Cebu - Davao,Douglas DC-3,37.0
+01/03/1961,07:40,Koivulahti Finland,Kokkola - Vaasa,Douglas DC-3,25.0
+01/19/1961,20:25,New York New York Idlewild,New York - Mexico City,McDonnell Douglas DC-8-21,106.0
+01/24/1961,02:48,Mt Burangrang Indonesia,Jakarta - Bandung,Douglas DC-3,21.0
+02/03/1961,23:55,Off Surabaya Indonesia,Surabaya - Balikpapan,Douglas DC-3,26.0
+02/15/1961,10:05,Near Brussels Belgium,New York City - Brussels,Boeing B-707-320,72.0
+05/30/1961,01:20,Near Lisbon Portugal,"Rome  - Lisbon -  Madrid - Santa Maria, Azores -Caracas",McDonnell Douglas DC-8-53,61.0
+06/12/1961,04:11,Cairo Egypt,Rome - Cairo,Lockheed L-188C Electra,36.0
+07/11/1961,11:36,Denver Colorado,Omaha - Denver,McDonnell Douglas DC-8-12,122.0
+09/01/1961,02:05,Near Hinsdale Illinois,Chicago - Las Vegas,Lockheed 049 Constellation,78.0
+09/12/1961,22:09,Near Rabat Morrocco,Paris - Rabat,Sud-Aviation Caravelle III,77.0
+09/17/1961,08:57,Chicago Illinois,Chicago - Tampa,Lockheed 188C  Electra,37.0
+11/08/1961,21:24,Near Richmond Virginia,Baltimore - Columbia SC,Lockheed C-69 Constellation,79.0
+03/01/1962,10:09,Jamaica Bay New York New York,New York City - Los Angeles,Boeing B-707-123B,95.0
+03/04/1962,18:20,Douala Cameroon,Douala - Lisboa,Douglas DC-7C,111.0
+03/15/1962,01:14,Adak Alaska,"Cold Bay, AK - Adak, AK",Lockheed 1049H Super Constellation,7.0
+03/15/1962,00:30,Western PacifiOcean Philippine Sea,"Travis AFB - Honolulu - Agana, Guam - Clark AFB -Saigon",Lockheed 1049H Super Constellation,107.0
+05/22/1962,21:21,Near Unionville Missouri,"Chicago - Kansas City, MO",Boeing B-707-124,45.0
+06/22/1962,04:01,BasseTerre Guadaloupe West Indies,Paris - Pointe-a Pitre - Santaigo,Boeing B-707-328,112.0
+07/07/1962,23:59,Near Junnar Maharashtra India,Bangkok - Bombay,McDonnell Douglas DC-8-43,94.0
+07/19/1962,15:45,Near Bangkok Thailand,Hong Kong - Bangkok,de Havilland Comet 4C,26.0
+07/22/1962,23:19,Honolulu Hawaii,"Honolulu - Nadi, Fiji",Bristol Britannia 314,40.0
+09/23/1962,21:00,North AtlantiOcean,"Gander, Newfoundland - Frankfurt, Germany",Lockheed 1049H-82 Super Constellation,76.0
+10/19/1962,20:52,Windsor Locks Connecticut,"Washington D.C. - Providence, RI",Convair CV-340/440,52.0
+11/23/1962,12:24,Ellicott Maryland,Newark - Washington D.C.,Vickers Viscount 745D,18.0
+11/23/1962,14:10,Le Bourget France,Frankfurt - Paris,Ilyushin IL-18D,21.0
+11/27/1962,03:40,Lima Peru,Porto Alegre - Lima,Boeing B-707-441,97.0
+11/30/1962,21:45,New York New York,Charlotte - New York City,Douglas DC-7B,51.0
+12/06/1962,17:00,Barranca Bermeja Colombia,Bucaramanga - Barrancabermeja,Douglas C-47,26.0
+12/14/1962,22:12,Burbank California,Chicago - Burbank,Lockheed 1049H Super Constellation,5.0
+01/17/1963,15:53,Great Salt Lake Utah,Training,Fairchild F-27,3.0
+01/29/1963,22:44,Kansas City Missouri,"Midland, TX - Kansas City, MO",Vickers Viscount 812,8.0
+02/01/1963,17:15,Ankara Turkey,Nicosia - Ankara,Vickers Viscount 754D,17.0
+02/12/1963,13:48,Near Miami Florida,Miami - Chicago,Boeing B-720-051B,43.0
+03/02/1963,10:02,Near Davao City Philippines,Cotabato - Davao,Douglas DC-3,27.0
+03/05/1963,18:20,Camden Tennesee,Kansas City - Dyersburg - Nashville,Piper PA-24-250 Comanche,4.0
+03/15/1963,13:55,Near Charana Bolivia,Arica - La Paz,Douglas DC-6B,41.0
+06/03/1963,10:16,PacifiOcean 116 miles WSW of Annette Island Alaska,McChord AFB - Elmendorf AFB,Douglas DC-7CF,101.0
+07/02/1963,15:49,Rochester New York,Rochester - Newark,Martin 404,43.0
+07/03/1963,09:09,Mt Ngatamahinerua New Zealand,Auckland - Whenuapai - Tauranga,Douglas DC-3,23.0
+07/27/1963,01:50,Off Bandra Maharashtra India,Bangkok - Bombay,de Havilland Comet 4C,63.0
+08/12/1963,13:19,Lyon France,Lille - Lyon,Vickers Viscount 708,20.0
+09/04/1963,06:22,Durrenasch Aargau Switzerland,Zurich - Geneva,Sud-Aviation Caravelle III,80.0
+10/14/1963,11:33,Jamaica New York,Idlewild - Newark,Boeing Vetrol 107 II helicopter,6.0
+11/08/1963,17:59,Mariehamn Aaland Island Finland,Turku - Mariehamn,Douglas DC-3,24.0
+11/29/1963,18:33,Ste Therese de Blainville Canada,Montreal - Toronto,McDonnell Douglas DC-8F-54F,118.0
+12/08/1963,20:59,Elkton Maryland,Washington - Baltimore - Philadelphia,Boeing B-707-121,81.0
+02/03/1964,08:00,Gainsville Florida,Gainsville - Jacksonville,Beech D18S,10.0
+02/21/1964,16:00,Marawi Philippines,Cotabato - Malabang - Iligan - Cayagan de Oro,Douglas DC-3,32.0
+02/25/1964,02:06,Lake Pontchartrain New Orleans Louisiana,Mexico City - New Orleans - New York City,McDonnell Douglas DC-8-21,58.0
+02/27/1964,06:15,Oita Japan,Kagoshima - Oita,Convair CV-240-0,42.0
+02/29/1964,14:14,Near Innsbruck Austria,London - Innsbruck,Bristol Britannia 312,83.0
+03/01/1964,11:29,Near Zephyr Cove Nevada,"San Jose, CA - Lake Tahoe",Lockheed 049 Constellation,85.0
+03/10/1964,08:22,Boston Massachutes,New York - Winsor Locks - Boston,Douglas DC-4,3.0
+03/12/1964,20:50,Miles City Montana,Billings - Miles City - Glendive - Sidney,Douglas DC-3C,5.0
+03/28/1964,22:39,Mt Vesuvius Italy,Rome - Napoli,Vickers Viscount 785D,45.0
+03/28/1964,06:00,North PacifiOcean,Honolulu - San Francisco,Douglas C-54A-10-DC,9.0
+05/07/1964,06:49,San Ramon California,Stockton - San Fransisco,Fairchild F-27A,44.0
+11/23/1964,13:09,Rome Italy,Rome - Athens,Boeing B-707-331,73.0
+07/09/1964,18:15,Parrottsville Tennesee,Philidelphia - Washington - Knoxville - Huntsville,Vickers Viscount 745D,39.0
+11/15/1964,20:25,Las Vegas Nevada,Phoenix - Las Vegas,Fairchild F-27A,29.0
+02/06/1965,08:36,San Jose Volcano Chile,Santiago - Buenos Aires,Douglas DC-6B,87.0
+02/08/1965,18:26,Off Jones Beach New York New York,New York City - Richmond VA,Douglas DC-7B,84.0
+03/08/1965,10:30,Libmanan Philippines,Manila - Naga,Douglas DC-3,12.0
+03/17/1965,09:22,Musquodoboit Canada,Halifax - Sidney NS,Handley Page HPR-7 Herald 211,8.0
+03/22/1965,14:55,Sugar Loaf Mountain Colombia,Bogota - Bucaramanga,Douglas C-47,28.0
+04/23/1965,14:23,Near Seattle Washington,"Seattle, WA - Ogden, UT",Douglas DC-6A,5.0
+05/20/1965,23:48,Cairo Egypt,Karachi - Dhahran - Cairo - Geneva - London,Boeing B-720-040B,125.0
+07/01/1965,05:29,Kansas City Missouri,"Los Angeles - Kansas City, MO",Boeing B-707-124,66.0
+07/08/1965,16:40,Dog Creek British Columbia Canada,Vancouver - Whitehorse,Douglas DC-6B,52.0
+07/11/1965,22:22,Off Nantucket Massachusetts,Otis AFB,EC-121H (Super Constellation),19.0
+08/16/1965,20:21,Lake Michigan near Chicago Illinois,New York City - Chicago,Boeing B-727-22,30.0
+09/11/1965,16:25,Near La Carlota Phillipines,Cebu - Bacolod,Douglas DC-3A,11.0
+09/17/1965,11:25,Montserrat Antigua,"Fort de France - Saint Johns, Antigua",Boeing B-707-121B,30.0
+10/20/1965,10:33,Near Manila Philippines,Manila - Tacloban,Douglas DC-3,37.0
+11/08/1965,19:02,Cincinnati Airport near Covington Kentucky,New York City - Cincinnati,Boeing B-727-23,62.0
+11/11/1965,17:52,Salt Lake City Utah,Denver - Salt Lake City,Boeing B-727-22,91.0
+11/27/1965,07:15,Salt Lake City  Utah,Salt Lake - Albuquerque,Douglas C-53-DO (DC-3A),13.0
+12/04/1965,16:18,Carmel New York,Boston - Newark,Boeing B-707-131B / L1049C Constellation,112.0
+12/16/1965,17:22,Legaspi Philippines,Manila - Legazpi,Douglas DC-3A,21.0
+01/15/1966,20:55,Off Cartagena Colombia,Bogata - Crespo,Douglas DC-6-54B,64.0
+01/24/1966,08:02,Mont Blanc French Alps Switzerland,Bombay - Beirut  - Geneva - Paris - London -New York,Boeing B-707-437,117.0
+01/28/1966,17:50,Bremen Germany,Frankfurt - Bremen,Convair CV-440-0,46.0
+02/04/1966,19:00,Tokyo Bay Japan,Chitose - Tokyo,Boeing B-727-81,133.0
+03/04/1966,20:15,Near Tokyo Japan,Hong Kong - Tokyo,McDonnell Douglas DC-8-43,72.0
+03/05/1966,14:15,Near Gotemba City Mt Fuji Japan,Tokyo - Hong Kong,Boeing B-707-436,124.0
+03/18/1966,18:40,Cairo Egypt,Nicosia - Cairo,Antonov AN-24B,30.0
+04/22/1966,20:30,Near Ardmore Oklahoma,Monterey - Ardmore,Lockheed 188C Electra,98.0
+04/27/1966,08:05,Tomas Peru,Lima - Cuzco,Lockheed 749A Constellation,49.0
+06/29/1966,12:04,Sagalyan Philippines,Mamburao - San Jose,Douglas DC-3,26.0
+08/06/1966,23:12,Near Falls City Nebraska,"Kansas City, MO - Omaha",BAC One-Eleven 203AE,42.0
+09/01/1966,00:47,Near Ljubljana Slovenia Yugoslavia,Luton - Ljubljana,Bristol Britannia 102,117.0
+09/22/1966,13:03,Winton Australia,Mount Isa - Longreach,Vickers Viscount 832,24.0
+10/01/1966,19:10,Near Wemme Oregon,Eugene - Portland,McDonnell Douglas DC-9-14,18.0
+11/11/1966,01:43,Off Chatham Massachusetts,Otis AFB,Lockheed EC-121H,19.0
+11/13/1966,20:30,Off Matsuyama Japan,Osaka - Matsuyama,NAMC-YS-11-111,50.0
+11/24/1966,16:30,Near Bratislava Czechoslovakia,Bratislava - Praha,Ilyushin IL-18B,82.0
+12/24/1966,09:56,Cascubel River Colombia,Bogota - Cali,Douglas C-47A-80-DL,29.0
+02/16/1967,14:21,Menado Indonesia,Jakarta - Menado via Surabaya,Lockheed L-188C Electra,63.0
+02/28/1967,04:20,Mactan Philippines,Manila - Mactan,Fokker F-27 Friendship 100,20.0
+03/04/1967,02:56,Monrovia Liberia,Rome - Monrovia,McDonnell Douglas DC-8-33,90.0
+03/05/1967,20:07,Near Marseille Ohio,Colombus - Toledo,Convair CV-380,38.0
+03/09/1967,11:54,Urbana Ohio,Pittsburgh - Dayton,MD Douglas DC-9-15 / Beechcraft Baron-55,26.0
+03/13/1967,17:10,Off East London South Africa,Port Elizabeth - East London,Vickers Viscount 818,25.0
+03/30/1967,00:45,New Orleans Louisiana,New Orleans AP - New Orleans AP,McDonnell Douglas DC-8-51,6.0
+04/25/1967,19:05,Off Nantucket Massachusetts,Otis AFB,EC-121H (Super Constellation),15.0
+06/23/1967,13:47,Blossburg Pennsylvania,Elmira - Washington DC,BAC One Eleven 204AF,34.0
+07/06/1967,18:43,Bacolod Philippines,Bacolod - Mactan,Fokker F-27 Friendship 100,21.0
+07/19/1967,11:01,Near Hendersonville North Carolina,Ashville - Roanoke,Boeing B-727-22 / Cessna 310,82.0
+09/05/1967,05:10,Near Gander Newfoundland Canada,Gander - Havana,Ilyushin IL-18,69.0
+10/12/1967,07:25,Off Rhodes Greece,Athens - Nicosia,de Havilland Comet 4B,66.0
+11/05/1967,10:35,Hong Kong China,Hong Kong - Saigon,Convair CV-880-22M-3,127.0
+11/06/1967,18:41,Cincinnati Ohio,Cincinnati - Los Angeles,Boeing B-707-131,36.0
+11/20/1967,20:57,Cincinnati International Airport CovingtonHebron Kentucky,Los Angeles - Cincinnati,Convair CV-880-22-1,82.0
+12/10/1967,15:25,Near Madison Wisconsin,"Cleveland, OH - Madison WI",Beechcraft 18H,8.0
+12/25/1967,13:49,Chiang Mai Thailand,Bangkok - Chiang Mai,Douglas DC-3,31.0
+02/16/1968,21:20,Linkuo Taiwan,Hong Kong - Taipei,Boeing B-727-92C,63.0
+03/06/1968,20:32,BasseTerre Guadeloupe West Indies,Caracas - Pointe a Pitre,Boeing B-707-328C,63.0
+03/08/1968,19:18,Off Panay Island Philippines,Manila - Lapu Lapu,Fairchild F-27,14.0
+03/24/1968,10:59,Off Wexford Harbor Ireland,Cork - London,Vickers Viscount 803,61.0
+04/08/1968,15:35,Heathrow Airport London England,London - Zurich,Boeing B-707-465,127.0
+04/20/1968,18:50,Near Windhoek South Africa Namibia,Windhoek - Luanda,Boeing B-707-344C,128.0
+05/03/1968,15:48,Near Dawson Texas,Houston - Dallas-Fort Worth,Lockheed L188A Electra,85.0
+08/10/1968,07:57,Charleston West Virginia,"Cincinnati - Charlston, WV",Fairchild-Hiller FH-227B,37.0
+09/11/1968,10:30,Off Cap dAntibes France,Ajaccio - Nice,Sud-Aviation Caravelle 3,95.0
+10/25/1968,17:17,Hanover New Hampshire,"Boston, MA - Montpelier, VT - Lebanon, NH",Fairchild-Hiller FH227C,42.0
+11/22/1968,01:24,San Francisco California,Tokyo - San Francisco,McDonnell Douglas DC-8-62,107.0
+11/23/1968,19:59,Santa Ana California,Los Angeles - Santa Ana,de Havilland Canada DHC-6 Twin Otter 200,9.0
+12/02/1968,09:36,Pedro Bay Alaska,Anchorage - Iliamna,Fairchild F-27B,39.0
+12/12/1968,22:02,Near Caracas Venezuela,New York City - Caracas,Boeing B-707-321B,51.0
+12/24/1968,20:12,Bradford Pennsylvania,Detroit - Erie - Bradford - Washington D.C.,Convair CV-580,47.0
+12/27/1968,20:22,Chicago Illinois,Minneapolis - Chicago - Milwaukee,Convair CV-580,45.0
+12/31/1968,08:30,Port Hedland WA Australia,Perth - Port Hedland,Vickers Viscount 720,26.0
+01/02/1969,20:12,Mt Paku Taiwan,Kaohsiung - Hualien,Douglas DC-3D,24.0
+01/05/1969,02:35,Gatwick Airport Horley Surrey  England,Frankfurt - London,Boeing B-727-113C,65.0
+01/06/1969,20:35,Near Bradford Pennsylvania,Washington - Harrisburgh - Bradford - Erie - Detroit,Convair CV-580,28.0
+01/13/1969,19:21,Off Los Angeles California,Copenhagen - Los Angeles - Seattle,McDonnell Douglas DC-8-62,45.0
+01/18/1969,18:21,Off Los Angeles California,Los Angeles - Denver - Milwaukee,Boeing B-727-22QC,38.0
+02/18/1969,05:10,Near Lone Pine California,"Hawthorne, NV - Burbank - Long Beach",Douglas DC-3,35.0
+03/16/1969,12:00,Maracaibo Zulia Venezuela,Maracaibo - Miami,McDonnell Douglas DC-9-32,84.0
+06/04/1969,08:42,Near Salinas Victoria Nuevo Leon Mexico,Mexico City - Monterey,Boeing B-727-64,79.0
+07/06/1969,20:22,Near Monroe Georgia,"Atlanta, GA - Sumpter, SC - Greer, SC",Beechcraft B-99,14.0
+08/31/1969,20:05,Newton Iowa,Chicago - Des Moines.,Cessna 172H,3.0
+09/09/1969,14:29,Near Fairland Indiana,Indianapolis - Bakalar AFB,MD Douglas DC-9-31/Piper Cherokee PA-28,83.0
+09/17/1969,17:09,Campbell River Canada,Vancouver - Campbell River,Convair CV-640,15.0
+11/19/1969,20:20,Mt Pilot Knob Glen Falls New York,Albany - Glenn Falls,Fairchild-Hiller FH-227B,14.0
+11/20/1969,08:30,Near Ikeja Nigeria,Kano - Lagos,BAC VC-10-1101,87.0
+01/13/1970,06:00,Faleolo Western Samoa,"Apia, Western Samoa - Pago Pago, American Samoa",Douglas DC-3,32.0
+02/10/1970,18:37,Long Island Sound Connecticut,"Groton, CT - New York, NY",de Havilland Canada DHC-6 Twin Otter 100,5.0
+02/21/1970,13:34,Zurich Switzerland,Zurich - Tel Aviv,Convair CV-990-30A-6,47.0
+05/02/1970,15:49,Near St Croix US Virgin Islands,New York City - St. Maarten,McDonnell Douglas DC-9-33CF,63.0
+05/09/1970,21:28,Pellston Michigan,Detroit - Pellston,Gates Learjet 23,6.0
+05/30/1970,09:30,Chamblee Georgia,"Chamblee, GA - Fort Myers,FL",Martin 404,33.0
+07/05/1970,08:09,Toronto Canada,Montreal - Toronto - Los Angeles,McDonnell Douglas DC-8-63,109.0
+07/27/1970,11:35,Tokyo Japan,Tokyo - Okinawa,McDonnell Douglas DC-8-63AF,4.0
+09/08/1970,16:06,New York New York,"Jamaica, NY - Washington D.C.",McDonnell Douglas DC-8-63CF,11.0
+10/02/1970,12:00,Mt Trelease near Silver Plume Colorado,"Wichita - Denver - Logan, Utah",Martin 404,40.0
+11/14/1970,19:36,Near Huntington West Virginia,"Kingston, NC - Huntington, WV",McDonnell Douglas DC-9-31,75.0
+11/27/1970,17:05,Anchorage Alaska,Anchorage - Yokota AFB,McDonnell Douglas DC-8-63CF,229.0
+12/28/1970,14:42,St Thomas Virgin Islands,New York - St. Thomas,Boeing B-727-2A7,55.0
+01/09/1971,16:20,Edison New Jersey,"San Francisco, CA - Newark, NJ",Boeing B-707-323 / Cessna 150,21.0
+01/18/1971,15:49,Zurich Switzerland,Paris - Zurich - Sofia,Ilyushin IL-18,47.0
+03/31/1971,06:33,Ontario California,Los Angeles - Ontairo,Boeing B-720-047B,5.0
+05/23/1971,20:00,Near Rijeka Yugoslavia,London - Rijeka,Tupolev TU-134A,83.0
+06/06/1971,17:11,Near Duarte California,Los Angeles - Salt Lake City,McDonnell Douglas DC-9-31 / F4-B,51.0
+06/07/1971,08:49,New Haven Connecticut,"Washington D.C. - Newport News, VA - Philadelphia",Convair CV-580,31.0
+07/03/1971,18:10,Hokkaido Japan,Sapporo - Hakodate,NAMC YS-11A-227,68.0
+07/30/1971,14:00,Near Morioko Japan,Sapporo - Tokyo,Boeing B-727-281 / Air Force F86F,164.0
+07/30/1971,14:29,San Francisco California,San Francisco - Los Angeles,Boeing B-747-121,218.0
+09/04/1971,11:15,Near Juneau Alaska,Anchorage - Seattle,Boeing B-727-193,111.0
+10/02/1971,11:10,Near Aarsele West Vlaanderen Belgium,London - Salzburg,Vickers Vanguard 951,63.0
+12/24/1971,12:36,Near Puerto Inca Huanuco Peru,Lima - Pucallpa,Lockheed 188A Electra,92.0
+01/07/1972,22:00,Sierra de Atalayasa Spain,Valencia - Ibiza,Sud-Aviation Caravelle VI-R,104.0
+01/26/1972,16:10,Near Hermsdorf Czechoslovakia,Stockholm - Belgrade,McDonnell Douglas DC-9-32,28.0
+03/03/1972,20:48,Albany New York,"New York City - Albany, NY",Fairchild-Hiller FH-227-B,48.0
+03/14/1972,22:00,Near Al Fujayrah United Arab Emirates,Colombo - Dubai,Aerospatiale Caravelle Super 10B,112.0
+04/18/1972,09:39,Addis Ababa Ethiopia,Addis Ababa - Rome,BAC Super VC-10 1154,107.0
+05/05/1972,22:24,Near Carini Sicily Italy,Rome - Palermo,McDonnell Douglas DC-8-43,115.0
+05/30/1972,06:24,DallasFt Worth Texas,Training,McDonnell Douglas DC-9-14,4.0
+06/14/1972,20:20,Near New Delhi India,Bangkok - Delhi,McDonnell Douglas DC-8-53,87.0
+06/15/1972,14:00,Near Pleiku Vietnam,Bangkok - Hong Kong,Convair CV-880-22M-21,81.0
+06/18/1972,16:11,London Heathrow  Staines Surrey England,London - Brussels,Hawker Siddeley Trident 1C,118.0
+06/24/1972,23:17,Ponce Puerto Rico,San Juan - Ponce,de Havilland DH-114 Heron 2B,20.0
+06/29/1972,09:37,Appleton Wisconsin,"Chicago, IL - Appleton, WI - Sheboygan, WI",Convair CV-580/De Hav. Twin Otter 100,13.0
+10/27/1972,19:20,Near Noiretable Loire France,Lyon - Clermont,Vickers Viscount 724,68.0
+11/28/1972,19:51,Near Moscow Russia,Moscow - Tokyo,McDonnell Douglas DC-8-62,76.0
+12/08/1972,14:28,Chicago Midway Airport Illinois,Washington - Chicago,Boeing B-737-222,61.0
+12/20/1972,18:00,Chicago Illinois,Tampa - Chicago / Chicago - Madison,Convair CV-880 / McDonnell DC-9-31,133.0
+12/29/1972,23:42,Everglades National Park Florida,New York City - Miami,Lockheed L-1011 TriStar1,176.0
+02/21/1973,14:10,Near Ismailiya Egypt,Tripoli - Cairo,Boeing B-727-224,113.0
+03/03/1973,12:45,Moscow Russia,Sofia - Moscow,Ilyushin IL-18V,25.0
+03/05/1973,13:50,Near Nantes France,Palma de Mallorca - London,MD Douglas DC-9-32/Convair CV-990A,182.0
+07/11/1973,14:03,Paris Orly France,Rio - de Janerio - Paris,Boeing B-707-345C,134.0
+07/22/1973,22:07,Off Papeete Tahiti,"Auckland, NZ - Papeete, Tahiti - Honolulu - Los Angeles",Boeing B-707-321B,79.0
+07/23/1973,16:43,St Louis Missouri,"Marion, IL - St. Louis",Fairchild-Hiller FH-227B,44.0
+07/31/1973,10:08,Logan Airport Boston Massachusett,"Burlilngton, VT  - Boston, MA",McDonnell Douglas DC-9-31,89.0
+10/13/1973,20:15,Near  Domodedovo Russia,Tbilisi - Moscow,Tupolev TU-104B,119.0
+08/13/1973,11:40,Near La  Corunda Spain,Madrid - La Coruna,Sud-Aviation Caravelle 10-R,85.0
+08/28/1973,20:50,Thirtyfive miles west of Los Angeles California,Honolulu - Los Angeles,Boeing B-707-331B,149.0
+09/20/1973,22:45,Natchitoches Louisiana,"Natchitoches, La - Dallas, TX",Beechcraft E18S,6.0
+09/27/1973,19:52,Rich Mountain Arkansas,Memphis - El Dorado - Texarkana - Dallas,Convair 600,11.0
+11/03/1973,16:40,Near Albuquerque  New Mexico,"Miami, FL - San Francisco, CA",McDonnell Douglas DC-10-10,128.0
+11/03/1973,09:39,Boston Massachusett,New York City - Prestwick,Boeing B-707-321C,3.0
+12/17/1973,13:00,Rome Italy,Rome - Beirut,Boeing B-707-321B,177.0
+01/30/1974,23:41,Pago Pago American Samoa,Auckland - Pago Pago,Boeing B-707-321B,101.0
+03/03/1974,11:41,Near Ermenonville France,Paris - London,McDonnell Douglas DC-10-10,346.0
+03/13/1974,19:28,Bishop California,Bishop - Burbank,Convair CV-440,36.0
+04/22/1974,15:26,Grogak Bali Indonesia,"Hong Kong - Bali, Indonesia - Sydney, Austrailia",Boeing B-707-321C,107.0
+06/08/1974,17:30,Monte San Isidro  Colombia,Bucaramanga - Cucuta,Vickers Viscount 785D,44.0
+09/08/1974,09:40,Ionian Sea  off Kefallinia Greece,Tel Aviv - Athens - Rome - New York,Boeing B-707-331B,88.0
+09/11/1974,07:34,Near Charlotte North Carolina,"Charleston, SC - Charlotte, NC - Chicago, IL",McDonnell Douglas DC-9-31,82.0
+09/15/1974,11:00,Phan Rang Vietnam,Da Nang - Saigon,Boeing B-727-121C,75.0
+11/20/1974,07:50,Near Nairobi Kenya,Nairobi - Johannesburg,Boeing B-747-130,157.0
+12/01/1974,19:26,Bear Mountain  Thiells New York,"New York City, NY - Buffalo, NY",Boeing B-727-251,3.0
+12/01/1974,11:10,Near Berryville Virginia,Columbus - Washington D.C.,Boeing B-727-231,92.0
+01/09/1975,16:07,Whittier California,Ontario - Los Angeles,de Hav Can. DHC-6 Tw Otter 100/ Cessna,14.0
+06/24/1975,16:05,JFK Airport New York New York,New Orleans - New York City,Boeing B-727-225,124.0
+08/07/1975,16:11,Denver Colorado,Denver - Wichita,Boeing B-727-224,131.0
+08/20/1975,01:15,Near Damascus Syria,"Prague, Czechoslovakia - Damascus, Syria",Ilyushin IL-62,128.0
+08/30/1975,13:57,Near Gambell Alaska,Nome - Gambell,Fairchild F-27B,32.0
+01/01/1976,05:30,Near Al Qaysumah Saudi Arabia,Beirut - Dubai,Boeing B-720B-023B,82.0
+04/05/1976,08:19,Ketchikan Alaska,Juneau - Ketchikan,Boeing B-727-81,50.0
+04/27/1976,15:10,St Thomas Virgin Islands,New York City - Saint Thomas,Boeing B-727-95,88.0
+05/09/1976,16:30,Near Cuneca Spain,"Terhan, Iran - Madrid, Spain - McGuire AFB, New Jersey",Boeing B-747-131F,17.0
+06/04/1976,14:48,Agana Guam,Wake Island - Guam - Manila,Lockheed 188A Electra,45.0
+09/09/1976,14:50,Off Adler Russia,Donetsk - Sochi /Rostov na Donu - Kerch,Antonov AN-24 / Yakovlev Yak-40,90.0
+09/10/1976,10:15,Near Gaj Hrvatska Yugoslavia,Split - Koln / London - Istanbul,McDonnell Douglas DC-9-31 / Trident 3B,176.0
+10/06/1976,13:24,Off Bridgetown Barbados,Bridgetown - Kingston,McDonnell Douglas DC-8-43,73.0
+12/12/1976,23:26,Cape May New Jersey,AtlantiCity - Cap May,de Havilland Canada DHC-6 Twin Otter 300,10.0
+12/25/1976,03:45,Near Bangkok Thailand,Cairo - Bangkok,Boeing B-707-366C,53.0
+01/13/1977,18:15,Near Alma Ata  Kazakastan USSR,Novosibirsk - Alma Ata,Tupolev TU-104A,96.0
+03/27/1977,17:07,Tenerife Canary Islands,Tenerife - Las Palmas / Tenerife - Las Palmas,Boeing B-747-121 / Boeing B-747-206B,644.0
+04/04/1977,16:19,New Hope Georgia,Huntsville - Atlanta,McDonnell Douglas DC-9-31,85.0
+09/06/1977,14:52,Mt Iliamna Alaska,Iliamna - Anchorage,de Havilland Canada DHC-6 Twin Otter 200,13.0
+11/19/1977,21:48,Near Funchal Island of Madeira Portugal,Brussels - Funchal,Boeing B-727-282,164.0
+12/04/1977,20:15,Straits of Johore near Kampung Ladang Malaysia,Penang - Kuala Lumpur,Boeing B-737-2H6,100.0
+12/13/1977,19:22,Evansville Indiana,Evansville - Nashville,Douglas DC-3,29.0
+01/01/1978,20:15,Off Bandra Maharashtra India,Bombay - Dubai,Boeing B-747-237B,213.0
+02/10/1978,16:50,Richland Washington,"Richland, WA - Seattle, WA",Beechcraft 99,17.0
+02/11/1978,12:55,Cranbrook British Columbia Canada,Calgary - Cranbrook,Boeing B-737-275,49.0
+03/01/1978,09:25,LAX Los Angeles California,Los Angeles - Honolulu,McDonnell Douglas DC-10-10,200.0
+05/08/1978,21:20,Pensacola Florida,"Miami, FL - Pensacola, FL - Mobile, AL",Boeing B-727-235,58.0
+06/26/1978,08:08,Toronto Canada,Toronto - Winnipeg,McDonnell Douglas DC-9-32,107.0
+09/03/1978,17:30,Near Kariba Rhodesia Zimbabwe,Kariba - Salisbury,Vickers Viscount 782D,56.0
+09/25/1978,09:02,San Diego California,Los Angeles - San Diego,Boeing B-727-214 / Cessna 172,137.0
+12/04/1978,19:45,Near Steamboat Springs Coloado,Steamboat Springs - Denver,de Havilland Canada DHC-6 Twin Otter 300,22.0
+12/23/1978,00:39,Near Cinisi Sicily Italy,Rome - Palermo,McDonnell Douglas DC-9-32,129.0
+12/28/1978,18:15,Portland Oregon,Denver - Portland,McDonnell Douglas DC-8-61,189.0
+02/12/1979,13:00,Clarksburg West Virginia,Clarksburg - Washington DC,Nord 262,25.0
+03/06/1979,18:55,Near Probolinggo Indonesia,Denpasar - Surabaya,Fokker F-28 Fellowship 1000,4.0
+03/10/1979,17:52,Off Marina del Rey California,New York - Santa Monica,Aerospatiale Nord 262A-33,7.0
+05/25/1979,15:04,Chicago OHare Illinois,"Chicago, IL- Los Angeles, CA",McDonnell Douglas DC-10-10,271.0
+05/30/1979,20:55,Rockland Maine,Boston - Rockland,de Havilland DHC-6-200,18.0
+06/17/1979,22:48,Hyannis Massachusetts,"New York, NY - Hyannis, MA",de Havilland Canada DHC-6 Twin Otter 300,10.0
+07/24/1979,09:22,St Croix Virgin Islands,St. Croix - St. Kitts,de Havilland DH-114 Heron,21.0
+08/11/1979,13:35,Dneprodzerzhinsk Ukraine USSR,Tashkent - Donetsk - Minsk /Chelyabinsk to Kishinev,Tupolev TU-134A / Tupolev Tu-134A,178.0
+09/14/1979,20:47,Near Klamath Falls Oregon,Redmond - Klamath Falls - Medford,Douglas DC-7,12.0
+10/31/1979,05:42,Mexico City Mexico,"Los Angeles, CA  - Mexico City, Mexico",McDonnell Douglas DC-10-10,88.0
+11/26/1979,02:03,Near At Taif Jeddah Saudi Arabia,Jeddah - Karachi,Boeing B-707-340C,156.0
+11/28/1979,12:49,Near Mt Erebus Ross Ice Shelf Antarctica,Auckland - Christchurch,McDonnell Douglas DC-10-30,257.0
+03/14/1980,11:00,Near Warsaw Poland,New York City - Warsaw,Ilyushin IL-62,87.0
+04/25/1980,13:21,Tenerife Canary Islands,Manchester - Tenerife,Boeing B-727-64,146.0
+04/27/1980,06:55,Don Muang Thailand,Khon Kaen - Bangkok,Hawker Siddeley HS-748-2,53.0
+06/12/1980,15:46,Valley Nebraska,"Appleton, WI - Minneapolis, MN, - Lincoln, NE",Swearingen 226TC Metro II,15.0
+06/27/1980,20:59,Tyrrhenian Sea  off Ustica Italy,Bologna - Palermo,McDonnell Douglas DC-9-15,81.0
+07/07/1980,00:39,Nar AlmaAta Kasakastan USSR,Alma Ata - Simferopol,Tupolev TU-154B,166.0
+08/19/1980,19:08,Near Riyadh Saudi Arabia,Riyadh - Jeddah,Lockheed 1011-200 TriStar,301.0
+01/20/1981,11:27,Spokane Washington,Moses Lake - Spokane,Beechcraft 99A,9.0
+04/17/1981,16:01,Loveland Colorado,"Denver, CO - Gillette, WY",Hadley Page 137Jetstream I / Cessna 206,19.0
+05/07/1981,10:53,Rio de la Plata Argentina,Tucuman - Buenos Aires,BAC One-Eleven 529FR,31.0
+08/22/1981,10:00,Near Sanyi Miaoli Taiwan,Taipei - Kaohsiung,Boeing B-737-222,110.0
+10/06/1981,17:12,Moerdijk Netherlands,Rotterdam - Eindhoven - Hamburgh,Fokker F-28 Fellowship 4000,17.0
+12/01/1981,08:53,Mt San Pietro near Ajaccio Corsica France,Ljubljana - Ajaccio,McDonnell Douglas MD-81,180.0
+01/13/1982,16:01,Washington DC,"Washington D.C. - Fort Lauderdale, FL",Boeing B-737-222,79.0
+01/23/1982,19:36,Logan Airport  Boston Massachusett,"Newark, NJ - Boston, MA",McDonnell Douglas DC-10-30CF,212.0
+02/09/1982,08:47,Tokyo Japan,Fukuoka - Tokyo,McDonnell Douglas DC-8-61,174.0
+02/21/1982,15:33,Providence Rhode Island,New York City - Bridgeport - New Haven - Groton - Boston,de Havilland DHC -6-100,12.0
+03/11/1982,13:26,Mehamn Norway,Berlevag - Mehamn,de Havilland Canada DHC-6 Twin Otter 300,15.0
+06/24/1982,20:44,Mount Galunggung Indonesia,Kuala Lampur - Perth,Boeing B-747,257.0
+06/28/1982,10:50,Southern Belarus USSR,Leningrad - Kiev,Yakovlev YAK-42,132.0
+04/26/1982,16:45,Near Yangshuo Guangxi China,Guangzhou - Guilin,Hawker Siddeley Trident 2E,112.0
+06/08/1982,02:25,Near Pacatuba Brazil,Rio de Janerio - Fortaleza,Boeing B-727-212A,137.0
+07/09/1982,16:09,Kenner Louisiana,New Orleans - Las Vegas,Boeing B-727-235,145.0
+09/13/1982,12:00,Near Malaga Spain,Malaga - New York City,McDonnell Douglas DC-10-30CF,394.0
+12/09/1982,13:27,La Serena Chile,Santiago - La Serena,Fairchild F-27J,46.0
